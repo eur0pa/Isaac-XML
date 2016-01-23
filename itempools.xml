@@ -1853,8 +1853,6 @@
 		
 		<Item DecreaseBy="0.5" Id="248" RemoveOn="0.1" Weight="1" />
 		
-		<Item DecreaseBy="0.5" Id="227" RemoveOn="0.1" Weight="1" />
-		
 		<Item DecreaseBy="0.5" Id="208" RemoveOn="0.1" Weight="1" />
 		
 		<Item DecreaseBy="0.5" Id="204" RemoveOn="0.1" Weight="1" />
@@ -2108,8 +2106,6 @@
 		<Item DecreaseBy="0.4" Id="361" RemoveOn="0.1" Weight="1" />
 		
 		<Item DecreaseBy="0.4" Id="50" RemoveOn="0.1" Weight="1" />
-		
-		<Item DecreaseBy="0.4" Id="429" RemoveOn="0.1" Weight="1" />
 	</Pool>
 	<Pool Name="bombBum">
 		

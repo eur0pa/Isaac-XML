@@ -355,6 +355,7 @@
 	<costume anm2path="344_matchbook.anm2" id="344" type="passive" />
 	<costume anm2path="345_Synthoil.anm2" id="345" type="passive" />
 	
+	<costume anm2path="350_ToxicShock.anm2" id="350" type="passive" />
 	<costume anm2path="353_bomberboy.anm2" id="353" type="passive" />
 	<costume anm2path="354_crackerjacks.anm2" id="354" type="passive" />	
 	<costume anm2path="355_momspearls.anm2" id="355" type="passive" />	
@@ -362,13 +363,16 @@
 	<costume anm2path="358_TheWiz.anm2" hasSkinAlt="true" id="358" type="passive" />
 	<costume anm2path="359_8InchNail.anm2" id="359" type="passive" />
 	<costume anm2path="366_scatterbombs.anm2" id="366" type="passive" />
+	<costume anm2path="367_stickybombs.anm2" id="367" type="passive" />
 	<costume anm2path="368_Epiphora.anm2" id="368" type="passive" />
 	<costume anm2path="369_continuum.anm2" hasSkinAlt="true" id="369" type="passive" />
 	<costume anm2path="370_MrDolly.anm2" id="370" type="passive" />
+	<costume anm2path="371_CurseOfTheTower.anm2" id="371" type="passive" />
 	<costume anm2path="373_Deadeye.anm2" id="373" type="passive" />
 	<costume anm2path="374_Holylight.anm2" id="374" type="passive" />
 	<costume anm2path="375_HostHat.anm2" id="375" type="passive" />	
 	<costume anm2path="377_burstingsack.anm2" id="377" type="passive" />	
+	<costume anm2path="378_No2.anm2" id="378" type="passive" />
 	<costume anm2path="379_pupuladuplex.anm2" id="379" type="passive" />
 	<costume anm2path="380_PayToPlay.anm2" id="380" type="passive" />
 	<costume anm2path="381_EdensBlessing.anm2" id="381" type="passive" />
@@ -378,6 +382,7 @@
 	<costume anm2path="394_Marked.anm2" id="394" type="passive" />
 	<costume anm2path="395_techx.anm2" id="395" type="passive" />
 	<costume anm2path="397_TractorBeam.anm2" id="397" type="passive" />
+	<costume anm2path="398_GodsFlesh.anm2" hasSkinAlt="true" id="398" type="passive" />
 	<costume anm2path="399_MawOfTheVoid.anm2" id="399" overwriteColor="true" priority="200" skinColor="1" type="passive" />
 	<costume anm2path="402_Chaos.anm2" hasSkinAlt="true" id="402" type="passive" />
 	<costume anm2path="407_Purity.anm2" id="407" type="passive" />
@@ -390,9 +395,11 @@
 	<costume anm2path="414_moreoptions.anm2" id="414" type="passive" />	
 	
 	<costume anm2path="418_FruitCake.anm2" hasSkinAlt="true" id="418" type="passive" />
+	<costume anm2path="420_BlackPowder.anm2" id="420" type="passive" />
 	<costume anm2path="424_SackHead.anm2" id="424" type="passive" />
 	<costume anm2path="425_NightLight.anm2" id="425" type="passive" />
 	<costume anm2path="428_PJs.anm2" id="428" type="passive" />
+	<costume anm2path="429_HeadOfTheKeeper.anm2" id="429" type="passive" />
 	<costume anm2path="432_glitterbombs.anm2" hasOverlay="true" id="432" type="passive" />
 	<costume anm2path="433_MyShadow.anm2" id="433" type="passive" />
 	<costume anm2path="438_Binky.anm2" id="438" type="passive" />

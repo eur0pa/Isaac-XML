@@ -587,7 +587,7 @@
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
 	    <preload-snd id="8" /> <!-- BOOK_PAGE_TURN_12 -->
     </entity>
-    <entity anm2path="005.340_Big Chest.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Big Chest" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="340">
+    <entity anm2path="005.340_Big Chest.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="18" friction="1" id="5" name="Big Chest" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="340">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
     </entity>
     <entity anm2path="005.350_Trinket.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Trinket" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="350">
@@ -1791,7 +1791,7 @@
 		<preload id="1000" variant="50" subtype="1" />
 		<preload-snd id="5" /> <!-- SOUND_BLOOD_LASER -->
     </entity>
-    <entity id="260" variant="10" name="Lil' Haunt" baseHP="25" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="16" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="11" portrait="64" anm2path="260.010_Lil Haunt.anm2" gridCollision="none">
+    <entity id="260" variant="10" name="Lil' Haunt" baseHP="25" stageHP="0" boss="1" champion="0" collisionDamage="1" collisionMass="16" collisionRadius="13" friction="1" numGridCollisionPoints="12" shadowSize="11" portrait="64" anm2path="260.010_Lil Haunt.anm2" gridCollision="none">
         <gibs amount="6" blood="1" bone="0" eye="0" gut="0" large="0" />
     </entity>
     <entity id="261" variant="0" name="Dingle" baseHP="300" stageHP="0" boss="1" bossID="44" champion="0" collisionDamage="1" collisionMass="75" collisionRadius="20" friction="1" numGridCollisionPoints="12" shadowSize="28" portrait="65" anm2path="261.000_Dingle.anm2">
@@ -2413,6 +2413,9 @@
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
     </entity>
     <entity anm2path="1000.103_UltraGreedBling.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Ultra Greed Bling" numGridCollisionPoints="1" shadowSize="0" stageHP="0" variant="103">
+      <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="1000.104_Fireworks.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Fireworks" numGridCollisionPoints="1" shadowSize="0" stageHP="0" variant="104">
       <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
     </entity>
     <entity anm2path="" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="1" id="9001" name="Spidermod Text" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="1">

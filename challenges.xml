@@ -50,7 +50,7 @@
 	
 	<challenge name="XXXXXXXXL" id="21" endstage="8" achievements="4" />
 	<challenge name="SPEED!" id="22" endstage="8" achievements="4" />
-	<challenge name="Blue Bomber" id="23" endstage="10" altpath="false" startingitems="40,106,223" roomfilter="4" playertype="4" canshoot="false" achievements="28,34" />
+	<challenge name="Blue Bomber" id="23" endstage="10" altpath="false" startingitems="40,106,223,8" roomfilter="4" playertype="4" canshoot="false" achievements="28,34" />
 	<challenge name="PAY TO PLAY" id="24" endstage="10" altpath="true" startingitems="94,109" roomfilter="4" coins="50" achievements="28,21" />
 	<challenge name="Have a heart" id="25" endstage="8" startingitems="62" maxhp="18" redhp="-4" achievements="4" />
 	<challenge name="I RULE!" id="26" endstage="12" roomfilter="4" startingitems="114,243,338,60,238,239" difficulty="1" megasatan="true" achievements="43,155" />
