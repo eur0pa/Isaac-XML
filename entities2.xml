@@ -1807,7 +1807,7 @@
         <preload-snd id="303" /> <!-- SOUND_FAT_WIGGLE -->
         <preload-snd id="301" /> <!-- SOUND_FART_GURG -->
         <preload-snd id="37" /> <!-- SOUND_FART -->
-        <preload-snd id="315" /> <!-- SOUND_WHISTLE -->
+        <preload-snd id="413" /> <!-- SOUND_DANGLE_WHISTLE -->
         <preload-snd id="72" /> <!-- SOUND_MEAT_JUMPS -->
     </entity>
     <entity id="262" variant="0" name="Mega Maw" baseHP="350" stageHP="0" boss="1" bossID="45" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="33" friction="1" numGridCollisionPoints="12" shadowSize="50" portrait="66" anm2path="262.000_MegaMaw.anm2">
@@ -2014,16 +2014,16 @@
 	<entity id="292" variant="0" name="Movable TNT" baseHP="30" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="20" collisionRadius="20" friction="1" numGridCollisionPoints="12" shadowSize="0" portrait="113" anm2path="grid/grid_tnt_pushable.anm2" shutdoors="false">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="0" name="Ultra Greed Coin (Spinner)" baseHP="35" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="0" name="Ultra Greed Coin (Spinner)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="1" name="Ultra Greed Coin (Key)" baseHP="50" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="1" name="Ultra Greed Coin (Key)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="2" name="Ultra Greed Coin (Bomb)" baseHP="20" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="2" name="Ultra Greed Coin (Bomb)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="3" name="Ultra Greed Coin (Heart)" baseHP="20" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="3" name="Ultra Greed Coin (Heart)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
 	<entity id="294" variant="0" name="Ultra Greed Door" baseHP="0" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="50" collisionRadius="10" friction="1" numGridCollisionPoints="0" shadowSize="0" portrait="84" anm2path="294.000_UltraGreedDoor.anm2" shutdoors="false">
@@ -2035,7 +2035,7 @@
     <entity id="296" variant="0" name="Hush Fly" anm2path="013.000_Fly.anm2" baseHP="10" boss="0" champion="0" collisionDamage="1" collisionMass="3" collisionRadius="9" friction="1" numGridCollisionPoints="0" shadowSize="11" stageHP="0" portrait="5" gridCollision="walls">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
     </entity>
-    <entity anm2path="297.000_BlueGaper.anm2" baseHP="9" boss="0" champion="1" collisionDamage="1" collisionMass="5" collisionRadius="13" friction="1" id="297" name="Blue Gaper" numGridCollisionPoints="12" shadowSize="14" stageHP="0" variant="0" portrait="1">
+    <entity anm2path="297.000_BlueGaper.anm2" baseHP="30" boss="0" champion="1" collisionDamage="1" collisionMass="5" collisionRadius="13" friction="1" id="297" name="Blue Gaper" numGridCollisionPoints="12" shadowSize="14" stageHP="0" variant="0" portrait="1">
         <gibs amount="6" blood="1" bone="1" eye="1" gut="1" large="0" />
     </entity>
   <entity anm2path="298.000_Blue Boil.anm2" baseHP="20" boss="0" champion="1" collisionDamage="0" collisionMass="100" collisionRadius="13" friction="1" id="298" name="Blue Boil" numGridCollisionPoints="12" shadowSize="17" stageHP="0" variant="0" portrait="27">
