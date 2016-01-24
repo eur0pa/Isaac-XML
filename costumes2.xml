@@ -33,6 +33,7 @@
 	<costume anm2path="Character_LazarusHair1.anm2" id="32" priority="200" type="none" />
 	<costume anm2path="Character_LazarusHair2.anm2" id="33" priority="200" type="none" />
 	<costume anm2path="Character_LilithHair.anm2" id="34" priority="200" type="none" />
+	<costume anm2path="n028_Transformation_Iwata.anm2" id="35" priority="200" type="none" />
 
 	<costume anm2path="001_The Sad Onion.anm2" id="1" type="passive">
 	</costume>
