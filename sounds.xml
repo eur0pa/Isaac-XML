@@ -1010,4 +1010,55 @@
 		<sample weight="1" path="Greed SFX/Greed Spinning Lariat SFX/Lasso_Spin_Fast_Loop_2a.wav" />
 		<sample weight="1" path="Greed SFX/Greed Spinning Lariat SFX/Lasso_Spin_Slow_Loop_1a.wav" />
 	</sound>
+	<sound id="441">
+		<sample weight="1" path="Dog Bark.wav" />
+	</sound>
+	<sound id="442">
+		<sample weight="1" path="Dog Howell.wav" />
+	</sound>
+	<sound id="443">
+		<sample weight="1" path="Voiceover/X Lax 2.wav" />
+	</sound>
+	<sound id="444">
+		<sample weight="1" path="Voiceover/Wrong 1.wav" />
+	</sound>
+	<sound id="445">
+		<sample weight="1" path="Voiceover/Vurp 1.wav" />
+	</sound>
+	<sound id="446">
+		<sample weight="1" path="Voiceover/Sunshine 1.wav" />
+	</sound>
+	<sound id="447">
+		<sample weight="1" path="Voiceover/Spades 2.wav" />
+	</sound>
+	<sound id="448">
+		<sample weight="1" path="Voiceover/Horf 2.wav" />
+	</sound>
+	<sound id="449">
+		<sample weight="1" path="Voiceover/Holy Card 2.wav" />
+	</sound>
+	<sound id="450">
+		<sample weight="1" path="Voiceover/Hearts 1.wav" />
+	</sound>
+	<sound id="451">
+		<sample weight="1" path="Voiceover/Gulp 1.wav" />
+	</sound>
+	<sound id="452">
+		<sample weight="1" path="Voiceover/Friends 1.wav" />
+	</sound>
+	<sound id="453">
+		<sample weight="1" path="Voiceover/Excited 1.wav" />
+	</sound>
+	<sound id="454">
+		<sample weight="1" path="Voiceover/Drowsy 1.wav" />
+	</sound>
+	<sound id="455">
+		<sample weight="1" path="Voiceover/Diamonds 1.wav" />
+	</sound>
+	<sound id="456">
+		<sample weight="1" path="Voiceover/Clubs 1.wav" />
+	</sound>
+	<sound id="457">
+		<sample weight="1" path="Voiceover/Black Rune 2.wav" />
+	</sound>
 </sounds>

@@ -34,6 +34,11 @@
 	<costume anm2path="Character_LazarusHair2.anm2" id="33" priority="200" type="none" />
 	<costume anm2path="Character_LilithHair.anm2" id="34" priority="200" type="none" />
 	<costume anm2path="n028_Transformation_Iwata.anm2" id="35" priority="200" type="none" />
+	<costume anm2path="Character_015_ApollyonBody.anm2" id="36" priority="1" type="none" />
+	<costume anm2path="n032_Transformation_Bookworm.anm2" id="37" priority="99" type="none" />
+	<costume anm2path="n033_Transformation_Adulthood.anm2" id="38" priority="99" type="none" />
+	<costume anm2path="n034_Transformation_SpiderBaby.anm2" id="39" priority="99" type="none" />
+	<costume anm2path="t118_BatWing.anm2" hasSkinAlt="true" id="40" isFlying="true" type="none" />
 
 	<costume anm2path="001_The Sad Onion.anm2" id="1" type="passive">
 	</costume>
@@ -173,7 +178,7 @@
 	</costume>
 	<costume anm2path="126_Razor Blade.anm2" id="126" overwriteColor="true" skinColor="3" type="active">
 	</costume>
-	<costume anm2path="129_Bucket of Lard.anm2" hasSkinAlt="true" id="129" type="active">
+	<costume anm2path="129_Bucket of Lard.anm2" hasSkinAlt="true" id="129" type="passive">
 	</costume>
 	<costume anm2path="130_Pony.anm2" hasSkinAlt="true" id="130" isFlying="true" priority="23" type="passive">
 	</costume>
@@ -408,5 +413,41 @@
 	<costume anm2path="433_MyShadow.anm2" id="433" type="passive" />
 	<costume anm2path="438_Binky.anm2" id="438" type="passive" />
 	
+	<costume anm2path="443_Apple.anm2" id="443" type="passive" />
+	<costume anm2path="444_LeadPencil.anm2" id="444" type="passive" />
+	<costume anm2path="445_DogTooth.anm2" hasSkinAlt="true" id="445" type="passive" />
+	<costume anm2path="446_DeadTooth.anm2" hasSkinAlt="true" id="446" type="passive" />
+	<costume anm2path="447_LingerBean.anm2" hasSkinAlt="true" id="447" type="passive" />
+	<costume anm2path="448_ShardOfGlass.anm2" hasSkinAlt="true" id="448" type="passive" />
+	<costume anm2path="449_MetalPlate.anm2" id="449" type="passive" />
+	<costume anm2path="450_EyeOfGreed.anm2" id="450" type="passive" />
+	<costume anm2path="451_TarotCloth.anm2" id="451" type="passive" />
+	<costume anm2path="452_VaricoseVeins.anm2" id="452" type="passive" />
+	<costume anm2path="453_CompoundFracture.anm2" hasSkinAlt="true" id="453" type="passive" />
+	<costume anm2path="454_Polydactyly.anm2" id="454" type="passive" />
+	<costume anm2path="455_DadsLostCoin.anm2" hasSkinAlt="true" id="455" type="passive" />
+	<costume anm2path="457_Conehead.anm2" hasSkinAlt="true" id="457" type="passive" />
+	<costume anm2path="458_BellyButton.anm2" id="458" type="passive" />
+	<costume anm2path="459_SinusInfection.anm2" id="459" type="passive" />
+	<costume anm2path="460_Glaucoma.anm2" id="460" type="passive" />
+	<costume anm2path="461_Parasitoid.anm2" hasSkinAlt="true" id="461" type="passive" />
+	<costume anm2path="462_EyeOfBelial.anm2" id="462" type="passive" />
+	<costume anm2path="463_SulphuricAcid.anm2" hasSkinAlt="true" id="463" type="passive" />
+	<costume anm2path="464_GlyphOfBalance.anm2" id="464" type="passive" />
+	<costume anm2path="465_AnalogStick.anm2" id="465" type="passive" />
+	<costume anm2path="466_Contagion.anm2" id="466" type="passive" />	
+	
+	<costume anm2path="494_JacobsLadder.anm2" hasOverlay="true" id="494" type="passive" />
+	<costume anm2path="495_GhostPepper.anm2" id="495" type="passive" />
+	<costume anm2path="496_Euthanasia.anm2" hasSkinAlt="true" id="496" type="passive" />
+	<costume anm2path="497_CamoUndies.anm2" id="497" type="passive" />
+	<costume anm2path="498_Duality.anm2" id="498" type="passive" />
+	<costume anm2path="499_Eucharist.anm2" id="499" type="passive" />
+	<costume anm2path="501_GreedsGullet.anm2" id="501" type="passive" />
+	<costume anm2path="502_LargeZit.anm2" id="502" type="passive" />
+	<costume anm2path="503_LittleHorn.anm2" id="503" type="passive" />
+	<costume anm2path="507_SharpStraw.anm2" id="507" type="passive" />
+	<costume anm2path="510_Delirious.anm2" id="510" type="active" />
+		
 	<costume anm2path="t53_Tick.anm2" id="53" type="trinket" />
 </costumes>

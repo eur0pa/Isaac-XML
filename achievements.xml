@@ -534,4 +534,68 @@
 	<achievement gfx="Achievement_Generosity.png" id="275" steam_description="..." steam_icon="" steam_name="Generosity" text="If only everyone was as generous as you are..." />
 	<achievement gfx="Achievement_MegaBlast.png" id="276" steam_description="" steam_icon="Achievement_MegaBlast.png" steam_name="Mega Blast" text="&quot;Mega Blast&quot; has appeared in the basement" />
 
+	
+	<achievement gfx="Achievement_Challenge31.png" id="277" steam_description="" steam_icon="Achievement_Backasswards.png" steam_name="Backasswards" text="You unlocked Challenge #31 Backasswards" />
+	<achievement gfx="Achievement_Challenge32.png" id="278" steam_description="" steam_icon="Achievement_AprilsFool.png" steam_name="Aprils fool" text="You unlocked Challenge #32 Aprils fool" />
+	<achievement gfx="Achievement_Challenge33.png" id="279" steam_description="" steam_icon="Achievement_PokeyMans.png" steam_name="Pokey mans" text="You unlocked Challenge #33 Pokey mans" />
+	<achievement gfx="Achievement_Challenge34.png" id="280" steam_description="" steam_icon="Achievement_UltraHard.png" steam_name="Ultra hard" text="You unlocked Challenge #34 Ultra hard" />
+	<achievement gfx="Achievement_Challenge35.png" id="281" steam_description="" steam_icon="Achievement_Pong.png" steam_name="PONG" text="You unlocked Challenge #35 PONG" />
+	<achievement gfx="Achievement_Dinf.png" id="282" steam_description="" steam_icon="Achievement_DInfinity.png" steam_name="D infinity" text="&quot;D infinity&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Eucharist.png" id="283" steam_description="" steam_icon="Achievement_Eucharist.png" steam_name="Eucharist" text="&quot;Eucharist&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_SilverDollar.png" id="284" steam_description="" steam_icon="Achievement_SilverDollar.png" steam_name="Silver Dollar" text="&quot;Silver Dollar&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Shade.png" id="285" steam_description="" steam_icon="Achievement_Shade.png" steam_name="Shade" text="&quot;Shade&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_KingBaby.png" id="286" steam_description="" steam_icon="Achievement_KingBaby.png" steam_name="King Baby" text="&quot;King Baby&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_BloodyCrown.png" id="287" steam_description="" steam_icon="Achievement_BloodyCrown.png" steam_name="Bloody Crown" text="&quot;Bloody Crown&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_DullRazor.png" id="288" steam_description="" steam_icon="Achievement_DullRazor.png" steam_name="Dull Razor" text="&quot;Dull Razor&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_EdensSoul.png" id="289" steam_description="" steam_icon="Achievement_EdensSoul.png" steam_name="Eden's Soul" text="&quot;Eden's Soul&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_DarkPrincesCrown.png" id="290" steam_description="" steam_icon="Achievement_DarkPrincesCrown.png" steam_name="Dark Prince's Crown" text="&quot;Dark Prince's Crown&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_CompoundFracture.png" id="291" steam_description="" steam_icon="Achievement_CompoundFracture.png" steam_name="Compound Fracture" text="&quot;Compound Fracture&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Euthanasia.png" id="292" steam_description="" steam_icon="Achievement_Euthanasia.png" steam_name="Euthanasia" text="&quot;Euthanasia&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_HolyCard.png" id="293" steam_description="" steam_icon="Achievement_HolyCard.png" steam_name="Holy Card" text="&quot;Holy Card&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_CrookedPenny.png" id="294" steam_description="" steam_icon="Achievement_CrookedPenny.png" steam_name="Crooked Penny" text="&quot;Crooked Penny&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Void.png" id="295" steam_description="" steam_icon="Achievement_Void.png" steam_name="Void" text="&quot;Void&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_D1.png" id="296" steam_description="" steam_icon="Achievement_D1.png" steam_name="D1" text="&quot;D1&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_GlyphOfBalance.png" id="297" steam_description="" steam_icon="Achievement_GlyphOfBalance.png" steam_name="Glyph of Balance" text="&quot;Glyph of Balance&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_SackOfSacks.png" id="298" steam_description="" steam_icon="Achievement_SackOfSacks.png" steam_name="Sack of Sacks" text="&quot;Sack of Sacks&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_EyeOfBelial.png" id="299" steam_description="" steam_icon="Achievement_EyeOfBelial.png" steam_name="Eye of Belial" text="&quot;Eye of Belial&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Meconium.png" id="300" steam_description="" steam_icon="Achievement_Meconium.png" steam_name="Meconium" text="&quot;Meconium&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_StemCell.png" id="301" steam_description="" steam_icon="Achievement_StemCells.png" steam_name="Stem Cell" text="&quot;Stem Cell&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_CrowHeart.png" id="302" steam_description="" steam_icon="Achievement_CrowHeart.png" steam_name="Crow Heart" text="&quot;Crow Heart&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Metronome.png" id="303" steam_description="" steam_icon="Achievement_Metronome.png" steam_name="Metronome" text="&quot;Metronome&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_BatWing.png" id="304" steam_description="" steam_icon="Achievement_BatWing.png" steam_name="Bat Wing" text="&quot;Bat Wing&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_PlanC.png" id="305" steam_description="" steam_icon="Achievement_PlanC.png" steam_name="Plan C" text="&quot;Plan C&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Duality.png" id="306" steam_description="" steam_icon="Achievement_Duality.png" steam_name="Duality" text="&quot;Duality&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_DadsLostCoin.png" id="307" steam_description="" steam_icon="Achievement_DadsLostCoin.png" steam_name="Dad's Lost Coin" text="&quot;Dad's Lost Coin&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_EyeOfGreed.png" id="308" steam_description="" steam_icon="Achievement_EyeOfGreed.png" steam_name="Eye of Greed" text="&quot;Eye of Greed&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_BlackRune.png" id="309" steam_description="" steam_icon="Achievement_BlackRune.png" steam_name="Black Rune" text="&quot;Black Rune&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_LocustOfWrath.png" id="310" steam_description="" steam_icon="Achievement_LocustOfWrath.png" steam_name="Locust of Wrath" text="&quot;Locust of Wrath&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_LocustOfPestilence.png" id="311" steam_description="" steam_icon="Achievement_LocustOfPestilence.png" steam_name="Locust of Pestilence" text="&quot;Locust of Pestilence&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_LocustOfFamine.png" id="312" steam_description="" steam_icon="Achievement_LocustOfFamine.png" steam_name="Locust of Famine" text="&quot;Locust of Famine&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_LocustOfDeath.png" id="313" steam_description="" steam_icon="Achievement_LocustOfDeath.png" steam_name="Locust of Death" text="&quot;Locust of Death&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_LocustOfConquest.png" id="314" steam_description="" steam_icon="Achievement_LocustOfConquest.png" steam_name="Locust of Conquest" text="&quot;Locust of Conquest&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Hushy.png" id="315" steam_description="" steam_icon="Achievement_Hushy.png" steam_name="Hushy" text="&quot;Hushy&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_BrownNugget.png" id="316" steam_description="" steam_icon="Achievement_BrownNugget.png" steam_name="Brown Nugget" text="&quot;Brown Nugget&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_MortBaby.png" id="317" steam_description="" steam_icon="Achievement_MortBaby.png" steam_name="Mort Baby" text="&quot;Mort Baby&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Smelter.png" id="318" steam_description="" steam_icon="Achievement_Smelter.png" steam_name="Smelter" text="&quot;Smelter&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_ApollyonBaby.png" id="319" steam_description="" steam_icon="Achievement_ApollyonBaby.png" steam_name="Apollyon Baby" text="&quot;Apollyon Baby&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_TheVoid.png" id="320" steam_description="" steam_icon="Achievement_NewArea.png" steam_name="New Area" text="You unlocked a new area!" />
+	<achievement gfx="Achievement_PillGulp.png" id="321" steam_description="" steam_icon="Achievement_GulpPill.png" steam_name="Once more with feeling!" text="Once more with feeling!" />
+	<achievement gfx="Achievement_AceOfClubs.png" id="322" steam_description="" steam_icon="Achievement_AceOfClubs.png" steam_name="Hat trick!" text="Hat trick!" />
+	<achievement gfx="Achievement_SuperSpecialRocks.png" id="323" steam_description="" steam_icon="Achievement_SuperSpecialRocks.png" steam_name="5 nights at moms" text="5 nights at moms" />
+	<achievement gfx="Achievement_PillSunshine.png" id="324" steam_description="" steam_icon="Achievement_SunshinePill.png" steam_name="Sin collector" text="Sin collector" />
+	<achievement gfx="Achievement_PillHorf.png" id="325" steam_description="" steam_icon="Achievement_HorfPill.png" steam_name="Dedication" text="Dedication" />
+	<achievement gfx="Achievement_AceOfDiamonds.png" id="326" steam_description="" steam_icon="Achievement_AceOfDiamonds.png" steam_name="ZIP!" text="ZIP!" />
+	<achievement gfx="Achievement_AceOfSpades.png" id="327" steam_description="" steam_icon="Achievement_AceOfSpades.png" steam_name="It's the key" text="It's the key" />
+	<achievement gfx="Achievement_HalfSoulHeart.png" id="328" steam_description="" steam_icon="Achievement_HalfSoulHeart.png" steam_name="Mr. Resetter!" text="Mr. Resetter!" />
+	<achievement gfx="Achievement_AceOfHearts.png" id="329" steam_description="" steam_icon="Achievement_AceOfHearts.png" steam_name="Living on the edge" text="Living on the edge" />
+	<achievement gfx="Achievement_PillVurp.png" id="330" steam_description="" steam_icon="Achievement_VurpPill.png" steam_name="U broke it!" text="U broke it!" />
+	<achievement gfx="Achievement_LazBleedsMore.png" id="331" steam_description="" steam_icon="Achievement_LazBleedsMore.png" steam_name="Laz Bleeds More!" text="Laz Bleeds More!" />
+	<achievement gfx="Achievement_MaggyNowHoldsAPill.png" id="332" steam_description="" steam_icon="Achievement_MaggyNowHoldsAPill.png" steam_name="Maggy now hold a pill!" text="Maggy now hold a pill!" />
+	<achievement gfx="Achievement_ChargedKey.png" id="333" steam_description="" steam_icon="Achievement_ChargedKey.png" steam_name="Charged Key" text="&quot;Charged Key&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_SamsonFeelsHealthy.png" id="334" steam_description="" steam_icon="Achievement_SamsonFeelsHealthy.png" steam_name="Samson feels healthy!" text="Samson feels healthy!" />
+	<achievement gfx="Achievement_GreedsGullet.png" id="335" steam_description="" steam_icon="Achievement_GreedsGullet.png" steam_name="Greed's Gullet" text="&quot;Greed's Gullet&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_CrackedCrown.png" id="336" steam_description="" steam_icon="Achievement_CrackedCrown.png" steam_name="The Marathon" text="&quot;Cracked Crown&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_Rerun.png" id="337" steam_description="" steam_icon="Achievement_Rerun.png" steam_name="RERUN" text="You unlocked RERUN!" />
+	<achievement gfx="Achievement_Delirious.png" id="338" steam_description="" steam_icon="Achievement_CrackedCrown.png" steam_name="Delirious" text="&quot;Delirious&quot; has appeared in the basement" />
+	<achievement gfx="Achievement_1000000Percent.png" id="339" steam_description="" steam_icon="Achievement_JustStop.png" steam_name="1000000%" text="1000000% Just Stop!" />
 </achievements>

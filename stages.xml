@@ -25,4 +25,5 @@
 	<stage id="23" name="Sheol" path="23.Greed Sheol.xml" playerspot="playerspot_09_sheol.png" bossspot="bossspot_09_sheol.png" />
 	<stage id="24" name="The Shop" path="24.Greed The Shop.xml" />
 	<stage id="25" name="Ultra Greed" path="25.Ultra Greed.xml" playerspot="playerspot_18_shop.png" bossspot="bossspot_18_shop.png" />
+	<stage id="26" name="The Void" path="01.Basement.xml" playerspot="playerspot_19_void.png" bossspot="bossspot_19_void.png" />
 </stages>
