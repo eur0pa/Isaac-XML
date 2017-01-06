@@ -586,7 +586,7 @@
 		<preload-snd id="22" /> <!-- CHEST_OPEN -->
 	    <preload-snd id="156" /> <!-- UNLOCK00 -->
     </entity>
-	<entity anm2path="005.050_Chest.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Mimic Chest" numGridCollisionPoints="24" shadowSize="28" stageHP="0" variant="54">
+	<entity anm2path="005.054_Mimic Chest.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Mimic Chest" numGridCollisionPoints="24" shadowSize="28" stageHP="0" variant="54">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
 	    <preload-snd id="22" /> <!-- CHEST_OPEN -->
     </entity>
@@ -889,7 +889,7 @@ bestiaryTransform="0,0,1" bestiaryAnim="Fly">
         <preload-snd id="143" /> <!-- SOUND_SCARED_WHIMPER -->
         <preload-snd id="158" /> <!-- SOUND_WHEEZY_COUGH -->
     </entity>
-	<entity anm2path="022.001_Drowned Hive.anm2" reroll="true" baseHP="18" boss="0" champion="1" collisionDamage="0" collisionMass="7" collisionRadius="13" friction="1" id="22" name="Drowned Hive" numGridCollisionPoints="12" shadowSize="14" stageHP="0" variant="1" portrait="38" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="WalkVert" bestiaryOverlay="HeadWalk">
+	<entity anm2path="022.001_Drowned Hive.anm2" reroll="true" baseHP="18" boss="0" champion="1" collisionDamage="0" collisionMass="7" collisionRadius="13" friction="1" id="22" name="Drowned Hive" numGridCollisionPoints="12" shadowSize="14" stageHP="0" variant="1" portrait="15" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="WalkVert" bestiaryOverlay="HeadWalk">
         <gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="0" worm="1" />
     </entity>
     <entity anm2path="023.000_Charger.anm2" reroll="true" baseHP="20" boss="0" champion="1" collisionDamage="1" collisionMass="7" collisionRadius="13" friction="1" id="23" name="Charger" numGridCollisionPoints="12" shadowSize="17" stageHP="0" variant="0" portrait="16" bestiary="true" bestiaryTransform="0,-3,1" bestiaryAnim="Move Hori">
@@ -2168,7 +2168,7 @@ bestiaryOverlay="Attack">
   <entity anm2path="305.000_Ministro.anm2" baseHP="9" boss="0" champion="1" collisionDamage="1" collisionMass="5" collisionRadius="13" friction="1" id="305" name="Ministro" numGridCollisionPoints="12" shadowSize="14" stageHP="0" variant="0" portrait="154" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Hop">
     <gibs amount="6" blood="1" bone="1" eye="1" gut="1" large="0" />
   </entity>
-  <entity anm2path="306.000_Portal.anm2" baseHP="10" boss="0" champion="0" collisionDamage="0" collisionMass="100" collisionRadius="13" friction="1" id="306" name="Portal" numGridCollisionPoints="0" shadowSize="24" stageHP="5" variant="0" shutdoors="true" portrait="160" bestiary="true" bestiaryTransform="0,-20,1" bestiaryAnim="Idle">
+  <entity anm2path="306.000_Portal.anm2" baseHP="9" boss="0" champion="0" collisionDamage="0" collisionMass="100" collisionRadius="13" friction="1" id="306" name="Portal" numGridCollisionPoints="0" shadowSize="24" stageHP="5" variant="0" shutdoors="true" portrait="160" bestiary="true" bestiaryTransform="0,-20,1" bestiaryAnim="Idle">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
   </entity>
   <entity id="401" variant="0" name="The Stain" baseHP="400" stageHP="0" boss="1" bossID="57" champion="0" collisionDamage="1" collisionMass="75" collisionRadius="35" friction="1" numGridCollisionPoints="12" shadowSize="0" portrait="79" anm2path="401.000_TheStain.anm2" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
@@ -2216,7 +2216,7 @@ bestiaryOverlay="Attack">
 	<entity id="409" variant="2" name="Rag Mega's Rebirth Pillar" baseHP="10" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="20" collisionRadius="13" friction="1" numGridCollisionPoints="16" shadowSize="16" portrait="88" anm2path="409.000_RagMega.anm2">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
 	</entity>
-	<entity id="410" variant="0" name="Sisters Vis" baseHP="800" stageHP="0" boss="1" bossID="68" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="40" friction="1" numGridCollisionPoints="12" shadowSize="56" portrait="89" anm2path="265.001_SistersVis.anm2" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+	<entity id="410" variant="0" name="Sisters Vis" baseHP="500" stageHP="0" boss="1" bossID="68" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="40" friction="1" numGridCollisionPoints="12" shadowSize="56" portrait="89" anm2path="265.001_SistersVis.anm2" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
         <gibs amount="16" blood="1" bone="1" eye="0" gut="0" large="1" />
         <preload-snd id="303" /> <!-- SOUND_FAT_WIGGLE -->
         <preload-snd id="48" /> <!-- SOUND_FORESTBOSS_STOMPS -->
@@ -2226,13 +2226,13 @@ bestiaryOverlay="Attack">
 		<preload id="7" variant="1" />
 		<preload id="1000" variant="50" subtype="1" />
     </entity>
-	<entity id="411" variant="0" name="Big Horn" baseHP="600" stageHP="0" boss="1" bossID="69" champion="0" collisionDamage="1" collisionMass="1000" collisionRadius="90" friction="1" numGridCollisionPoints="40" shadowSize="0" portrait="90" anm2path="411.000_BigHorn.anm2" bestiary="true" bestiaryTransform="0,-16,.4" bestiaryAnim="Idle">
+	<entity id="411" variant="0" name="Big Horn" baseHP="480" stageHP="0" boss="1" bossID="69" champion="0" collisionDamage="1" collisionMass="1000" collisionRadius="90" friction="1" numGridCollisionPoints="40" shadowSize="0" portrait="90" anm2path="411.000_BigHorn.anm2" bestiary="true" bestiaryTransform="0,-16,.4" bestiaryAnim="Idle">
 		<gibs amount="24" blood="1" bone="0" eye="0" gut="1" large="1" />
 	</entity>
-    <entity id="411" variant="1" name="Small Hole" baseHP="10" stageHP="0" boss="1" champion="0" collisionDamage="1" collisionMass="20" collisionRadius="40" friction="1" numGridCollisionPoints="16" shadowSize="0" portrait="90" anm2path="411.000_BigHorn.anm2">
+    <entity id="411" variant="1" name="Small Hole" baseHP="10000" stageHP="0" boss="1" champion="0" collisionDamage="0" collisionMass="20" collisionRadius="40" friction="1" numGridCollisionPoints="16" shadowSize="0" portrait="90" anm2path="411.000_BigHorn.anm2">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
 	</entity>
-    <entity id="411" variant="2" name="Big Hole" baseHP="10" stageHP="0" boss="1" champion="0" collisionDamage="1" collisionMass="20" collisionRadius="80" friction="1" numGridCollisionPoints="40" shadowSize="0" portrait="90" anm2path="411.000_BigHorn.anm2">
+    <entity id="411" variant="2" name="Big Hole" baseHP="10000" stageHP="0" boss="1" champion="0" collisionDamage="0" collisionMass="20" collisionRadius="80" friction="1" numGridCollisionPoints="40" shadowSize="0" portrait="90" anm2path="411.000_BigHorn.anm2">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
 	</entity>
 	<entity id="412" variant="0" name="Delirium" baseHP="10000" stageHP="0" boss="1" bossID="70" champion="0" collisionDamage="1" collisionMass="100" collisionRadius="40" friction="1" numGridCollisionPoints="40" shadowSize="0" portrait="91" anm2path="412.000_Delirium.anm2" bestiary="true" bestiaryTransform="0,0,.4" bestiaryAnim="Idle">
