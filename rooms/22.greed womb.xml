@@ -1413,14 +1413,15 @@
 		<door x="13" y="10" exists="1" />
 		<door x="-1" y="10" exists="1" />
 		<door x="6" y="14" exists="1" />
-		<spawn x="0" y="0">
+		<spawn x="1" y="0">
 			<entity type="92" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="12" y="0">
+		<spawn x="11" y="0">
 			<entity type="92" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="1" y="1">
 			<entity type="93" variant="0" subtype="0" weight="1" />
+			<entity type="92" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="11" y="1">
 			<entity type="93" variant="0" subtype="0" weight="1" />
