@@ -13415,7 +13415,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
 	</room>
-	<room type="5" variant="3730" subtype="68" difficulty="1" name="Double Trouble 3 (depths) (copy)" shape="4" weight="1" width="13" height="14">
+	<room type="5" variant="3772" subtype="68" difficulty="1" name="Double Trouble 3 (depths) (copy)" shape="4" weight="1" width="13" height="14">
 		<door x="6" y="-1" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
@@ -13441,7 +13441,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="1" y="7">
-			<entity type="264" variant="0" subtype="0" weight="1" />
+			<entity type="19" variant="0" subtype="0" weight="4" />
 		</spawn>
 		<spawn x="11" y="7">
 			<entity type="410" variant="0" subtype="0" weight="1" />
@@ -13465,7 +13465,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
 	</room>
-	<room type="5" variant="3731" subtype="31" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
+	<room type="5" variant="3773" subtype="31" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
 		<door x="6" y="-1" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
@@ -13601,7 +13601,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
 	</room>
-	<room type="5" variant="3733" subtype="16" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
+	<room type="5" variant="3814" subtype="16" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
 		<door x="6" y="-1" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
@@ -13758,7 +13758,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
 	</room>
-	<room type="5" variant="3735" subtype="68" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
+	<room type="5" variant="3816" subtype="68" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
 		<door x="6" y="-1" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
@@ -13808,7 +13808,7 @@
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
 	</room>
-	<room type="5" variant="3736" subtype="53" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
+	<room type="5" variant="3815" subtype="53" difficulty="1" name="Double Trouble 3 (womb) (copy)" shape="4" weight="1" width="13" height="14">
 		<door x="6" y="-1" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
@@ -13835,9 +13835,6 @@
 		</spawn>
 		<spawn x="6" y="4">
 			<entity type="99" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="2" y="7">
-			<entity type="270" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="6" y="7">
 			<entity type="270" variant="0" subtype="0" weight="1" />
