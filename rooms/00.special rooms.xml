@@ -2015,7 +2015,7 @@
 			<entity type="0" variant="10" subtype="0" weight="1" />
 		</spawn>
 	</room>
-	<room type="4" variant="37" subtype="0" difficulty="1" name=" (copy)" shape="1" weight="0.100000001" width="13" height="7">
+	<room type="4" variant="37" subtype="0" difficulty="1" name=" (copy)" shape="1" weight="0.00999999978" width="13" height="7">
 		<door x="6" y="-1" exists="1" />
 		<door x="6" y="7" exists="1" />
 		<door x="-1" y="3" exists="1" />
@@ -2032,11 +2032,20 @@
 		<spawn x="11" y="1">
 			<entity type="0" variant="10" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="5" y="2">
+		<spawn x="4" y="2">
 			<entity type="18" variant="0" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="5" y="2">
+			<entity type="5" variant="10" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="5" variant="40" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="10" y="2">
 			<entity type="1000" variant="0" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="5" y="3">
+			<entity type="5" variant="20" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="6" y="3">
 			<entity type="1500" variant="0" subtype="0" weight="1" />
@@ -2049,6 +2058,12 @@
 		</spawn>
 		<spawn x="5" y="4">
 			<entity type="5" variant="350" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="5" variant="70" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="5" variant="30" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="11" y="4">
 			<entity type="0" variant="10" subtype="0" weight="1" />
