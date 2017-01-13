@@ -1,7 +1,7 @@
 var searchData=
 [
   ['calctargetposition',['CalcTargetPosition',['../class_entity_n_p_c.html#a68aaf4419c10fb65870034256d1037c2',1,'EntityNPC']]],
-  ['calculateendpoint',['CalculateEndPoint',['../class_entity_laser.html#a632c7cc2ee43dd811ab5fee5ca0f12b3',1,'EntityLaser']]],
+  ['calculateendpoint',['CalculateEndPoint',['../class_entity_laser.html#a4def08593cf7fef5e3c9fe4f7ea16fb0',1,'EntityLaser']]],
   ['canaddcollectible',['CanAddCollectible',['../class_entity_player.html#a5b9020e18960757f4b155c9609af7b83',1,'EntityPlayer']]],
   ['canbedamagedfromvelocity',['CanBeDamagedFromVelocity',['../class_entity_n_p_c.html#a234254b0395d6cd4fc9490a97b901a1d',1,'EntityNPC']]],
   ['canblowopen',['CanBlowOpen',['../class_grid_entity_door.html#a893e09dc54a4c07ec11ed2c7b1932c4d',1,'GridEntityDoor']]],

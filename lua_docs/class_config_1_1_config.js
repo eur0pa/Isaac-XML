@@ -11,6 +11,6 @@ var class_config_1_1_config =
     [ "GetPillEffects", "class_config_1_1_config.html#a21df49d1d8c619464dbc97264af537a2", null ],
     [ "GetTrinket", "class_config_1_1_config.html#ac1d052e502ece89becd7f2016d727e7c", null ],
     [ "GetTrinkets", "class_config_1_1_config.html#ab24a5f113a1d0a499dc97839133a715d", null ],
-    [ "IsValidCollectible", "class_config_1_1_config.html#a2c886fca3c2047edd62e043620ee6e67", null ],
-    [ "ShouldAddCostumeOnPickup", "class_config_1_1_config.html#afdabd78549d3aa3cc7e529b5ac10217c", null ]
+    [ "IsValidCollectible", "class_config_1_1_config.html#af04e17568a362c62d01b60d717f505d2", null ],
+    [ "ShouldAddCostumeOnPickup", "class_config_1_1_config.html#a0819984cd3b2dcf5478ef00b7f70a0c1", null ]
 ];

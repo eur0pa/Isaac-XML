@@ -244,7 +244,7 @@ var searchData=
   ['eves_5fbird_5ffoot',['EVES_BIRD_FOOT',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea68ef118ef442e51f5a1d04f6f87cef40',1,'Enums.h']]],
   ['evil_5feye',['EVIL_EYE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a7e9bf95156caf2af7494d365bb0698db',1,'Enums.h']]],
   ['exists',['Exists',['../class_entity.html#a244b5b22e40f30a6c40031064d010d90',1,'Entity']]],
-  ['explode',['Explode',['../namespace_isaac.html#a184e80d92f9698039cac77277019556c',1,'Isaac']]],
+  ['explode',['Explode',['../namespace_isaac.html#a1d893bb66d11042e89d4aa8db8a9e236',1,'Isaac']]],
   ['explosiondamage',['ExplosionDamage',['../class_entity_bomb.html#ad0e5b2887ebae55ed701b0be640fe22a',1,'EntityBomb']]],
   ['extrasprite',['ExtraSprite',['../class_grid_entity_door.html#af0fb498054d93363aa54fcca4c2f8abe',1,'GridEntityDoor']]],
   ['extravisible',['ExtraVisible',['../class_grid_entity_door.html#a81403141eef1268091d2c875ea1a6378',1,'GridEntityDoor']]]

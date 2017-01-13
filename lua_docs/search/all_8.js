@@ -15,7 +15,7 @@ var searchData=
   ['hasgoldenkey',['HasGoldenKey',['../class_entity_player.html#ac073c2b8c11ff4f4e1865f7691dd5ee7',1,'EntityPlayer']]],
   ['hashallucination',['HasHallucination',['../class_game.html#aaae6707a95696a12e4de82788cbea0a6',1,'Game']]],
   ['hasinvincibility',['HasInvincibility',['../class_entity_player.html#a454ad45ea3ea929f1a2fbec3dfb85da6',1,'EntityPlayer']]],
-  ['hasmoddata',['HasModData',['../namespace_isaac.html#aa1a2cec5011379d2167f7945b71c779b',1,'Isaac']]],
+  ['hasmoddata',['HasModData',['../namespace_isaac.html#a2be34f58688ab40a3ac4b2292789ed7c',1,'Isaac']]],
   ['hasmortaldamage',['HasMortalDamage',['../class_entity.html#a4ea78431621cc619182512b8998935d9',1,'Entity']]],
   ['hasnulleffect',['HasNullEffect',['../class_temporary_effects.html#ae4a6aaa0d0050d1aab9f71fe85c94914',1,'TemporaryEffects']]],
   ['hasoverlay',['HasOverlay',['../class_config_1_1_costume.html#af2eea40c3b8a9a968bba2491def7211c',1,'Config::Costume']]],

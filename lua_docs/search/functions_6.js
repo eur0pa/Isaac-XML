@@ -21,6 +21,6 @@ var searchData=
   ['followparent',['FollowParent',['../class_entity_effect.html#ad384ab0a85d5c0bd3b904c886a42443f',1,'EntityEffect::FollowParent()'],['../class_entity_familiar.html#a4ba1df8ab58a57f5af6e72619268e8e9',1,'EntityFamiliar::FollowParent()']]],
   ['followposition',['FollowPosition',['../class_entity_familiar.html#a76f77fc4ad90dc6c94d30c834e69c089',1,'EntityFamiliar']]],
   ['forcehorsemanboss',['ForceHorsemanBoss',['../class_level.html#aadac1dd3a147c6acac9e7ec775db434a',1,'Level']]],
-  ['fromangle',['FromAngle',['../class_vector.html#a3421510b3ccf4c3ffd48b5df9588e7fc',1,'Vector']]],
+  ['fromangle',['FromAngle',['../class_vector.html#a07c35c26e27b8562aeac4069d5f580b9',1,'Vector']]],
   ['fullcharge',['FullCharge',['../class_entity_player.html#abb6c05883c59eab3211fb9d74257ccd6',1,'EntityPlayer']]]
 ];

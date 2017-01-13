@@ -7,5 +7,5 @@ var searchData=
   ['evadetarget',['EvadeTarget',['../class_path_finder.html#a3c4720291cc17bcdfde4259329720fce',1,'PathFinder']]],
   ['evaluateitems',['EvaluateItems',['../class_entity_player.html#a5dba278dcb6d32890628370421dee447',1,'EntityPlayer']]],
   ['exists',['Exists',['../class_entity.html#a244b5b22e40f30a6c40031064d010d90',1,'Entity']]],
-  ['explode',['Explode',['../namespace_isaac.html#a184e80d92f9698039cac77277019556c',1,'Isaac']]]
+  ['explode',['Explode',['../namespace_isaac.html#a1d893bb66d11042e89d4aa8db8a9e236',1,'Isaac']]]
 ];

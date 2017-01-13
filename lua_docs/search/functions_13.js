@@ -1,13 +1,13 @@
 var searchData=
 [
   ['takedamage',['TakeDamage',['../class_entity.html#a95415777def9412a45d51e216212e2aa',1,'Entity']]],
-  ['throwspider',['ThrowSpider',['../class_entity_n_p_c.html#addfe98b20b7d515e70a06251e7049a52',1,'EntityNPC']]],
+  ['throwspider',['ThrowSpider',['../class_entity_n_p_c.html#af4e60c26654f653e4002c421d13c4ad2',1,'EntityNPC']]],
   ['todecoration',['ToDecoration',['../class_grid_entity.html#acbd25df1463b76e218499f04335b2cb9',1,'GridEntity']]],
   ['todoor',['ToDoor',['../class_grid_entity.html#a6d9a8d56adf447acc2df0df7c57ec551',1,'GridEntity']]],
-  ['toeffect',['ToEffect',['../class_entity.html#a2764efb62e526d6e029443536db71501',1,'Entity::ToEffect()'],['../namespace_isaac.html#a78e50aef73250834969148dce10f486a',1,'Isaac::ToEffect()']]],
+  ['toeffect',['ToEffect',['../class_entity.html#a2764efb62e526d6e029443536db71501',1,'Entity::ToEffect()'],['../namespace_isaac.html#a311bc3a41a54fe9832fad0e17f348590',1,'Isaac::ToEffect()']]],
   ['tofamiliar',['ToFamiliar',['../class_entity.html#ad4971d9e217195500e7d25e505290482',1,'Entity']]],
   ['tonpc',['ToNPC',['../class_entity.html#a8c3d2fc2df4317ff1ad31a999f82d4f6',1,'Entity']]],
-  ['topickup',['ToPickup',['../class_entity.html#afa1f9755b7ab99911bfb4e8ee6511d7b',1,'Entity::ToPickup()'],['../namespace_isaac.html#afecbb543308cece983853295cc1c293b',1,'Isaac::ToPickup()']]],
+  ['topickup',['ToPickup',['../class_entity.html#afa1f9755b7ab99911bfb4e8ee6511d7b',1,'Entity::ToPickup()'],['../namespace_isaac.html#af4598f8efb4d0938a8bb39279a128e5c',1,'Isaac::ToPickup()']]],
   ['topit',['ToPit',['../class_grid_entity.html#a9565454fbd4a5526f188a32c581d6971',1,'GridEntity']]],
   ['toplayer',['ToPlayer',['../class_entity.html#a2626a8df8043d09974bf2133784a85d8',1,'Entity']]],
   ['topoop',['ToPoop',['../class_grid_entity.html#a339099729a9bbd05719bdeaee964172c',1,'GridEntity']]],

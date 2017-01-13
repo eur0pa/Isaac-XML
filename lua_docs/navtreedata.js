@@ -28,7 +28,7 @@ var NAVTREEINDEX =
 "annotated.html",
 "class_entity_laser.html",
 "class_entity_player.html#ad5c625fdc6d0651e4a5c5301341166a6",
-"class_level.html#ae5f06e317da93b6b1fe469d8ef97e511",
+"class_level.html#aeb4747d76c484b4f27eb46b457ad830b",
 "class_vector.html#aa5fcce60363f37a753eb5996bada6bf6",
 "group___enumerations.html#gga1a22039e4e87e271f7333d22a8d9e204a0a0b9439f60b404ab31e757ae684978d",
 "group___enumerations.html#gga1a22039e4e87e271f7333d22a8d9e204add6f354a44e7bd05db1065a8f3c25ed4",

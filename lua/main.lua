@@ -1,4 +1,4 @@
-function RegisterMod(modname)
+function RegisterMod(modname, apiversion)
   local mod = {
     Name = modname,
     AddCallback = function(self, callbackId, fn, entityId)
@@ -19,6 +19,6 @@ function RegisterMod(modname)
       Isaac.RemoveModData(self)
     end
   }
-  Isaac.RegisterMod(mod, modname)
+  Isaac.RegisterMod(mod, modname, apiversion)
   return mod
 end

@@ -25,7 +25,7 @@ var class_level =
     [ "GetHeartPicked", "class_level.html#a26a0052f6659a91c98fd8aad0610c51d", null ],
     [ "GetLastBossRoomListIndex", "class_level.html#a5d4614f860479af7e0795b197da11070", null ],
     [ "GetLastRoomDesc", "class_level.html#a8211a3416c15ec9a5303cc454779f0c2", null ],
-    [ "GetName", "class_level.html#a3241eb9df3cb942db50e3d4e641b6edf", null ],
+    [ "GetName", "class_level.html#aeb4747d76c484b4f27eb46b457ad830b", null ],
     [ "GetNonCompleteRoomIndex", "class_level.html#a25db9aa3f18c6fa0a836cef1f7985cdb", null ],
     [ "GetPreviousRoomIndex", "class_level.html#a1078ac0a8a6c0990dc3bd8c8becdedbf", null ],
     [ "GetRandomRoomIndex", "class_level.html#abec9b66c2f74597cff48896073851e6b", null ],

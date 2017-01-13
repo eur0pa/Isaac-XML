@@ -43,7 +43,7 @@ var searchData=
   ['isoverlayplaying',['IsOverlayPlaying',['../class_sprite.html#ab87dd6f14b1d7912ac1e7067bc27b64b',1,'Sprite']]],
   ['isp2appearing',['IsP2Appearing',['../class_entity_player.html#a2ab7a748021a8cb61d05427609f0e8e0',1,'EntityPlayer']]],
   ['ispaused',['IsPaused',['../class_game.html#a9ac4de1110a6a1180d82620b6e5e00c0',1,'Game']]],
-  ['isplayercreep',['IsPlayerCreep',['../class_entity_effect.html#addd36cfad075f5282556091f0fc1ffc5',1,'EntityEffect']]],
+  ['isplayercreep',['IsPlayerCreep',['../class_entity_effect.html#a55ea5bec476b09c5678458e26247b9ae',1,'EntityEffect']]],
   ['isplaying',['IsPlaying',['../class_sprite.html#a85f009761420a226d04e31ec1d1511d2',1,'Sprite']]],
   ['isposinspotlight',['IsPosInSpotLight',['../class_entity_player.html#a76860d20d5cd77712214d030ff97f6f4',1,'EntityPlayer']]],
   ['ispositioninroom',['IsPositionInRoom',['../class_room.html#adedc659ea548f7dd1058228b7a5919d7',1,'Room']]],
@@ -53,7 +53,7 @@ var searchData=
   ['isshopitem',['IsShopItem',['../class_entity_pickup.html#a2af7917125358065f587c6e1c7f111ac',1,'EntityPickup']]],
   ['istargetroomarcade',['IsTargetRoomArcade',['../class_grid_entity_door.html#a5000c1c645ff3b26c8007a068908b0cc',1,'GridEntityDoor']]],
   ['istrinket',['IsTrinket',['../class_config_1_1_item.html#a663db140b1c17f0abaf5d62703c4e326',1,'Config::Item']]],
-  ['isvalidcollectible',['IsValidCollectible',['../class_config_1_1_config.html#a2c886fca3c2047edd62e043620ee6e67',1,'Config::Config']]],
+  ['isvalidcollectible',['IsValidCollectible',['../class_config_1_1_config.html#af04e17568a362c62d01b60d717f505d2',1,'Config::Config']]],
   ['isvisible',['IsVisible',['../class_entity.html#aaf6f5a2947457c77eaf7878dc28b169c',1,'Entity']]],
   ['isvulnerableenemy',['IsVulnerableEnemy',['../class_entity.html#a3ed7a86dab2b50be20cbc967683424c6',1,'Entity']]]
 ];
