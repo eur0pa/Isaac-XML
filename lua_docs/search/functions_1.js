@@ -36,7 +36,7 @@ var searchData=
   ['addnullcostume',['AddNullCostume',['../class_entity_player.html#ace4edec66597617e44a1451d756746ef',1,'EntityPlayer']]],
   ['addnulleffect',['AddNullEffect',['../class_temporary_effects.html#aa13bb054e0d6a84af3ba5770617a2348',1,'TemporaryEffects']]],
   ['addpill',['AddPill',['../class_entity_player.html#a17fecf9e59a5d887958defe5fd8d8b64',1,'EntityPlayer']]],
-  ['addpilleffecttopoll',['AddPillEffectToPoll',['../namespace_isaac.html#aaeb981a94334759b65818ebb01f9714f',1,'Isaac']]],
+  ['addpilleffecttopool',['AddPillEffectToPool',['../namespace_isaac.html#a0e0108defc5e74aadab492f6cbb12ba4',1,'Isaac']]],
   ['addpixelation',['AddPixelation',['../class_game.html#a74158552c05d19f08fd215980046eb7a',1,'Game']]],
   ['addpoison',['AddPoison',['../class_entity.html#a3fa68380aec09bcb87bf91b3633f0a70',1,'Entity']]],
   ['addprettyfly',['AddPrettyFly',['../class_entity_player.html#a1dcb4349949559629008cc7f142d323f',1,'EntityPlayer']]],

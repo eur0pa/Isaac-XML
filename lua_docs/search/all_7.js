@@ -178,6 +178,8 @@ var searchData=
   ['getrandomtileindex',['GetRandomTileIndex',['../class_room.html#a98fe6d34841c03be7b1894cba4d6fefc',1,'Room']]],
   ['getrecentmovementvector',['GetRecentMovementVector',['../class_entity_player.html#a55cdba43d9588c095fca6d3b032ad915',1,'EntityPlayer']]],
   ['getredheartdamage',['GetRedHeartDamage',['../class_room.html#ad78ce2caeb21b23e31fe01240c53374c',1,'Room']]],
+  ['getrenderscrolloffset',['GetRenderScrollOffset',['../class_room.html#a69d811e63e2aea3fb728961c92879c7f',1,'Room']]],
+  ['getrendersurfacetopleft',['GetRenderSurfaceTopLeft',['../class_room.html#aeb1dda8844ed6c9bfc37345892bbb4a5',1,'Room']]],
   ['getrenderz',['GetRenderZ',['../class_entity_laser.html#a9b8fe1c1c7896c2f053d658262091eef',1,'EntityLaser::GetRenderZ()'],['../class_entity_knife.html#aeca1767d8d8a9125e3440fd13ee56e13',1,'EntityKnife::GetRenderZ()']]],
   ['getroom',['GetRoom',['../class_game.html#a84ec33d7ac1ab5a3b1b55a494032ec3d',1,'Game']]],
   ['getroombyidx',['GetRoomByIdx',['../class_level.html#a482d1e469fbe4bd1a8bf142717892561',1,'Level']]],

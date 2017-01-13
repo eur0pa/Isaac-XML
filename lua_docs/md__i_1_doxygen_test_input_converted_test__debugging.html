@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Binding of Isaac - Afterbirth+ Lua Reference/Guide: Class Members</title>
+<title>Binding of Isaac - Afterbirth+ Lua Reference/Guide: Using ZeroBrane Studio to debug your scripts</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -61,7 +61,7 @@ $(function() {
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('functions_w.html','');});
+$(document).ready(function(){initNavTree('md__i_1_doxygen_test_input_converted_test__debugging.html','');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -78,27 +78,22 @@ $(document).ready(function(){initNavTree('functions_w.html','');});
 </iframe>
 </div>
 
+<div class="header">
+  <div class="headertitle">
+<div class="title">Using ZeroBrane Studio to debug your scripts </div>  </div>
+</div><!--header-->
 <div class="contents">
-<div class="textblock">Here is a list of all class members with links to the classes they belong to:</div>
-
-<h3><a id="index_w"></a>- w -</h3><ul>
-<li>Wait
-: <a class="el" href="class_entity_pickup.html#a8b71d81bcdb9091edae700e4f7ceba2c">EntityPickup</a>
-</li>
-<li>WasEventTriggered()
-: <a class="el" href="class_sprite.html#a1ed50d281e74b764fa99108f82158b90">Sprite</a>
-</li>
-<li>WiggleFrameOffset
-: <a class="el" href="class_projectile_params.html#adc5d3b878ff4cd8430b22614413e630b">ProjectileParams</a>
-</li>
-<li>WillPlayerRevive()
-: <a class="el" href="class_entity_player.html#a76ada5c2648c15f6b51a68a36373c01c">EntityPlayer</a>
-</li>
-<li>WorldToScreenPosition()
-: <a class="el" href="class_room.html#a2f938a89690419bd82964b2a60d86400">Room</a>
-</li>
-</ul>
-</div><!-- contents -->
+<div class="textblock"><p>Debuggers are very valuable tools to diagnose problems with your code when you don't know exactly what your program is doing! You can get by with simple debug print statements, but some things are easier to track down with a debugger.</p>
+<ol type="1">
+<li>Download and install ZeroBrane Studio for your platform of choice.</li>
+<li>Add <code>--luadebug</code> to your launch options for <a class="el" href="namespace_isaac.html">Isaac</a> on Steam. Properties &gt; General &gt; Set Launch Options. The debugger will not work without this command line option.</li>
+<li>In Zerobrane, Open your Lua file. Go to the Project menu &gt; Project Directory &gt; Set from Current File. Project &gt; Start debugger server. You may get a popup to allow ZeroBrane to have network access.</li>
+<li>Add this line at the top of your main.lua file: <code>StartDebug()</code></li>
+<li>Start the game. The game will freeze up when the debugger triggers an automatic breakpoint.</li>
+</ol>
+<p>Now you can hit the green arrow button to continue execution. Check the ZeroBrane documentation if you need help with its debugging features.</p>
+<p>We strongly advise disabling <code>--luadebug</code> after you're done if you don't need access to the debug features! </p>
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->

@@ -241,6 +241,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8f70c039121c5633e8a8415544087f88"><td class="memItemLeft" align="right" valign="top">boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#a8f70c039121c5633e8a8415544087f88">IsFirstVisit</a> ()</td></tr>
 <tr class="memdesc:a8f70c039121c5633e8a8415544087f88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Broken Watch <a class="el" href="class_room.html">Room</a> State - 0 = no watch effect, 1 = speed down, 2 = speed up.  <a href="#a8f70c039121c5633e8a8415544087f88">More...</a><br /></td></tr>
 <tr class="separator:a8f70c039121c5633e8a8415544087f88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb1dda8844ed6c9bfc37345892bbb4a5"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="class_vector.html">Vector</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#aeb1dda8844ed6c9bfc37345892bbb4a5">GetRenderSurfaceTopLeft</a> ()</td></tr>
+<tr class="memdesc:aeb1dda8844ed6c9bfc37345892bbb4a5"><td class="mdescLeft">&#160;</td><td class="mdescRight">The position the floor and wall textures will be rendered at.  <a href="#aeb1dda8844ed6c9bfc37345892bbb4a5">More...</a><br /></td></tr>
+<tr class="separator:aeb1dda8844ed6c9bfc37345892bbb4a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69d811e63e2aea3fb728961c92879c7f"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="class_vector.html">Vector</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#a69d811e63e2aea3fb728961c92879c7f">GetRenderScrollOffset</a> ()</td></tr>
+<tr class="memdesc:a69d811e63e2aea3fb728961c92879c7f"><td class="mdescLeft">&#160;</td><td class="mdescRight">The camera scroll offset and screen shake offsets are both represented here.  <a href="#a69d811e63e2aea3fb728961c92879c7f">More...</a><br /></td></tr>
+<tr class="separator:a69d811e63e2aea3fb728961c92879c7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af089058908a13e8a356c672ec7cd2d88"><td class="memItemLeft" align="right" valign="top">boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#af089058908a13e8a356c672ec7cd2d88">HasWaterPits</a> ()</td></tr>
 <tr class="separator:af089058908a13e8a356c672ec7cd2d88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a219b269f741b6923f50be92fef8bce80"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group___enumerations.html#ga2f1970a814e3e61deec58584b8b45a1e">CollectibleType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#a219b269f741b6923f50be92fef8bce80">GetSeededCollectible</a> (integer Seed)</td></tr>
@@ -297,6 +303,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a56aa17295cca701dcb5b4a9c5101c8ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab420d510e646d21098beed13e2c0247f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#ab420d510e646d21098beed13e2c0247f">SetWallColor</a> (<a class="el" href="class_color.html">Color</a> WallColor)</td></tr>
 <tr class="separator:ab420d510e646d21098beed13e2c0247f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f938a89690419bd82964b2a60d86400"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_room.html#a2f938a89690419bd82964b2a60d86400">WorldToScreenPosition</a> (<a class="el" href="class_vector.html">Vector</a> WorldPos)</td></tr>
+<tr class="memdesc:a2f938a89690419bd82964b2a60d86400"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts an entity position to one that can be used to render to the screen.  <a href="#a2f938a89690419bd82964b2a60d86400">More...</a><br /></td></tr>
+<tr class="separator:a2f938a89690419bd82964b2a60d86400"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a14eb7072cfa4553c609439ebb932c92e"></a>
@@ -1172,6 +1181,44 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a69d811e63e2aea3fb728961c92879c7f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69d811e63e2aea3fb728961c92879c7f">&#9670;&nbsp;</a></span>GetRenderScrollOffset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="class_vector.html">Vector</a>&amp; Room::GetRenderScrollOffset </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The camera scroll offset and screen shake offsets are both represented here. </p>
+
+</div>
+</div>
+<a id="aeb1dda8844ed6c9bfc37345892bbb4a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb1dda8844ed6c9bfc37345892bbb4a5">&#9670;&nbsp;</a></span>GetRenderSurfaceTopLeft()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="class_vector.html">Vector</a>&amp; Room::GetRenderSurfaceTopLeft </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The position the floor and wall textures will be rendered at. </p>
 
 </div>
 </div>
@@ -2314,6 +2361,26 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2f938a89690419bd82964b2a60d86400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f938a89690419bd82964b2a60d86400">&#9670;&nbsp;</a></span>WorldToScreenPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_vector.html">Vector</a> Room::WorldToScreenPosition </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_vector.html">Vector</a>&#160;</td>
+          <td class="paramname"><em>WorldPos</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Converts an entity position to one that can be used to render to the screen. </p>
 
 </div>
 </div>

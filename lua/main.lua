@@ -22,3 +22,14 @@ function RegisterMod(modname, apiversion)
   Isaac.RegisterMod(mod, modname, apiversion)
   return mod
 end
+
+function StartDebug()
+  local ok, m = pcall(require, 'mobdebug') 
+  if ok and m then
+    m.start()
+  else
+    Isaac.DebugString("Failed to start debugging.")
+    -- m is now the error 
+    -- Isaac.DebugString(m)
+  end
+end

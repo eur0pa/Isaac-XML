@@ -43,6 +43,8 @@ var class_room =
     [ "GetRandomPosition", "class_room.html#a902a33b009e27781f6dbd34b76f834f5", null ],
     [ "GetRandomTileIndex", "class_room.html#a98fe6d34841c03be7b1894cba4d6fefc", null ],
     [ "GetRedHeartDamage", "class_room.html#ad78ce2caeb21b23e31fe01240c53374c", null ],
+    [ "GetRenderScrollOffset", "class_room.html#a69d811e63e2aea3fb728961c92879c7f", null ],
+    [ "GetRenderSurfaceTopLeft", "class_room.html#aeb1dda8844ed6c9bfc37345892bbb4a5", null ],
     [ "GetRoomConfigStage", "class_room.html#aa8eead35aa6d967b2c6d630c3ea21835", null ],
     [ "GetRoomShape", "class_room.html#aceb9fdf7b92370a114ebe3fac60bf07c", null ],
     [ "GetSecondBossID", "class_room.html#ae2ee38197eb8a5fd7c328744f8603085", null ],
@@ -100,5 +102,6 @@ var class_room =
     [ "TrySpawnMegaSatanRoomDoor", "class_room.html#a7b9e809a1907f6c107ef0d9d5b3fbaf2", null ],
     [ "TrySpawnTheVoidDoor", "class_room.html#a63d9fdc6cf41b966914b516166329df6", null ],
     [ "TurnGold", "class_room.html#a1d2fcc21c10e96dd201b4d4b892b484b", null ],
-    [ "Update", "class_room.html#a94feecc8bff88cf4d187e6bd9462a880", null ]
+    [ "Update", "class_room.html#a94feecc8bff88cf4d187e6bd9462a880", null ],
+    [ "WorldToScreenPosition", "class_room.html#a2f938a89690419bd82964b2a60d86400", null ]
 ];
