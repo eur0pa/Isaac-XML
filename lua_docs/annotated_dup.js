@@ -25,6 +25,7 @@ var annotated_dup =
     [ "ProjectileParams", "class_projectile_params.html", "class_projectile_params" ],
     [ "RNG", "class_r_n_g.html", "class_r_n_g" ],
     [ "Room", "class_room.html", "class_room" ],
+    [ "ShockwaveParams", "class_shockwave_params.html", "class_shockwave_params" ],
     [ "Sprite", "class_sprite.html", "class_sprite" ],
     [ "TearParams", "class_tear_params.html", "class_tear_params" ],
     [ "TemporaryEffect", "class_temporary_effect.html", "class_temporary_effect" ],

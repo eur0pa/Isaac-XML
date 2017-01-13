@@ -10,6 +10,7 @@ var searchData=
   ['addkeys',['AddKeys',['../class_config_1_1_item.html#abcacb95ee223db124377009136adcd63',1,'Config::Item']]],
   ['addmaxhearts',['AddMaxHearts',['../class_config_1_1_item.html#acd833d7489966a9bc2280bae4a8ad453',1,'Config::Item']]],
   ['addsoulhearts',['AddSoulHearts',['../class_config_1_1_item.html#a4d90317bcbc276f36b2496125a02901c',1,'Config::Item']]],
+  ['age',['Age',['../class_shockwave_params.html#a0b6c967382dcc33588d1030a9fa14888',1,'ShockwaveParams']]],
   ['angle',['Angle',['../class_entity_laser.html#a531e48848abbf79f321d1a78cdc98238',1,'EntityLaser']]],
   ['angledegrees',['AngleDegrees',['../class_entity_laser.html#a7100eed09ecfe3cec73127c24601b8a5',1,'EntityLaser']]],
   ['anm2path',['Anm2Path',['../class_config_1_1_costume.html#a8faa40943b39186d568ce9c3c8e6e6e9',1,'Config::Costume']]]

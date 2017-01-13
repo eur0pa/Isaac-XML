@@ -75,7 +75,7 @@ var class_game =
     [ "SpawnEntityDesc", "class_game.html#ab7b7c5c0a4b8d0e7d62aff420271392e", null ],
     [ "SpawnParticles", "class_game.html#a41381eb0e2ea7cc1c9f0ad2abe23df8e", null ],
     [ "StartRoomTransition", "class_game.html#ae1d94645c1365dfefb8fa824e341dedf", null ],
-    [ "StartStageTransition", "class_game.html#afe3c60e2079637e6a8c5d04d0c2c6a19", null ],
+    [ "StartStageTransition", "class_game.html#aa6b49ca8563c6d9895fb7204664fa1aa", null ],
     [ "Update", "class_game.html#adfc3c2122f7315583f9cd5450660ea09", null ],
     [ "UpdateStrangeAttractor", "class_game.html#abf5b842a0a284f0e05f2ba6182fc8b4f", null ],
     [ "Challenge", "class_game.html#accfd7ca8f7a31ce97fe815b8773887ff", null ],

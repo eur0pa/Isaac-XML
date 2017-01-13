@@ -30,5 +30,6 @@ var searchData=
   ['stickdiff',['StickDiff',['../class_entity_tear.html#a2a9d730b54502a2780ac794aa1147f86',1,'EntityTear']]],
   ['sticktarget',['StickTarget',['../class_entity_tear.html#a4a5ca6daf586dc1de852a8edc75f3722',1,'EntityTear']]],
   ['sticktimer',['StickTimer',['../class_entity_tear.html#a7cfd7914adbb43d68b395e69de3ffecd',1,'EntityTear']]],
+  ['strength',['Strength',['../class_shockwave_params.html#aae0759741099f8ff4494a0622cf6bc4d',1,'ShockwaveParams']]],
   ['subtype',['SubType',['../class_entity.html#a31a421e964b8c7033a8717842c242a95',1,'Entity']]]
 ];

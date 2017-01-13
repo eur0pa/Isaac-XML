@@ -9,7 +9,7 @@ var searchData=
   ['playbackspeed',['PlaybackSpeed',['../class_sprite.html#af73c407f001b1ceec4a4bd3d23e24017',1,'Sprite']]],
   ['player',['Player',['../class_entity_familiar.html#a1dac03df876ca103f0e58f66faaa9b7b',1,'EntityFamiliar']]],
   ['posdisplacement',['PosDisplacement',['../class_entity_tear.html#a1ee4fbd2d4f982eef0c5abcd6a6874a2',1,'EntityTear']]],
-  ['position',['Position',['../class_entity_ref.html#a047cd4a734753658690a72c2be41d801',1,'EntityRef::Position()'],['../class_player_types_1_1_pos_vel.html#a8de971b12565472fb9d42307463f9abf',1,'PlayerTypes::PosVel::Position()'],['../class_entity.html#a2be308f1982d4eec2c043a5ab66e899f',1,'Entity::Position()'],['../class_grid_entity.html#a31a197cf6e5d32aa6f1cf028f5d05cb9',1,'GridEntity::Position()']]],
+  ['position',['Position',['../class_entity_ref.html#a047cd4a734753658690a72c2be41d801',1,'EntityRef::Position()'],['../class_player_types_1_1_pos_vel.html#a8de971b12565472fb9d42307463f9abf',1,'PlayerTypes::PosVel::Position()'],['../class_entity.html#a2be308f1982d4eec2c043a5ab66e899f',1,'Entity::Position()'],['../class_grid_entity.html#a31a197cf6e5d32aa6f1cf028f5d05cb9',1,'GridEntity::Position()'],['../class_shockwave_params.html#a7e4dfcd17d4566a52541c3cdcd8c309f',1,'ShockwaveParams::Position()']]],
   ['positionoffset',['PositionOffset',['../class_projectile_params.html#af089747f0a55938bfed20aa0c1c7da4a',1,'ProjectileParams::PositionOffset()'],['../class_entity.html#a62a662e8f3c72fcb9c1212dee5cb12dc',1,'Entity::PositionOffset()']]],
   ['previousstate',['PreviousState',['../class_grid_entity_door.html#a6f7dcc33f6c03761c626d0bb6ffd43fd',1,'GridEntityDoor']]],
   ['previousvariant',['PreviousVariant',['../class_grid_entity_door.html#ae62f20e9d535cb6a33e49c779120e7f5',1,'GridEntityDoor']]],

@@ -24,7 +24,6 @@ var class_grid_entity =
     [ "ToWall", "class_grid_entity.html#a4ebb80cd4ecaa6b6c7e02909eb7cd044", null ],
     [ "ToWeb", "class_grid_entity.html#a1ee9dc5abb77fdc4a9767eca9ee95356", null ],
     [ "Update", "class_grid_entity.html#acc61aaa7c5015055ca3f9356e339817f", null ],
-    [ "CollisionClass", "class_grid_entity.html#ae570a2584615dc2b36d4eda931645932", null ],
     [ "CollisionClass", "class_grid_entity.html#a6376be8fe47d7993957209e1734b7dd6", null ],
     [ "Desc", "class_grid_entity.html#a15555d82d8f375a5f55ca2121b8b27e4", null ],
     [ "Position", "class_grid_entity.html#a31a197cf6e5d32aa6f1cf028f5d05cb9", null ],

@@ -49,7 +49,7 @@ var searchData=
   ['setroomtypes',['SetRoomTypes',['../class_grid_entity_door.html#a768688e35f771e3714db1418b077e54e',1,'GridEntityDoor']]],
   ['setsacrificedone',['SetSacrificeDone',['../class_room.html#a072fdcbbb8b5be534f2fc3b5dfdb6ccf',1,'Room']]],
   ['setseed',['SetSeed',['../class_r_n_g.html#a35f02f4b94f4a7d3e7914645f2fd991b',1,'RNG']]],
-  ['setshockwaveparam',['SetShockwaveParam',['../class_room.html#acf31788570a69e746ca2e1f0753dfce8',1,'Room']]],
+  ['setshockwaveparam',['SetShockwaveParam',['../class_room.html#a178ce7a5558585a7b080a647415ab9bf',1,'Room']]],
   ['setshootingcooldown',['SetShootingCooldown',['../class_entity_player.html#a4ffe93a12f9f2c9d8589f459a0fdb58f',1,'EntityPlayer']]],
   ['setsize',['SetSize',['../class_entity.html#a2803ec924a2c9dfa5398908fd8191efb',1,'Entity']]],
   ['setslowdown',['SetSlowDown',['../class_room.html#a57014c0b39d3506fa6900b5623a6a076',1,'Room']]],
@@ -84,7 +84,7 @@ var searchData=
   ['spawnparticles',['SpawnParticles',['../class_game.html#a41381eb0e2ea7cc1c9f0ad2abe23df8e',1,'Game']]],
   ['sprite',['Sprite',['../class_sprite.html#abee3d268d8e467d9e23bfe0693e64144',1,'Sprite']]],
   ['startroomtransition',['StartRoomTransition',['../class_game.html#ae1d94645c1365dfefb8fa824e341dedf',1,'Game']]],
-  ['startstagetransition',['StartStageTransition',['../class_game.html#afe3c60e2079637e6a8c5d04d0c2c6a19',1,'Game']]],
+  ['startstagetransition',['StartStageTransition',['../class_game.html#aa6b49ca8563c6d9895fb7204664fa1aa',1,'Game']]],
   ['stop',['Stop',['../class_sprite.html#a08d8f3eadcc9c15d9a7fee7d5f4b8a3c',1,'Sprite']]],
   ['stopextraanimation',['StopExtraAnimation',['../class_entity_player.html#a7b2f49b67666f8583a2e682003f4fcb7',1,'EntityPlayer']]]
 ];

@@ -4,7 +4,7 @@ var class_config_1_1_config =
     [ "GetCards", "class_config_1_1_config.html#af18a2ba698fea56930ead3de27e5507a", null ],
     [ "GetCollectible", "class_config_1_1_config.html#aa2f4adca5bddb2ab429a6d118ffe5a2f", null ],
     [ "GetCollectibles", "class_config_1_1_config.html#abd0f9be4a25e567cb68a8834a77e4351", null ],
-    [ "GetCostumes", "class_config_1_1_config.html#a906aa6b8cd04e770f78e9716d4c5869b", null ],
+    [ "GetCostumes", "class_config_1_1_config.html#aa61cff364bd5f0b5656a328ad948685a", null ],
     [ "GetNullItem", "class_config_1_1_config.html#ae72eaf980c7e46d623922d7df81b0541", null ],
     [ "GetNullItems", "class_config_1_1_config.html#a40e52f8cc9d251d5c7914a4cf681ecee", null ],
     [ "GetPillEffect", "class_config_1_1_config.html#a9a69d3466def3fb74f24bb42fae18c67", null ],

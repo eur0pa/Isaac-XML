@@ -14,7 +14,7 @@ var searchData=
   ['circleangle',['CircleAngle',['../class_projectile_params.html#a2437dd4201892b6264f85a16629a0667',1,'ProjectileParams']]],
   ['closeanimation',['CloseAnimation',['../class_grid_entity_door.html#a3d58a6a1db1c5c8885329c4b54da89cd',1,'GridEntityDoor']]],
   ['coins',['Coins',['../class_entity_familiar.html#ad9a15d3845de1f1c419d0cc37082b5eb',1,'EntityFamiliar']]],
-  ['collisionclass',['CollisionClass',['../class_grid_entity.html#ae570a2584615dc2b36d4eda931645932',1,'GridEntity::CollisionClass()'],['../class_grid_entity.html#a6376be8fe47d7993957209e1734b7dd6',1,'GridEntity::CollisionClass()']]],
+  ['collisionclass',['CollisionClass',['../class_grid_entity.html#a6376be8fe47d7993957209e1734b7dd6',1,'GridEntity']]],
   ['collisiondamage',['CollisionDamage',['../class_entity.html#adc59845247bb82e2b466d8ed122dab17',1,'Entity']]],
   ['color',['Color',['../class_sprite.html#aa5dfccb47c9273c2e0822ef78cacbf45',1,'Sprite::Color()'],['../class_projectile_params.html#ad85973979bf3e5cb42d700e0ae338faf',1,'ProjectileParams::Color()'],['../class_entity.html#a9722983b17a0e08aa9325950287a7aeb',1,'Entity::Color()']]],
   ['continuevelocity',['ContinueVelocity',['../class_entity_tear.html#a0e78f69eaf515e229f99dc3f74223245',1,'EntityTear']]],

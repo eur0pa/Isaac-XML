@@ -671,7 +671,7 @@ var searchData=
   ['collision_5fsolid',['COLLISION_SOLID',['../group___enumerations.html#gga4c0d9bdd063a76821a5ad3030f586e17ad2a0828ea5767c4757dc6e52e56f17d3',1,'Enums.h']]],
   ['collision_5fwall',['COLLISION_WALL',['../group___enumerations.html#gga4c0d9bdd063a76821a5ad3030f586e17a278455fe6fd648950c32075a9b1d061e',1,'Enums.h']]],
   ['collision_5fwall_5fexcept_5fplayer',['COLLISION_WALL_EXCEPT_PLAYER',['../group___enumerations.html#gga4c0d9bdd063a76821a5ad3030f586e17adc0e1793a71473ae3d5348dd682a7f4c',1,'Enums.h']]],
-  ['collisionclass',['CollisionClass',['../class_grid_entity.html#ae570a2584615dc2b36d4eda931645932',1,'GridEntity::CollisionClass()'],['../class_grid_entity.html#a6376be8fe47d7993957209e1734b7dd6',1,'GridEntity::CollisionClass()']]],
+  ['collisionclass',['CollisionClass',['../class_grid_entity.html#a6376be8fe47d7993957209e1734b7dd6',1,'GridEntity']]],
   ['collisiondamage',['CollisionDamage',['../class_entity.html#adc59845247bb82e2b466d8ed122dab17',1,'Entity']]],
   ['color',['Color',['../class_color.html',1,'Color'],['../class_sprite.html#aa5dfccb47c9273c2e0822ef78cacbf45',1,'Sprite::Color()'],['../class_projectile_params.html#ad85973979bf3e5cb42d700e0ae338faf',1,'ProjectileParams::Color()'],['../class_entity.html#a9722983b17a0e08aa9325950287a7aeb',1,'Entity::Color()'],['../class_color.html#abfab99e1ad10cdb66e5f8cfd7d273cd6',1,'Color::Color()']]],
   ['config',['Config',['../class_config_1_1_config.html',1,'Config::Config'],['../namespace_config.html',1,'Config']]],

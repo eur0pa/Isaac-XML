@@ -32,6 +32,7 @@ var hierarchy =
     [ "ProjectileParams", "class_projectile_params.html", null ],
     [ "RNG", "class_r_n_g.html", null ],
     [ "Room", "class_room.html", null ],
+    [ "ShockwaveParams", "class_shockwave_params.html", null ],
     [ "Sprite", "class_sprite.html", null ],
     [ "TearParams", "class_tear_params.html", null ],
     [ "TemporaryEffect", "class_temporary_effect.html", null ],

@@ -24,6 +24,8 @@ var searchData=
   ['temporaryeffects',['TemporaryEffects',['../class_temporary_effects.html',1,'']]],
   ['theresoptionspickup',['TheresOptionsPickup',['../class_entity_pickup.html#a5195ffe3b8b865b83b157531901f4143',1,'EntityPickup']]],
   ['throwspider',['ThrowSpider',['../class_entity_n_p_c.html#af4e60c26654f653e4002c421d13c4ad2',1,'EntityNPC']]],
+  ['time',['Time',['../class_shockwave_params.html#a2422d035adf40ed3a5b343f077e1aad1',1,'ShockwaveParams']]],
+  ['timedt',['TimeDT',['../class_shockwave_params.html#ae439dad53f7605468e1c81aef528373f',1,'ShockwaveParams']]],
   ['timeout',['Timeout',['../class_entity_pickup.html#a6cd244af7bd3a419c1ae5350044f315a',1,'EntityPickup::Timeout()'],['../class_entity_effect.html#a997b7de0287f4101e0dc11197cf90430',1,'EntityEffect::Timeout()'],['../class_entity_laser.html#ac0596812cd07b70ead7374b56a91b37f',1,'EntityLaser::Timeout()']]],
   ['tiny_5fbug',['TINY_BUG',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a6cbbfd07d783fb30b116acdd382ab003',1,'Enums.h']]],
   ['tiny_5ffly',['TINY_FLY',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a273d88f7ebac35e2f47a1875e300564f',1,'Enums.h']]],

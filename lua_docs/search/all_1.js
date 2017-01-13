@@ -62,6 +62,7 @@ var searchData=
   ['addtrinket',['AddTrinket',['../class_entity_player.html#a4c706916e1bb9208036e9b11532824a3',1,'EntityPlayer']]],
   ['addtrinketeffect',['AddTrinketEffect',['../class_temporary_effects.html#ad352c02d13a693225933cc332000bc20',1,'TemporaryEffects']]],
   ['addvelocity',['AddVelocity',['../class_entity.html#acfa5b8fd533eec14f7526a72e3de183e',1,'Entity']]],
+  ['age',['Age',['../class_shockwave_params.html#a0b6c967382dcc33588d1030a9fa14888',1,'ShockwaveParams']]],
   ['angel',['ANGEL',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a8c8af5d7095e6bbb56c1af45447990cc',1,'Enums.h']]],
   ['angle',['Angle',['../class_entity_laser.html#a531e48848abbf79f321d1a78cdc98238',1,'EntityLaser']]],
   ['angledegrees',['AngleDegrees',['../class_entity_laser.html#a7100eed09ecfe3cec73127c24601b8a5',1,'EntityLaser']]],

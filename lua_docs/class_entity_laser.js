@@ -2,9 +2,9 @@ var class_entity_laser =
 [
     [ "CalculateEndPoint", "class_entity_laser.html#a4def08593cf7fef5e3c9fe4f7ea16fb0", null ],
     [ "GetEndPoint", "class_entity_laser.html#a938509ea2ecaf2218f9b5e26210da070", null ],
-    [ "GetNonOptimizedSamples", "class_entity_laser.html#a3a88866a12f1e224454597fbb79859b2", null ],
+    [ "GetNonOptimizedSamples", "class_entity_laser.html#a91fac0a00eac518fb94e87a17a0f79c0", null ],
     [ "GetRenderZ", "class_entity_laser.html#a9b8fe1c1c7896c2f053d658262091eef", null ],
-    [ "GetSamples", "class_entity_laser.html#a0a695f914a5dccf2d3303f568f42b821", null ],
+    [ "GetSamples", "class_entity_laser.html#a0eae955640e1230501667f0a5d005e0a", null ],
     [ "IsCircleLaser", "class_entity_laser.html#a9cdf7e718297839f409e758b9eae5880", null ],
     [ "IsSampleLaser", "class_entity_laser.html#ac5a3a3af3fd9a116b5fb07588286dabc", null ],
     [ "SetActiveRotation", "class_entity_laser.html#a2afe16cbedc11bfd1979a392c41b9ed2", null ],
