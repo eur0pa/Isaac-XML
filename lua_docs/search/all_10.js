@@ -177,5 +177,7 @@ var searchData=
   ['projectiledelay',['ProjectileDelay',['../class_entity_n_p_c.html#a77ba4dc74119155772c23264da44ff31',1,'EntityNPC']]],
   ['projectileparams',['ProjectileParams',['../class_projectile_params.html',1,'ProjectileParams'],['../class_projectile_params.html#a383a2cbd00f9cd2d569d4f6bacf71c4f',1,'ProjectileParams::ProjectileParams()']]],
   ['pulling_5feffect',['PULLING_EFFECT',['../group___enumerations.html#gga76f2089184023be252ef251921626d99aa4d443ffcc724d298830635c294af6ff',1,'Enums.h']]],
-  ['punching_5fbag',['PUNCHING_BAG',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeae6779470cb54653f0aa83f744eb6f103',1,'Enums.h']]]
+  ['punching_5fbag',['PUNCHING_BAG',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeae6779470cb54653f0aa83f744eb6f103',1,'Enums.h']]],
+  ['pupula',['PUPULA',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359ae0b71d15b782e89a5f07c9d1cf54195c',1,'Enums.h']]],
+  ['pupula_5fblood',['PUPULA_BLOOD',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a6a6492a529f825e0fa0e0a5e15d72372',1,'Enums.h']]]
 ];

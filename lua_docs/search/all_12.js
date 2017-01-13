@@ -8,6 +8,7 @@ var searchData=
   ['randomfloat',['RandomFloat',['../class_r_n_g.html#aff64747fb47ce379dcc6d73b95bf5503',1,'RNG']]],
   ['randomint',['RandomInt',['../class_r_n_g.html#aa4538babec8141615eb873917f7d6016',1,'RNG']]],
   ['randomvector',['RandomVector',['../group___functions.html#ga1c1c3aca8b6e9a035bae2c4604c999b2',1,'Output.h']]],
+  ['razor',['RAZOR',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a866d5f4b82811a35b5bd675bed5530e3',1,'Enums.h']]],
   ['red_5fcandle_5fflame',['RED_CANDLE_FLAME',['../group___enumerations.html#gga76f2089184023be252ef251921626d99ac7cc6c24e6e44f662d8717fcb8979927',1,'Enums.h']]],
   ['ref',['Ref',['../class_entity_ptr.html#aefc0fd852a7bd6904630e1d2b7395e1f',1,'EntityPtr']]],
   ['registermod',['RegisterMod',['../namespace_isaac.html#a340b626f61bc1eec35fd6559fa9c30fe',1,'Isaac']]],

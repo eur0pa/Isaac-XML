@@ -1,6 +1,7 @@
 var searchData=
 [
   ['rainbow_5fbaby',['RAINBOW_BABY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbead5169494eaeed4aac33c73ef1a680142',1,'Enums.h']]],
+  ['razor',['RAZOR',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a866d5f4b82811a35b5bd675bed5530e3',1,'Enums.h']]],
   ['red_5fcandle_5fflame',['RED_CANDLE_FLAME',['../group___enumerations.html#gga76f2089184023be252ef251921626d99ac7cc6c24e6e44f662d8717fcb8979927',1,'Enums.h']]],
   ['relic',['RELIC',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbead8f36fe083de2b295a968619ecb6d510',1,'Enums.h']]],
   ['right',['RIGHT',['../group___enumerations.html#gga224b9163917ac32fc95a60d8c1eec3aaaec8379af7490bb9eaaf579cf17876f38',1,'Enums.h']]],

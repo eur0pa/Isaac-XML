@@ -23,7 +23,8 @@ ModCallbacks = {
 	-- If the entity is an EntityPlayer, the DamageAmount is the integer number of half-hearts of damage that the player will take. Otherwise, DamageAmount is a number of hit points.
 	-- Called before new damage is applied. A DAMAGE_COUNTDOWN flag means the entity will ignore any other DAMAGE_COUNTDOWN hits for the duration specified.
 	-- When adding callback, specify an EntityType to respond to only damage taken by that entity type.
-	MC_ENTITY_TAKE_DMG = 11		
+	MC_ENTITY_TAKE_DMG = 11,
+	MC_POST_CURSE_EVAL = 12 -- Callback is a method that takes (integer Curses). Curses is a bitmask containing current curses. Called after Level applied it's curses. Returns the new curse bitmask. Use Isaac.GetCurseIdByName to get a custom curse
 }
 
 EntityType = {
@@ -2292,4 +2293,40 @@ Card = {
 	CARD_EMERGENCY_CONTACT = 50,
 	CARD_HOLY = 51,
 	NUM_CARDS = 52
+}
+
+TearVariant = {
+	BLUE = 0,
+	BLOOD = 1,
+	TOOTH = 2,
+	METALLIC = 3,
+	BOBS_HEAD = 4,
+	FIRE_MIND = 5,
+	DARK_MATTER = 6,
+	MYSTERIOUS = 7,
+	SCHYTHE = 8,
+	CHAOS_CARD = 9,
+	LOST_CONTACT = 10,
+	CUPID_BLUE = 11,
+	CUPID_BLOOD = 12,
+	NAIL = 13,
+	PUPULA = 14,
+	PUPULA_BLOOD = 15,
+	GODS_FLESH = 16,
+	GODS_FLESH_BLOOD = 17,
+	DIAMOND = 18,
+	EXPLOSIVO = 19,
+	COIN = 20,
+	MULTIDIMENSIONAL = 21,
+	STONE = 22,
+	NAIL_BLOOD = 23,
+	GLAUCOMA = 24,
+	GLAUCOMA_BLOOD = 25,
+	BOOGER = 26,
+	EGG = 27,
+	RAZOR = 28,
+	BONE = 29,
+	BLACK_TOOTH = 30,
+	NEEDLE = 31,
+	BELIAL = 32
 }

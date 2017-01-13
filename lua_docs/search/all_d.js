@@ -16,6 +16,7 @@ var searchData=
   ['mc_5ffamiliar_5finit',['MC_FAMILIAR_INIT',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1abefa2eee8779a30402d407022a2fe961',1,'Enums.h']]],
   ['mc_5ffamiliar_5fupdate',['MC_FAMILIAR_UPDATE',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a8c29e3fadaae7b4f78e75e5a8cb4848f',1,'Enums.h']]],
   ['mc_5fnpc_5fupdate',['MC_NPC_UPDATE',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a3c4f9e6f99171bdb3590c62127a76e29',1,'Enums.h']]],
+  ['mc_5fpost_5fcurse_5feval',['MC_POST_CURSE_EVAL',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1acf2e9feadf1ef655ac57503a8bb1291e',1,'Enums.h']]],
   ['mc_5fpost_5fpeffect_5fupdate',['MC_POST_PEFFECT_UPDATE',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a710c845d132e65d89ff72854b715a2f7',1,'Enums.h']]],
   ['mc_5fpost_5fplayer_5finit',['MC_POST_PLAYER_INIT',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a93c08c26fb4f23c91d47a5938f1e6f29',1,'Enums.h']]],
   ['mc_5fpost_5frender',['MC_POST_RENDER',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a4e5cb9195df683ac69621c4211e26eac',1,'Enums.h']]],
@@ -23,6 +24,7 @@ var searchData=
   ['mc_5fuse_5fcard',['MC_USE_CARD',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a92c7dd414e91aa3af84cadd87b20f388',1,'Enums.h']]],
   ['mc_5fuse_5fitem',['MC_USE_ITEM',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1aa1523b5f4055795419b1210dd7e4277c',1,'Enums.h']]],
   ['mc_5fuse_5fpill',['MC_USE_PILL',['../group___enumerations.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1ab267dd070d135049afed42d9c92707bb',1,'Enums.h']]],
+  ['metallic',['METALLIC',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359acb8284278d67bd4020563e14555f8c18',1,'Enums.h']]],
   ['milk',['MILK',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea6798172794cfa38710e271df1320a57c',1,'Enums.h']]],
   ['minradius',['MinRadius',['../class_entity_effect.html#a3a9f5a0bf2573a2d26611f066e14411c',1,'EntityEffect']]],
   ['modcallbacks',['ModCallbacks',['../group___enumerations.html#ga84d8f7ea5c80b37ad1c55b2a97286eb1',1,'Enums.h']]],
@@ -40,6 +42,7 @@ var searchData=
   ['moverandomlyboss',['MoveRandomlyBoss',['../class_path_finder.html#a02166808725f09faaf6df05ddf4e3513',1,'PathFinder']]],
   ['movespeed',['MoveSpeed',['../class_entity_player.html#a754dc33235da0b63f2e67046eb0e8316',1,'EntityPlayer']]],
   ['movetorandomroom',['MoveToRandomRoom',['../class_game.html#ab01e756e8ffd4af7db99d3f163fd3595',1,'Game']]],
+  ['multidimensional',['MULTIDIMENSIONAL',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a5d941e9883dca9a39cd2c7228591b6ce',1,'Enums.h']]],
   ['multidimensional_5fbaby',['MULTIDIMENSIONAL_BABY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea5961dc11bc996e19a0927704f1a217b1',1,'Enums.h']]],
   ['multiplyfriction',['MultiplyFriction',['../class_entity.html#af45785e4f70fe0b4c656466d24f727f9',1,'Entity']]],
   ['music',['Music',['../group___enumerations.html#gaf0f11632042073b26283ebf65c46b25f',1,'Enums.h']]],
@@ -102,5 +105,6 @@ var searchData=
   ['music_5fvoid',['MUSIC_VOID',['../group___enumerations.html#ggaf0f11632042073b26283ebf65c46b25fad8444422a6fc7217bd2beefc96e99ec1',1,'Enums.h']]],
   ['music_5fvoid_5fboss',['MUSIC_VOID_BOSS',['../group___enumerations.html#ggaf0f11632042073b26283ebf65c46b25fa5a163cae7501a7ce26f10c9f6f1954ad',1,'Enums.h']]],
   ['music_5fwomb_5futero',['MUSIC_WOMB_UTERO',['../group___enumerations.html#ggaf0f11632042073b26283ebf65c46b25fae44ceed898b7434f322220b2cc820e20',1,'Enums.h']]],
+  ['mysterious',['MYSTERIOUS',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359ae26f9081170a46698ef28e8cef8ab448',1,'Enums.h']]],
   ['mystery_5fsack',['MYSTERY_SACK',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea0938c9c7e41752353026eb81666a1d4d',1,'Enums.h']]]
 ];

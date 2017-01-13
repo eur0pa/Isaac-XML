@@ -1,6 +1,7 @@
 var searchData=
 [
   ['effect_5fnull',['EFFECT_NULL',['../group___enumerations.html#gga76f2089184023be252ef251921626d99ae42a5413493f27e247f58f8d7079d1e7',1,'Enums.h']]],
+  ['egg',['EGG',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359aa614717deb0ac5c584efceb2b3575d1c',1,'Enums.h']]],
   ['ember_5fparticle',['EMBER_PARTICLE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a027cf6be9eaf6724b8267dfbbc491c41',1,'Enums.h']]],
   ['entcoll_5fall',['ENTCOLL_ALL',['../group___enumerations.html#gga6873e3f9a5d2ca58547e0126c7caefa8af4a16b24bba319c2360113d3507c6ac7',1,'Enums.h']]],
   ['entcoll_5fenemies',['ENTCOLL_ENEMIES',['../group___enumerations.html#gga6873e3f9a5d2ca58547e0126c7caefa8aca0c6d80c2fbd5736444d3c2c1a801e6',1,'Enums.h']]],
@@ -217,5 +218,6 @@ var searchData=
   ['entity_5fwizoob',['ENTITY_WIZOOB',['../group___enumerations.html#ggad79a57ed3105eb60d991a1aeb4a9dc44a48332d189e00649f70fb4770c7e8bed3',1,'Enums.h']]],
   ['entity_5fwrath',['ENTITY_WRATH',['../group___enumerations.html#ggad79a57ed3105eb60d991a1aeb4a9dc44a5fe926980518a782ba0cb7130b92c02e',1,'Enums.h']]],
   ['eves_5fbird_5ffoot',['EVES_BIRD_FOOT',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea68ef118ef442e51f5a1d04f6f87cef40',1,'Enums.h']]],
-  ['evil_5feye',['EVIL_EYE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a7e9bf95156caf2af7494d365bb0698db',1,'Enums.h']]]
+  ['evil_5feye',['EVIL_EYE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a7e9bf95156caf2af7494d365bb0698db',1,'Enums.h']]],
+  ['explosivo',['EXPLOSIVO',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a43dfe2b20c0e1f521c97c9f97423c41c',1,'Enums.h']]]
 ];

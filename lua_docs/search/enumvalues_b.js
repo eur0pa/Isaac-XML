@@ -29,5 +29,6 @@ var searchData=
   ['locust_5fof_5ffamine',['LOCUST_OF_FAMINE',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fafa1a49b0484e6c6a26758b21514f4c3d',1,'Enums.h']]],
   ['locust_5fof_5fpestilence',['LOCUST_OF_PESTILENCE',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa8ca33554bedd7ec19acedf5a0781ec37',1,'Enums.h']]],
   ['locust_5fof_5fwrath',['LOCUST_OF_WRATH',['../group___enumerations.html#ggad9b31a86785e32c18d5d5487a31a0e1fa91c50eae2c1a779a5afbcd73c2d634eb',1,'Enums.h']]],
+  ['lost_5fcontact',['LOST_CONTACT',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a718f660d91f7474decee75dd77fd3579',1,'Enums.h']]],
   ['lost_5ffly',['LOST_FLY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea03f9dab677947ea8f01d70b0e2e9193a',1,'Enums.h']]]
 ];

@@ -49,6 +49,7 @@ var searchData=
   ['getcurrentroom',['GetCurrentRoom',['../class_level.html#a1fd1c068cd4743f0ccefe7c48e100e07',1,'Level']]],
   ['getcurrentroomdesc',['GetCurrentRoomDesc',['../class_level.html#a4edb29f6218f2ae7633e018bdfb59adb',1,'Level']]],
   ['getcurrentroomindex',['GetCurrentRoomIndex',['../class_level.html#a2b06a28616ea09ea07f104ef32f9cc8f',1,'Level']]],
+  ['getcurseidbyname',['GetCurseIdByName',['../namespace_isaac.html#a13f2a1724d8e011b975626616128ad2d',1,'Isaac']]],
   ['getcursename',['GetCurseName',['../class_level.html#afe7e2046e3b82b7fad63c3b559b7d398',1,'Level']]],
   ['getcurses',['GetCurses',['../class_level.html#af8c76bb864bd4a3d646849aacd48666d',1,'Level']]],
   ['getdamagecooldown',['GetDamageCooldown',['../class_entity_player.html#aa3c04bed05d399fc6d90a1d8bfd5ad5f',1,'EntityPlayer']]],
