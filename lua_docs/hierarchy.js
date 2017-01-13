@@ -13,7 +13,8 @@ var hierarchy =
       [ "EntityLaser", "class_entity_laser.html", null ],
       [ "EntityNPC", "class_entity_n_p_c.html", null ],
       [ "EntityPickup", "class_entity_pickup.html", null ],
-      [ "EntityPlayer", "class_entity_player.html", null ]
+      [ "EntityPlayer", "class_entity_player.html", null ],
+      [ "EntityTear", "class_entity_tear.html", null ]
     ] ],
     [ "CppContainer::EntityList", "class_cpp_container_1_1_entity_list.html", null ],
     [ "EntityPtr", "class_entity_ptr.html", null ],

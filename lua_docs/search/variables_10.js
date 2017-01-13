@@ -1,7 +1,7 @@
 var searchData=
 [
   ['samplelaser',['SampleLaser',['../class_entity_laser.html#a4762db94acdcc19afda7081c4a9602b8',1,'EntityLaser']]],
-  ['scale',['Scale',['../class_sprite.html#ac52f1f18b64ae55a7f0dc7e08f2c7e81',1,'Sprite::Scale()'],['../class_projectile_params.html#a24f0ff9332337059b501a8db57c3361f',1,'ProjectileParams::Scale()'],['../class_entity_effect.html#ac4ce4114fb80e3b1abb66871c80ca540',1,'EntityEffect::Scale()'],['../class_entity_n_p_c.html#a2f0922af04ef814292a51a518d804b03',1,'EntityNPC::Scale()'],['../class_entity_knife.html#a0067319b755527c29660e505d01bbe84',1,'EntityKnife::Scale()']]],
+  ['scale',['Scale',['../class_sprite.html#ac52f1f18b64ae55a7f0dc7e08f2c7e81',1,'Sprite::Scale()'],['../class_projectile_params.html#a24f0ff9332337059b501a8db57c3361f',1,'ProjectileParams::Scale()'],['../class_entity_tear.html#a0f0922e0c8775ae1e37a04fbe5710263',1,'EntityTear::Scale()'],['../class_entity_effect.html#ac4ce4114fb80e3b1abb66871c80ca540',1,'EntityEffect::Scale()'],['../class_entity_n_p_c.html#a2f0922af04ef814292a51a518d804b03',1,'EntityNPC::Scale()'],['../class_entity_knife.html#a0067319b755527c29660e505d01bbe84',1,'EntityKnife::Scale()']]],
   ['screenshakeoffset',['ScreenShakeOffset',['../class_game.html#a858e540a453194677e27447b008690c6',1,'Game']]],
   ['shootdirection',['ShootDirection',['../class_entity_familiar.html#ac8dbc4a9423ce248232b5cd35c50d135',1,'EntityFamiliar']]],
   ['shopitemid',['ShopItemId',['../class_entity_pickup.html#a190e958b51a5d220b880f0393f0da384',1,'EntityPickup']]],
@@ -27,5 +27,8 @@ var searchData=
   ['startangledegrees',['StartAngleDegrees',['../class_entity_laser.html#a45f36fc86cb3a10aa8accfd044df130f',1,'EntityLaser']]],
   ['state',['State',['../class_entity_pickup.html#ac035983536155a8542078b0585b29135',1,'EntityPickup::State()'],['../class_entity_effect.html#ab0448ec43dc9deb55f6e06293c078ee8',1,'EntityEffect::State()'],['../class_entity_familiar.html#a64b9586c9057d3235dd2aceede17f93a',1,'EntityFamiliar::State()'],['../class_entity_n_p_c.html#ab5f7cfc8463078d14fdd5e6e0621da32',1,'EntityNPC::State()'],['../class_grid_entity_desc.html#a950ee0c77976d0b4420d8fcd724ddeb2',1,'GridEntityDesc::State()'],['../class_grid_entity.html#a3c6e78c352845e30fbf8536ef32b849e',1,'GridEntity::State()']]],
   ['stateframe',['StateFrame',['../class_entity_n_p_c.html#aa50c1601a9f8ac35f17ed56a37b3ab4d',1,'EntityNPC']]],
+  ['stickdiff',['StickDiff',['../class_entity_tear.html#a2a9d730b54502a2780ac794aa1147f86',1,'EntityTear']]],
+  ['sticktarget',['StickTarget',['../class_entity_tear.html#a4a5ca6daf586dc1de852a8edc75f3722',1,'EntityTear']]],
+  ['sticktimer',['StickTimer',['../class_entity_tear.html#a7cfd7914adbb43d68b395e69de3ffecd',1,'EntityTear']]],
   ['subtype',['SubType',['../class_entity.html#a31a421e964b8c7033a8717842c242a95',1,'Entity']]]
 ];

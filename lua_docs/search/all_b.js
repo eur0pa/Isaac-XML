@@ -13,5 +13,6 @@ var searchData=
   ['keysubtype',['KeySubType',['../group___enumerations.html#gae719fad1478c9928db23f69361bb4131',1,'Enums.h']]],
   ['kill',['Kill',['../class_entity.html#a9b0079ee3d02f1a8d6e4acfd88a19fd3',1,'Entity']]],
   ['killunique',['KillUnique',['../class_entity_n_p_c.html#a7385aea1f4eeb7377caed1fc41c82df5',1,'EntityNPC']]],
-  ['king_5fbaby',['KING_BABY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeab1d722f892d234450743225d26dc7f44',1,'Enums.h']]]
+  ['king_5fbaby',['KING_BABY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeab1d722f892d234450743225d26dc7f44',1,'Enums.h']]],
+  ['knockbackmultiplier',['KnockbackMultiplier',['../class_entity_tear.html#aff4468f597e27f94779ffb0f9d6585ab',1,'EntityTear']]]
 ];

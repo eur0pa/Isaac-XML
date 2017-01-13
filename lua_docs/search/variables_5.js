@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['fallingacceleration',['FallingAcceleration',['../class_entity_effect.html#a6409902c2702400015afd08ecef2048a',1,'EntityEffect']]],
+  ['fallingacceleration',['FallingAcceleration',['../class_entity_tear.html#ad1cf5fba9b381a8a2aba225f32bd26c3',1,'EntityTear::FallingAcceleration()'],['../class_entity_effect.html#a6409902c2702400015afd08ecef2048a',1,'EntityEffect::FallingAcceleration()']]],
   ['fallingaccelmodifier',['FallingAccelModifier',['../class_projectile_params.html#a2eaf9f03f988febf7bd23663ec2ad056',1,'ProjectileParams']]],
-  ['fallingspeed',['FallingSpeed',['../class_entity_effect.html#a87f5097c5667ce2f804e999601c98b01',1,'EntityEffect']]],
+  ['fallingspeed',['FallingSpeed',['../class_entity_tear.html#ae4a5ff62cc271d3d9506e21adfe27d24',1,'EntityTear::FallingSpeed()'],['../class_entity_effect.html#a87f5097c5667ce2f804e999601c98b01',1,'EntityEffect::FallingSpeed()']]],
   ['fallingspeedmodifier',['FallingSpeedModifier',['../class_projectile_params.html#a1009af59b0abcdd7fa259e52871c585b',1,'ProjectileParams']]],
   ['firecooldown',['FireCooldown',['../class_entity_familiar.html#ac42675bd5f0e906e454cc3be190c4ecf',1,'EntityFamiliar']]],
   ['firedelay',['FireDelay',['../class_entity_player.html#a994e4d64cb627e8c29da1f8b41d55116',1,'EntityPlayer']]],

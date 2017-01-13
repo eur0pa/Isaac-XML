@@ -15,6 +15,7 @@ var searchData=
   ['canspawndevilroom',['CanSpawnDevilRoom',['../class_level.html#af4e9adf257bed3485709a3151b32c70b',1,'Level']]],
   ['canstagehavecurseoflabyrinth',['CanStageHaveCurseOfLabyrinth',['../class_level.html#ad2e1fb8519bdf72beb8336290ae94698',1,'Level']]],
   ['changeroom',['ChangeRoom',['../class_level.html#acee5a4d4b94c9b5e7c9a26acdb376ef9',1,'Level::ChangeRoom()'],['../class_game.html#a01707d799eb6895bd3d10de5df514a13',1,'Game::ChangeRoom()']]],
+  ['changevariant',['ChangeVariant',['../class_entity_tear.html#ad139684781df68e385eef22885f3549c',1,'EntityTear']]],
   ['charmfart',['CharmFart',['../class_game.html#ae36245fdbb0db48912128bd6cfc8f4b5',1,'Game']]],
   ['checkline',['CheckLine',['../class_room.html#a14eb7072cfa4553c609439ebb932c92e',1,'Room']]],
   ['clamp',['Clamp',['../class_vector.html#ace103d3040e81c1ac3acf2de0b3cf50b',1,'Vector']]],

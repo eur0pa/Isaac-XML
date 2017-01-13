@@ -12,5 +12,6 @@ var searchData=
   ['entitypickup',['EntityPickup',['../class_entity_pickup.html',1,'']]],
   ['entityplayer',['EntityPlayer',['../class_entity_player.html',1,'']]],
   ['entityptr',['EntityPtr',['../class_entity_ptr.html',1,'']]],
-  ['entityref',['EntityRef',['../class_entity_ref.html',1,'']]]
+  ['entityref',['EntityRef',['../class_entity_ref.html',1,'']]],
+  ['entitytear',['EntityTear',['../class_entity_tear.html',1,'']]]
 ];

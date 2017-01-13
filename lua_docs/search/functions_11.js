@@ -40,6 +40,7 @@ var searchData=
   ['resetdamagecooldown',['ResetDamageCooldown',['../class_entity_player.html#ae919b0026d4196e2bd66e1b7eea514df',1,'EntityPlayer']]],
   ['resetmovementtarget',['ResetMovementTarget',['../class_path_finder.html#a1c4409f9d692aba6b1512127233e5bbc',1,'PathFinder']]],
   ['resetpathfindertarget',['ResetPathFinderTarget',['../class_entity_n_p_c.html#a87d98bb741263291c988e8e0d7d973fa',1,'EntityNPC']]],
+  ['resetspritescale',['ResetSpriteScale',['../class_entity_tear.html#a494df3026c05572a99a7ad10e5027ce3',1,'EntityTear']]],
   ['resize',['Resize',['../class_vector.html#a39534c85b931e216d21d7a4270385c46',1,'Vector']]],
   ['resized',['Resized',['../class_vector.html#ae60e77d7f9199317efabbe458fd828c6',1,'Vector']]],
   ['respawnenemies',['RespawnEnemies',['../class_room.html#a56420366b0fddddbe213252f051129c9',1,'Room']]],

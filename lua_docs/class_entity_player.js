@@ -54,7 +54,7 @@ var class_entity_player =
     [ "FireBrimstone", "class_entity_player.html#aa52ddf770ed82ca58b45ab02ada7c5c0", null ],
     [ "FireDelayedBrimstone", "class_entity_player.html#af44b0e63624880641b838cc3507b42c7", null ],
     [ "FireKnife", "class_entity_player.html#a6e04e1aab958eecb2aac868310fd40b8", null ],
-    [ "FireTear", "class_entity_player.html#a89bc0d41813a3cda10d382b9a7cdecbc", null ],
+    [ "FireTear", "class_entity_player.html#aa1e3ed0209ab6e202ec4c50d36892b9c", null ],
     [ "FireTechLaser", "class_entity_player.html#ad6beea9f9bf2103551b56e42811b3d22", null ],
     [ "FireTechXLaser", "class_entity_player.html#a8e600fa5cda22091c5aaace14ceb5598", null ],
     [ "FlushQueueItem", "class_entity_player.html#a6f5fc0a2991bd5fea418977de9f2251c", null ],

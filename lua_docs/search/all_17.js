@@ -1,6 +1,7 @@
 var searchData=
 [
   ['wait',['Wait',['../class_entity_pickup.html#a8b71d81bcdb9091edae700e4f7ceba2c',1,'EntityPickup']]],
+  ['waitframes',['WaitFrames',['../class_entity_tear.html#a3a74cf42486e5ed599cfed666c96bdad',1,'EntityTear']]],
   ['wall_5fbug',['WALL_BUG',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a9fd7492ef7576a28861fb74c3450ff16',1,'Enums.h']]],
   ['waseventtriggered',['WasEventTriggered',['../class_sprite.html#a1ed50d281e74b764fa99108f82158b90',1,'Sprite']]],
   ['water_5fdroplet',['WATER_DROPLET',['../group___enumerations.html#gga76f2089184023be252ef251921626d99adcc608858433df0727727fac3fd94b0f',1,'Enums.h']]],

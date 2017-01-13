@@ -15,6 +15,7 @@ var annotated_dup =
     [ "EntityPlayer", "class_entity_player.html", "class_entity_player" ],
     [ "EntityPtr", "class_entity_ptr.html", "class_entity_ptr" ],
     [ "EntityRef", "class_entity_ref.html", "class_entity_ref" ],
+    [ "EntityTear", "class_entity_tear.html", "class_entity_tear" ],
     [ "Game", "class_game.html", "class_game" ],
     [ "GridEntity", "class_grid_entity.html", "class_grid_entity" ],
     [ "GridEntityDesc", "class_grid_entity_desc.html", "class_grid_entity_desc" ],
