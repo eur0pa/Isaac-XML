@@ -59,6 +59,7 @@ var class_entity =
     [ "ToNPC", "class_entity.html#a8c3d2fc2df4317ff1ad31a999f82d4f6", null ],
     [ "ToPickup", "class_entity.html#afa1f9755b7ab99911bfb4e8ee6511d7b", null ],
     [ "ToPlayer", "class_entity.html#a2626a8df8043d09974bf2133784a85d8", null ],
+    [ "ToTear", "class_entity.html#a3f1b019a0ca7737d6877d1ad66f676dc", null ],
     [ "Update", "class_entity.html#a9ebf5de8adc07d222ca2d5f813e4d6e5", null ],
     [ "Child", "class_entity.html#abaf1937b3b90780d22d97c5f35a6647b", null ],
     [ "CollisionDamage", "class_entity.html#adc59845247bb82e2b466d8ed122dab17", null ],

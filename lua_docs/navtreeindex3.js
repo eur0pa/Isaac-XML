@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"class_level.html#a26d36c006d30c9855e3a14f403fc5d9e":[4,0,20,2],
 "class_level.html#a2b06a28616ea09ea07f104ef32f9cc8f":[4,0,20,16],
 "class_level.html#a2df27da01b927e5af8efb6b15ba8f87c":[4,0,20,30],
 "class_level.html#a34c72ce5d93ca2b3a412b4961353fdaf":[4,0,20,48],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "class_sprite.html#af73c407f001b1ceec4a4bd3d23e24017":[4,0,26,39],
 "class_sprite.html#af8c7610d8fcfcc9a4b7ce436f52b961b":[4,0,26,6],
 "class_sprite.html#aff29f5b58c6032b4032431d9a3d8ea20":[4,0,26,2],
-"class_tear_params.html":[4,0,27],
-"class_tear_params.html#a1a5113d42f55d5b4a80b0ed44415ecdb":[4,0,27,0]
+"class_tear_params.html":[4,0,27]
 };

@@ -39,7 +39,7 @@
 	<rune achievement="94" description="Change" id="37" name="Perthro" />
 	<rune achievement="95" description="Companionship" id="38" name="Berkano" />
 	<rune achievement="96" description="Resistance" id="39" name="Algiz" />
-	<rune achievement="232" description="???" id="40" name="Blank Rune" />
+	<rune achievement="233" description="???" id="40" name="Blank Rune" />
 	<rune achievement="309" description="Void" id="41" name="Black Rune" />
 	<card achievement="97" description="???" hud="28_ChaosCard" id="42" name="Chaos Card" />
 	<card achievement="98" description="Charge it!" hud="29_CreditCard" id="43" name="Credit Card" />

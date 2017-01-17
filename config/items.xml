@@ -84,11 +84,11 @@
 	<active achievement="9" cache="speed damage" description="Temporary demon form" devilprice="2" gfx="Collectibles_083_TheNail.png" id="83" maxcharges="6" name="The Nail" />
 	<active description="Reusable level skip" gfx="Collectibles_084_WeNeedToGoDeeper.png" id="84" maxcharges="6" name="We Need To Go Deeper!" />
 	<active description="Reusable card generator " gfx="Collectibles_085_DeckOfCards.png" id="85" maxcharges="6" name="Deck of Cards" />
-	<active achievement="13" description="Summon Monstro" gfx="Collectibles_086_MonstrosTooth.png" id="86" maxcharges="3" name="Monstro's Tooth" />
+	<active achievement="13" descfription="Summon Monstro" gfx="Collectibles_086_MonstrosTooth.png" id="86" maxcharges="3" name="Monstro's Tooth" />
 	<passive achievement="15" description="Cross tears" gfx="Collectibles_087_LokisHorns.png" id="87" name="Loki's Horns" />
 	<familiar achievement="14" description="Attack buddy" gfx="Collectibles_088_LittleChubby.png" id="88" name="Little Chubby" />
 	<passive cache="tearcolor tearflag" description="Slow effect" gfx="Collectibles_089_SpidersBite.png" id="89" name="Spider Bite" />
-	<passive achievement="12" cache="tearcolor damage" description="DMG up" gfx="Collectibles_090_SmallRock.png" id="90" name="The Small Rock" />
+	<passive achievement="12" cache="tearcolor damage speed firedelay" description="DMG up" gfx="Collectibles_090_SmallRock.png" id="90" name="The Small Rock" />
 	<passive description="See-through doors" gfx="Collectibles_091_SpelunkerHat.png" id="91" name="Spelunker Hat" />
 	<passive achievement="19" description=" +2 hearts" gfx="Collectibles_092_SuperBandage.png" hearts="2" id="92" maxhearts="2" name="Super Bandage" soulhearts="4" />
 	<active achievement="26" cooldown="200" description="Temporary Man-Pac" gfx="Collectibles_093_TheGameKid.png" id="93" maxcharges="6" name="The Gamekid" />
@@ -442,7 +442,7 @@
 	<active description="Reroll Rewards!" gfx="Collectibles_437_D7.png" id="437" maxcharges="3" name="D7" />
 	<passive cache="firedelay" description="Memories..." gfx="Collectibles_438_Binky.png" id="438" name="Binky" soulhearts="2" />
 	<active cache="all" description="Whats inside?" gfx="Collectibles_439_MomsBox.png" id="439" maxcharges="4" name="Mom's Box" />
-	<passive achievement="233" cache="range speed firedelay" description="Matt's Kidney Stone" gfx="Collectibles_440_KidneyStone.png" id="440" name="Kidney Stone" />
+	<passive achievement="232" cache="range speed firedelay" description="Matt's Kidney Stone" gfx="Collectibles_440_KidneyStone.png" id="440" name="Kidney Stone" />
 	<active achievement="276" description="Laser Breath" gfx="collectibles_441_megasatansbreath.png" id="441" maxcharges="12" name="Mega Blast" />
 	
 	
@@ -498,7 +498,7 @@
 	<active achievement="289" description="..." discharged="true" gfx="collectibles_490_edenssoul.png" id="490" maxcharges="12" name="Eden's Soul" />
 	<familiar description="Pills pills pills!" gfx="collectibles_491_acidbaby.png" id="491" name="Acid Baby" />
 	<familiar cache="luck" description="Yo listen!" gfx="collectibles_492_yolisten.png" id="492" name="YO LISTEN!" />
-	<passive description="Panic - power" gfx="collectibles_493_adderline.png" id="493" name="Adderline" />
+	<passive description="Panic - power" gfx="collectibles_493_adderline.png" id="493" name="Adrenaline" />
 	<passive cache="tearflag" description="Electric tears" gfx="collectibles_494_jacobsladder.png" id="494" name="Jacob's Ladder" />
 	<passive description="Flame tears" gfx="collectibles_495_ghostpepper.png" id="495" name="Ghost Pepper" />
 	<passive achievement="292" description="Needle shot" gfx="collectibles_496_euthanasia.png" id="496" name="Euthanasia" />

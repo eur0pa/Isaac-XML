@@ -1,7 +1,7 @@
 var searchData=
 [
   ['takedamage',['TakeDamage',['../class_entity.html#a95415777def9412a45d51e216212e2aa',1,'Entity']]],
-  ['throwspider',['ThrowSpider',['../class_entity_n_p_c.html#af4e60c26654f653e4002c421d13c4ad2',1,'EntityNPC']]],
+  ['throwspider',['ThrowSpider',['../class_entity_n_p_c.html#a589222569ec4d27dba6c881ea95c3326',1,'EntityNPC']]],
   ['tobomb',['ToBomb',['../class_entity.html#a2dd95fc8acc01c47134b15ca2bdc6715',1,'Entity']]],
   ['todecoration',['ToDecoration',['../class_grid_entity.html#acbd25df1463b76e218499f04335b2cb9',1,'GridEntity']]],
   ['todoor',['ToDoor',['../class_grid_entity.html#a6d9a8d56adf447acc2df0df7c57ec551',1,'GridEntity']]],
@@ -18,6 +18,7 @@ var searchData=
   ['torock',['ToRock',['../class_grid_entity.html#a6f01fec074c8b5bb4db7ad0d5f90b183',1,'GridEntity']]],
   ['tospikes',['ToSpikes',['../class_grid_entity.html#a138ff955e6f9e9d046ea661868090daf',1,'GridEntity']]],
   ['tostairs',['ToStairs',['../class_grid_entity.html#a0c9fc113dec92056e771ed4d739d5274',1,'GridEntity']]],
+  ['totear',['ToTear',['../class_entity.html#a3f1b019a0ca7737d6877d1ad66f676dc',1,'Entity']]],
   ['totnt',['ToTNT',['../class_grid_entity.html#aec1ac4c200ff0fe7c829e38fd8cd7cda',1,'GridEntity']]],
   ['totrapdoor',['ToTrapdoor',['../class_grid_entity.html#a2c52813ec33beed7e284b341eb9abae8',1,'GridEntity']]],
   ['towall',['ToWall',['../class_grid_entity.html#a4ebb80cd4ecaa6b6c7e02909eb7cd044',1,'GridEntity']]],
