@@ -211,7 +211,6 @@
 		<door x="26" y="10" exists="0" />
 		<spawn x="12" y="6">
 			<entity type="102" variant="2" subtype="0" weight="3" />
-			<entity type="102" variant="1" subtype="0" weight="1" />
 		</spawn>
 	</room>
 </rooms>
