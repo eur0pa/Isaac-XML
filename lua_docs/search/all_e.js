@@ -3,7 +3,7 @@ var searchData=
   ['nail',['NAIL',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a8f7963e1585adeaa2841cbed5e00e486',1,'Enums.h']]],
   ['nail_5fblood',['NAIL_BLOOD',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a572e772a6f7a97029862e01479d3cc08',1,'Enums.h']]],
   ['nail_5fparticle',['NAIL_PARTICLE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a8c11f1eb4297944641cc3f40c567dfb1',1,'Enums.h']]],
-  ['name',['Name',['../class_config_1_1_card.html#a9aa4eadbadef9bc156353763a82c5f54',1,'Config::Card::Name()'],['../class_config_1_1_pill_effect.html#aca54627dda39d59d5d00992ce25a9d21',1,'Config::PillEffect::Name()'],['../class_config_1_1_item.html#a6f823d524605e35746a78e18ac2fb33d',1,'Config::Item::Name()']]],
+  ['name',['Name',['../class_config_1_1_card.html#a9aa4eadbadef9bc156353763a82c5f54',1,'Config::Card::Name()'],['../class_config_1_1_pill_effect.html#aca54627dda39d59d5d00992ce25a9d21',1,'Config::PillEffect::Name()'],['../class_config_1_1_item.html#a6f823d524605e35746a78e18ac2fb33d',1,'Config::Item::Name()'],['../class_room_config_1_1_room.html#a64d0e481f503aa6bda34641903ec7562',1,'RoomConfig::Room::Name()']]],
   ['needle',['NEEDLE',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a1c0d968d8916d1d595a173c67db666c8',1,'Enums.h']]],
   ['needscharge',['NeedsCharge',['../class_entity_player.html#a56259f35a04f0355c3334357efa80ea8',1,'EntityPlayer']]],
   ['next',['Next',['../class_r_n_g.html#a57b9f468dee926906b3e2421f90a001b',1,'RNG']]],

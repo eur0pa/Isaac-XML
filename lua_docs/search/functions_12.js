@@ -1,10 +1,11 @@
 var searchData=
 [
   ['savemoddata',['SaveModData',['../namespace_isaac.html#ab1300e3cd3c6df64d967ecb0076321e9',1,'Isaac']]],
-  ['screentoworlddistance',['ScreenToWorldDistance',['../group___functions.html#ga571e105c642fd8b74fbf1bbe077bae6d',1,'Isaac']]],
+  ['screentoworlddistance',['ScreenToWorldDistance',['../group___functions.html#ga1592b9232243cdf20dab6f0da8f73e02',1,'Output.h']]],
   ['screenwrapposition',['ScreenWrapPosition',['../class_room.html#a21795f04b7be39af33c92f521f89e601',1,'Room']]],
   ['setactivecharge',['SetActiveCharge',['../class_entity_player.html#afd422cbf0abe9b851816d7e48b05458c',1,'EntityPlayer']]],
   ['setactiverotation',['SetActiveRotation',['../class_entity_laser.html#a2afe16cbedc11bfd1979a392c41b9ed2',1,'EntityLaser']]],
+  ['setambientsound',['SetAmbientSound',['../class_s_f_x_manager.html#a0f713773136bed8183750c96970ae3da',1,'SFXManager']]],
   ['setambushdone',['SetAmbushDone',['../class_room.html#afe43b9499f31ab48bf7f21d8893be67e',1,'Room']]],
   ['setanimation',['SetAnimation',['../class_sprite.html#a1bdc42f37732ff315ae44faff43ee2b3',1,'Sprite']]],
   ['setblackhpdropchance',['SetBlackHpDropChance',['../class_entity_laser.html#accf0b5acfb5299deb8e768a96049d556',1,'EntityLaser']]],
@@ -64,9 +65,11 @@ var searchData=
   ['setvariant',['SetVariant',['../class_grid_entity.html#a1ba1ba9fbbd1e845ae55bc58272c7b09',1,'GridEntity']]],
   ['setwaitframes',['SetWaitFrames',['../class_entity_tear.html#a2aa07af9646b32d9d503b5860885a7e8',1,'EntityTear']]],
   ['setwallcolor',['SetWallColor',['../class_room.html#ab420d510e646d21098beed13e2c0247f',1,'Room']]],
+  ['sfxmanager',['SFXManager',['../group___functions.html#ga9234017f135540fa61ad6c17a7c9205b',1,'Output.h']]],
   ['shakescreen',['ShakeScreen',['../class_game.html#a27644704ea138d1c04a0bd54a68840ec',1,'Game']]],
   ['shoot',['Shoot',['../class_entity_familiar.html#a9ddf9e641a64b0a77dd81cb15f96fde5',1,'EntityFamiliar::Shoot()'],['../class_entity_knife.html#a92bc954600ed55cb92fe2125ac247432',1,'EntityKnife::Shoot()']]],
   ['shootangle',['ShootAngle',['../class_entity_laser.html#a3931aba4b3e7c41fb0968a62658b2211',1,'EntityLaser']]],
+  ['shootredcandle',['ShootRedCandle',['../class_entity_player.html#a9c20b4f0fb1ed85d6fef1bea7fc41c32',1,'EntityPlayer']]],
   ['shopreshuffle',['ShopReshuffle',['../class_room.html#a4c25a89fb4ce09ef4ea087ef5c8d38c2',1,'Room']]],
   ['shoprestockfull',['ShopRestockFull',['../class_room.html#a857f3f4232f323e28c0fd92b5fabe982',1,'Room']]],
   ['shoprestockpartial',['ShopRestockPartial',['../class_room.html#a58dc2f4c28539da5de09187211aea3c0',1,'Room']]],
@@ -81,10 +84,12 @@ var searchData=
   ['spawndust',['SpawnDust',['../class_grid_entity_door.html#abead9b5fa59dadc8bcd2aa14f5bd69ba',1,'GridEntityDoor']]],
   ['spawnentitydesc',['SpawnEntityDesc',['../class_game.html#ab7b7c5c0a4b8d0e7d62aff420271392e',1,'Game']]],
   ['spawngridentity',['SpawnGridEntity',['../class_room.html#a55e80d69c53c40957b3bf4f0441b8b63',1,'Room']]],
+  ['spawnmawofvoid',['SpawnMawOfVoid',['../class_entity_player.html#a734f3d594a56b27be47ac89bcdd3eb3c',1,'EntityPlayer']]],
   ['spawnparticles',['SpawnParticles',['../class_game.html#a41381eb0e2ea7cc1c9f0ad2abe23df8e',1,'Game']]],
   ['sprite',['Sprite',['../class_sprite.html#abee3d268d8e467d9e23bfe0693e64144',1,'Sprite']]],
   ['startroomtransition',['StartRoomTransition',['../class_game.html#ae1d94645c1365dfefb8fa824e341dedf',1,'Game']]],
   ['startstagetransition',['StartStageTransition',['../class_game.html#aa6b49ca8563c6d9895fb7204664fa1aa',1,'Game']]],
-  ['stop',['Stop',['../class_sprite.html#a08d8f3eadcc9c15d9a7fee7d5f4b8a3c',1,'Sprite']]],
-  ['stopextraanimation',['StopExtraAnimation',['../class_entity_player.html#a7b2f49b67666f8583a2e682003f4fcb7',1,'EntityPlayer']]]
+  ['stop',['Stop',['../class_sprite.html#a08d8f3eadcc9c15d9a7fee7d5f4b8a3c',1,'Sprite::Stop()'],['../class_s_f_x_manager.html#ab1901aa2c66c9c28294768ab965d8b45',1,'SFXManager::Stop()']]],
+  ['stopextraanimation',['StopExtraAnimation',['../class_entity_player.html#a7b2f49b67666f8583a2e682003f4fcb7',1,'EntityPlayer']]],
+  ['stoploopingsounds',['StopLoopingSounds',['../class_s_f_x_manager.html#a7e89c72f45258a29bd2bc3ab77168b0d',1,'SFXManager']]]
 ];

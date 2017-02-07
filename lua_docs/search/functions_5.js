@@ -1,6 +1,8 @@
 var searchData=
 [
   ['emitbloodfromwalls',['EmitBloodFromWalls',['../class_room.html#ae25498b2c55afaf88fffcbe41ff44f2d',1,'Room']]],
+  ['enable',['Enable',['../class_music_manager.html#a3a3b514ace59c037e1b1aa16e98a693b',1,'MusicManager']]],
+  ['enablelayer',['EnableLayer',['../class_music_manager.html#a739effe2f8b18d48e4198e80cc76898f',1,'MusicManager']]],
   ['end',['End',['../class_game.html#a43a41741fe8282971a8bb56b4dacd861',1,'Game']]],
   ['entityptr',['EntityPtr',['../class_entity_ptr.html#af4811f13be26345364df423192f0dfdb',1,'EntityPtr']]],
   ['entityref',['EntityRef',['../class_entity_ref.html#a7765ee7e5d167aef7ed6341e217a723b',1,'EntityRef']]],

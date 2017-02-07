@@ -43,6 +43,8 @@ var searchData=
   ['id_5fwizard',['ID_WIZARD',['../group___enumerations.html#gga09a6d381d03d5ba066a6d6129c108858a99462a455a4f02cb4c43541259fa54e5',1,'Enums.h']]],
   ['impact',['IMPACT',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a85a8a393636886e39bd54b24ee90e70a',1,'Enums.h']]],
   ['incubus',['INCUBUS',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea8f09cc6fdaa6b5d7f6b28987f077f3a4',1,'Enums.h']]],
+  ['is_5faction_5fpressed',['IS_ACTION_PRESSED',['../group___enumerations.html#gga0945400993463eece8f1c9856e24573ca0b5b58ce5a13bc9768e05800183e8759',1,'Enums.h']]],
+  ['is_5faction_5ftriggered',['IS_ACTION_TRIGGERED',['../group___enumerations.html#gga0945400993463eece8f1c9856e24573caa12a8194accd14a606d4999ee3c85ac5',1,'Enums.h']]],
   ['isaacs_5fbody',['ISAACS_BODY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea83e24ef34ccb70de1781eafd51c2746d',1,'Enums.h']]],
   ['isaacs_5fcarpet',['ISAACS_CARPET',['../group___enumerations.html#gga76f2089184023be252ef251921626d99ab5e5fdb4b73f656d76cec86ef37e0c09',1,'Enums.h']]],
   ['isaacs_5fhead',['ISAACS_HEAD',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea5bf29593797e83f6d3f31ad228d223b4',1,'Enums.h']]],

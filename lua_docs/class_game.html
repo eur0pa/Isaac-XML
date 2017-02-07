@@ -253,12 +253,20 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
+<tr class="memitem:a873198cadfacec06c0af9fa49ad67bcc"><td class="memItemLeft" align="right" valign="top">integer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_game.html#a873198cadfacec06c0af9fa49ad67bcc">BossRushParTime</a></td></tr>
+<tr class="memdesc:a873198cadfacec06c0af9fa49ad67bcc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of frames of game time.  <a href="#a873198cadfacec06c0af9fa49ad67bcc">More...</a><br /></td></tr>
+<tr class="separator:a873198cadfacec06c0af9fa49ad67bcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc245460949069065ca75cd87bc9496e"><td class="memItemLeft" align="right" valign="top">integer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_game.html#acc245460949069065ca75cd87bc9496e">BlueWombParTime</a></td></tr>
+<tr class="separator:acc245460949069065ca75cd87bc9496e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a858e540a453194677e27447b008690c6"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="class_vector.html">Vector</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_game.html#a858e540a453194677e27447b008690c6">ScreenShakeOffset</a></td></tr>
 <tr class="separator:a858e540a453194677e27447b008690c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:accfd7ca8f7a31ce97fe815b8773887ff"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group___enumerations.html#gae64a4edf652c04664bcf078b8844ae4b">Challenge</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_game.html#accfd7ca8f7a31ce97fe815b8773887ff">Challenge</a></td></tr>
 <tr class="separator:accfd7ca8f7a31ce97fe815b8773887ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae61c5bd7eee908f4e25dead836318736"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group___enumerations.html#ga43efb0a2e61815a66134dfa5ccea0a83">Difficulty</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_game.html#ae61c5bd7eee908f4e25dead836318736">Difficulty</a></td></tr>
 <tr class="separator:ae61c5bd7eee908f4e25dead836318736"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc9ce44803ae170c5a90b3d66c0f0b4a"><td class="memItemLeft" align="right" valign="top">integer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_game.html#afc9ce44803ae170c5a90b3d66c0f0b4a">TimeCounter</a></td></tr>
+<tr class="memdesc:afc9ce44803ae170c5a90b3d66c0f0b4a"><td class="mdescLeft">&#160;</td><td class="mdescRight">same as FrameCounter but can be modified, mostly used for timed events (bossrush, daily, ...) and not for timestepping  <a href="#afc9ce44803ae170c5a90b3d66c0f0b4a">More...</a><br /></td></tr>
+<tr class="separator:afc9ce44803ae170c5a90b3d66c0f0b4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a5bb4b56bbd36360bc6872eade4765974"></a>
@@ -1999,6 +2007,36 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a id="acc245460949069065ca75cd87bc9496e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc245460949069065ca75cd87bc9496e">&#9670;&nbsp;</a></span>BlueWombParTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">integer Game::BlueWombParTime</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a873198cadfacec06c0af9fa49ad67bcc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a873198cadfacec06c0af9fa49ad67bcc">&#9670;&nbsp;</a></span>BossRushParTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">integer Game::BossRushParTime</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Number of frames of game time. </p>
+
+</div>
+</div>
 <a id="accfd7ca8f7a31ce97fe815b8773887ff"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#accfd7ca8f7a31ce97fe815b8773887ff">&#9670;&nbsp;</a></span>Challenge</h2>
 
@@ -2038,6 +2076,22 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="afc9ce44803ae170c5a90b3d66c0f0b4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc9ce44803ae170c5a90b3d66c0f0b4a">&#9670;&nbsp;</a></span>TimeCounter</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">integer Game::TimeCounter</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>same as FrameCounter but can be modified, mostly used for timed events (bossrush, daily, ...) and not for timestepping </p>
 
 </div>
 </div>

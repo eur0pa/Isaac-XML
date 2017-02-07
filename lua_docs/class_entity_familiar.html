@@ -127,6 +127,11 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a09e60b8d7bfe1eaba2dad503f3d0e3bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a021ad7fcea0e5efa40f77b66914c0488"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity_familiar.html#a021ad7fcea0e5efa40f77b66914c0488">MoveDiagonally</a> (float Speed)</td></tr>
 <tr class="separator:a021ad7fcea0e5efa40f77b66914c0488"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a639118f01b0fcd26e14ee0f672e2df51"><td class="memItemLeft" align="right" valign="top">integer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity_familiar.html#a639118f01b0fcd26e14ee0f672e2df51">RecalculateOrbitOffset</a> (integer Layer, boolean Add)</td></tr>
+<tr class="memdesc:a639118f01b0fcd26e14ee0f672e2df51"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the number of familiars in that layer  <a href="#a639118f01b0fcd26e14ee0f672e2df51">More...</a><br /></td></tr>
+<tr class="separator:a639118f01b0fcd26e14ee0f672e2df51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6d9d9eb2db6eda39e0ed971e7adadb5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity_familiar.html#aa6d9d9eb2db6eda39e0ed971e7adadb5">GetOrbitDistance</a> (integer Layer)</td></tr>
+<tr class="separator:aa6d9d9eb2db6eda39e0ed971e7adadb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_class_entity"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_class_entity')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="class_entity.html">Entity</a></td></tr>
 <tr class="memitem:a7b80e7378f0437e239893d32bfd7d73c inherit pub_methods_class_entity"><td class="memItemLeft" align="right" valign="top">table&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a7b80e7378f0437e239893d32bfd7d73c">GetData</a> ()</td></tr>
 <tr class="separator:a7b80e7378f0437e239893d32bfd7d73c inherit pub_methods_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -164,7 +169,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae480f2aacaabfd3537d26fb9e8570ed2 inherit pub_methods_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a93ba8c8a229d3aba279241e127a5c766 inherit pub_methods_class_entity"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a93ba8c8a229d3aba279241e127a5c766">SetSpriteOverlayFrame</a> (string AnimationName, integer FrameNum)</td></tr>
 <tr class="separator:a93ba8c8a229d3aba279241e127a5c766 inherit pub_methods_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2803ec924a2c9dfa5398908fd8191efb inherit pub_methods_class_entity"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a2803ec924a2c9dfa5398908fd8191efb">SetSize</a> (float <a class="el" href="class_entity.html#aa4b18ad86ef478d01bd95c517cbaccb7">Size</a>, <a class="el" href="class_vector.html">Vector</a> <a class="el" href="class_entity.html#a8196d447e9c047fa4c92627ac4b030f4">SizeMulti</a>, integer NumGridCollisionPoints)</td></tr>
+<tr class="memitem:a2803ec924a2c9dfa5398908fd8191efb inherit pub_methods_class_entity"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a2803ec924a2c9dfa5398908fd8191efb">SetSize</a> (float Size, <a class="el" href="class_vector.html">Vector</a> <a class="el" href="class_entity.html#a8196d447e9c047fa4c92627ac4b030f4">SizeMulti</a>, integer NumGridCollisionPoints)</td></tr>
 <tr class="separator:a2803ec924a2c9dfa5398908fd8191efb inherit pub_methods_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a456361c3c42d15897a7c7b1a4e95aea2 inherit pub_methods_class_entity"><td class="memItemLeft" align="right" valign="top">boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a456361c3c42d15897a7c7b1a4e95aea2">CollidesWithGrid</a> ()</td></tr>
 <tr class="separator:a456361c3c42d15897a7c7b1a4e95aea2 inherit pub_methods_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -292,6 +297,10 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a64b9586c9057d3235dd2aceede17f93a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67c10c9ac04cdee26618937836b838b8"><td class="memItemLeft" align="right" valign="top">integer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity_familiar.html#a67c10c9ac04cdee26618937836b838b8">RoomClearCount</a></td></tr>
 <tr class="separator:a67c10c9ac04cdee26618937836b838b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0de9a3484e8901fc003f644e9289f073"><td class="memItemLeft" align="right" valign="top">boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity_familiar.html#a0de9a3484e8901fc003f644e9289f073">IsDelayed</a></td></tr>
+<tr class="separator:a0de9a3484e8901fc003f644e9289f073"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a972fda20b5de626984ad0d681cdfbe85"><td class="memItemLeft" align="right" valign="top">boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity_familiar.html#a972fda20b5de626984ad0d681cdfbe85">IsFollower</a></td></tr>
+<tr class="separator:a972fda20b5de626984ad0d681cdfbe85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_attribs_class_entity"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_class_entity')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="class_entity.html">Entity</a></td></tr>
 <tr class="memitem:af16561d8bba78fdc4b53d8bcefc1e818 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#af16561d8bba78fdc4b53d8bcefc1e818">Friction</a></td></tr>
 <tr class="memdesc:af16561d8bba78fdc4b53d8bcefc1e818 inherit pub_attribs_class_entity"><td class="mdescLeft">&#160;</td><td class="mdescRight">loaded from entity config  <a href="class_entity.html#af16561d8bba78fdc4b53d8bcefc1e818">More...</a><br /></td></tr>
@@ -300,8 +309,6 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a2be308f1982d4eec2c043a5ab66e899f inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33229ab7dd68ebbc1bbf199cc802e44a inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a33229ab7dd68ebbc1bbf199cc802e44a">Velocity</a></td></tr>
 <tr class="separator:a33229ab7dd68ebbc1bbf199cc802e44a inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9722983b17a0e08aa9325950287a7aeb inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_color.html">Color</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a9722983b17a0e08aa9325950287a7aeb">Color</a></td></tr>
-<tr class="separator:a9722983b17a0e08aa9325950287a7aeb inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8db7312370db1734681dfaee7f2242a8 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="group___enumerations.html#gad79a57ed3105eb60d991a1aeb4a9dc44">EntityType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a8db7312370db1734681dfaee7f2242a8">Type</a></td></tr>
 <tr class="separator:a8db7312370db1734681dfaee7f2242a8 inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a245d6ea934d466a77d45afeba3fbd305 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top">integer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a245d6ea934d466a77d45afeba3fbd305">Variant</a></td></tr>
@@ -329,8 +336,6 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a2bd5f6de4aa9403b8264955ca9f900b2 inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe41808f30d287ae43cde03bc04e7d95 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#afe41808f30d287ae43cde03bc04e7d95">SpriteRotation</a></td></tr>
 <tr class="separator:afe41808f30d287ae43cde03bc04e7d95 inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa4b18ad86ef478d01bd95c517cbaccb7 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#aa4b18ad86ef478d01bd95c517cbaccb7">Size</a></td></tr>
-<tr class="separator:aa4b18ad86ef478d01bd95c517cbaccb7 inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8196d447e9c047fa4c92627ac4b030f4 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_vector.html">Vector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#a8196d447e9c047fa4c92627ac4b030f4">SizeMulti</a></td></tr>
 <tr class="separator:a8196d447e9c047fa4c92627ac4b030f4 inherit pub_attribs_class_entity"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae83699a74bd5f2fd33207ea45912f787 inherit pub_attribs_class_entity"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_entity.html#ae83699a74bd5f2fd33207ea45912f787">Mass</a></td></tr>
@@ -476,6 +481,24 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="aa6d9d9eb2db6eda39e0ed971e7adadb5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6d9d9eb2db6eda39e0ed971e7adadb5">&#9670;&nbsp;</a></span>GetOrbitDistance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_vector.html">Vector</a> EntityFamiliar::GetOrbitDistance </td>
+          <td>(</td>
+          <td class="paramtype">integer&#160;</td>
+          <td class="paramname"><em>Layer</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a26869b5964514ff1d6d588ada50ac265"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a26869b5964514ff1d6d588ada50ac265">&#9670;&nbsp;</a></span>GetOrbitPosition()</h2>
 
@@ -612,6 +635,36 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a639118f01b0fcd26e14ee0f672e2df51"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a639118f01b0fcd26e14ee0f672e2df51">&#9670;&nbsp;</a></span>RecalculateOrbitOffset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">integer EntityFamiliar::RecalculateOrbitOffset </td>
+          <td>(</td>
+          <td class="paramtype">integer&#160;</td>
+          <td class="paramname"><em>Layer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boolean&#160;</td>
+          <td class="paramname"><em>Add</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>returns the number of familiars in that layer </p>
+
+</div>
+</div>
 <a id="a9ddf9e641a64b0a77dd81cb15f96fde5"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9ddf9e641a64b0a77dd81cb15f96fde5">&#9670;&nbsp;</a></span>Shoot()</h2>
 
@@ -680,6 +733,34 @@ Public Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">integer EntityFamiliar::Hearts</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0de9a3484e8901fc003f644e9289f073"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0de9a3484e8901fc003f644e9289f073">&#9670;&nbsp;</a></span>IsDelayed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">boolean EntityFamiliar::IsDelayed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a972fda20b5de626984ad0d681cdfbe85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a972fda20b5de626984ad0d681cdfbe85">&#9670;&nbsp;</a></span>IsFollower</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">boolean EntityFamiliar::IsFollower</td>
         </tr>
       </table>
 </div><div class="memdoc">

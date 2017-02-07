@@ -16,13 +16,15 @@ var searchData=
   ['weapon_5ftears',['WEAPON_TEARS',['../group___enumerations.html#gga095ae9be41c95cab0ceb95c6dae270b8ad0277d513805c4d490b0e86dfeeb0a3b',1,'Enums.h']]],
   ['weapon_5ftech_5fx',['WEAPON_TECH_X',['../group___enumerations.html#gga095ae9be41c95cab0ceb95c6dae270b8a15228f595f5b189a353094efd0ef9031',1,'Enums.h']]],
   ['weapontype',['WeaponType',['../group___enumerations.html#ga095ae9be41c95cab0ceb95c6dae270b8',1,'Enums.h']]],
+  ['weight',['Weight',['../class_room_config_1_1_entry.html#a61b848a7ed5acb126e1e79f54ffc8caa',1,'RoomConfig::Entry::Weight()'],['../class_room_config_1_1_room.html#a8b872bc162c5273f3653ee1f137d095e',1,'RoomConfig::Room::Weight()']]],
+  ['width',['Width',['../class_room_config_1_1_room.html#a39cff5f2c0c80d1edf832ff00a78ced1',1,'RoomConfig::Room']]],
   ['wiggleframeoffset',['WiggleFrameOffset',['../class_projectile_params.html#adc5d3b878ff4cd8430b22614413e630b',1,'ProjectileParams']]],
   ['willplayerrevive',['WillPlayerRevive',['../class_entity_player.html#a76ada5c2648c15f6b51a68a36373c01c',1,'EntityPlayer']]],
   ['wisp',['WISP',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a0bc9e3f29939dbed0d1399b18b88b67d',1,'Enums.h']]],
   ['womb_5fteleport',['WOMB_TELEPORT',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a8f81a4300536522222bf8256d2b2b560',1,'Enums.h']]],
   ['wood_5fparticle',['WOOD_PARTICLE',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a50ea3e880251a2aba61aecee2062d3ae',1,'Enums.h']]],
-  ['worldtorenderposition',['WorldToRenderPosition',['../group___functions.html#ga7af3a968a47aff7f6bff8f918e463479',1,'Isaac']]],
-  ['worldtoscreendistance',['WorldToScreenDistance',['../group___functions.html#gabf44cc0c778d3fa2bba427fd21585d5a',1,'Isaac']]],
+  ['worldtorenderposition',['WorldToRenderPosition',['../group___functions.html#gae61ea3db6dca9bdf5925cefcd3a501f6',1,'Output.h']]],
+  ['worldtoscreendistance',['WorldToScreenDistance',['../group___functions.html#ga5a33e191650d9455757e164a90236697',1,'Output.h']]],
   ['worldtoscreenposition',['WorldToScreenPosition',['../class_room.html#a2f938a89690419bd82964b2a60d86400',1,'Room']]],
   ['worm',['WORM',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a174680cf641bd8d009b17acec29dd1c6',1,'Enums.h']]]
 ];

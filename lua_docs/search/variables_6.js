@@ -7,5 +7,6 @@ var searchData=
   ['gridcollision',['GridCollision',['../class_projectile_params.html#a8408006c9fc18f258f6c35a87cd58d63',1,'ProjectileParams']]],
   ['gridcollisionclass',['GridCollisionClass',['../class_entity.html#ab846a793b5f841976ff88a4e9f604e30',1,'Entity']]],
   ['gridhit',['GridHit',['../class_entity_laser.html#a016188792ed2e66d49baf73589d74ac7',1,'EntityLaser']]],
+  ['gridindex',['GridIndex',['../class_room_descriptor.html#acb2b38d5138e71f0ccb8e8090d3d0210',1,'RoomDescriptor']]],
   ['groupidx',['GroupIdx',['../class_entity_n_p_c.html#a7ebdabf5049cc924ebd6a4de2ac80384',1,'EntityNPC']]]
 ];

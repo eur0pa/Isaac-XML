@@ -78,7 +78,10 @@ var class_game =
     [ "StartStageTransition", "class_game.html#aa6b49ca8563c6d9895fb7204664fa1aa", null ],
     [ "Update", "class_game.html#adfc3c2122f7315583f9cd5450660ea09", null ],
     [ "UpdateStrangeAttractor", "class_game.html#abf5b842a0a284f0e05f2ba6182fc8b4f", null ],
+    [ "BlueWombParTime", "class_game.html#acc245460949069065ca75cd87bc9496e", null ],
+    [ "BossRushParTime", "class_game.html#a873198cadfacec06c0af9fa49ad67bcc", null ],
     [ "Challenge", "class_game.html#accfd7ca8f7a31ce97fe815b8773887ff", null ],
     [ "Difficulty", "class_game.html#ae61c5bd7eee908f4e25dead836318736", null ],
-    [ "ScreenShakeOffset", "class_game.html#a858e540a453194677e27447b008690c6", null ]
+    [ "ScreenShakeOffset", "class_game.html#a858e540a453194677e27447b008690c6", null ],
+    [ "TimeCounter", "class_game.html#afc9ce44803ae170c5a90b3d66c0f0b4a", null ]
 ];

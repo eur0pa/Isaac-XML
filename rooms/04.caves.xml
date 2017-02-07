@@ -40119,8 +40119,8 @@
 		</spawn>
 	</room>
 	<room type="1" variant="6" subtype="0" difficulty="1" name="" shape="1" weight="1" width="13" height="7">
-		<door x="6" y="-1" exists="1" />
-		<door x="6" y="7" exists="1" />
+		<door x="6" y="-1" exists="0" />
+		<door x="6" y="7" exists="0" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
 		<spawn x="0" y="0">
@@ -40159,20 +40159,11 @@
 		<spawn x="12" y="0">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="0" y="1">
-			<entity type="21" variant="0" subtype="0" weight="1" />
+		<spawn x="4" y="1">
+			<entity type="0" variant="20" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="2" y="1">
-			<entity type="21" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="6" y="1">
-			<entity type="0" variant="10" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="10" y="1">
-			<entity type="21" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="12" y="1">
-			<entity type="21" variant="0" subtype="0" weight="1" />
+		<spawn x="8" y="1">
+			<entity type="0" variant="20" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="1" y="2">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
@@ -40185,6 +40176,12 @@
 		</spawn>
 		<spawn x="4" y="2">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="5" y="2">
+			<entity type="21" variant="0" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="7" y="2">
+			<entity type="21" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="8" y="2">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
@@ -40243,6 +40240,12 @@
 		<spawn x="4" y="4">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
+		<spawn x="5" y="4">
+			<entity type="21" variant="0" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="7" y="4">
+			<entity type="21" variant="0" subtype="0" weight="1" />
+		</spawn>
 		<spawn x="8" y="4">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
@@ -40255,20 +40258,11 @@
 		<spawn x="11" y="4">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="0" y="5">
-			<entity type="21" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="2" y="5">
-			<entity type="21" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="6" y="5">
+		<spawn x="4" y="5">
 			<entity type="0" variant="10" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="10" y="5">
-			<entity type="21" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="12" y="5">
-			<entity type="21" variant="0" subtype="0" weight="1" />
+		<spawn x="9" y="5">
+			<entity type="0" variant="20" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="0" y="6">
 			<entity type="3000" variant="0" subtype="0" weight="1" />

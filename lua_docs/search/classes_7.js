@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['shockwaveparams',['ShockwaveParams',['../class_shockwave_params.html',1,'']]],
-  ['sprite',['Sprite',['../class_sprite.html',1,'']]]
+  ['rng',['RNG',['../class_r_n_g.html',1,'']]],
+  ['room',['Room',['../class_room_config_1_1_room.html',1,'RoomConfig::Room'],['../class_room.html',1,'Room']]],
+  ['roomdescriptor',['RoomDescriptor',['../class_room_descriptor.html',1,'']]],
+  ['roomlist',['RoomList',['../class_cpp_container_1_1_array_proxy_1_1_room_list.html',1,'CppContainer::ArrayProxy']]]
 ];

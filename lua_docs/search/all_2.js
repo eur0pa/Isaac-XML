@@ -60,6 +60,7 @@ var searchData=
   ['baby_5fwrath',['BABY_WRATH',['../group___enumerations.html#ggad65102fdce2fc7b437b3d73d7753e747af796ad8f2364a7084ffdf3ad112377d8',1,'Enums.h']]],
   ['baby_5fybab',['BABY_YBAB',['../group___enumerations.html#ggad65102fdce2fc7b437b3d73d7753e747a7f4a6c65fa8694f6057c01a957ce89e3',1,'Enums.h']]],
   ['baby_5fyellow',['BABY_YELLOW',['../group___enumerations.html#ggad65102fdce2fc7b437b3d73d7753e747a7d31bf1558a88c5dc29b030d1fdb1583',1,'Enums.h']]],
+  ['babyskin',['BabySkin',['../class_entity_player.html#a8e6418eba83417914dc252363894916a',1,'EntityPlayer']]],
   ['babysubtype',['BabySubType',['../group___enumerations.html#gad65102fdce2fc7b437b3d73d7753e747',1,'Enums.h']]],
   ['ball_5fof_5fbandages_5f1',['BALL_OF_BANDAGES_1',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea5c2df750e8815bef51a7e968fd8faa14',1,'Enums.h']]],
   ['ball_5fof_5fbandages_5f2',['BALL_OF_BANDAGES_2',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeaea9ff816efa18bfab6cfa7f96227ead4',1,'Enums.h']]],
@@ -92,6 +93,7 @@ var searchData=
   ['blue_5ffly',['BLUE_FLY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeacd76e8ead3715de51be1ccedfa3c7474',1,'Enums.h']]],
   ['blue_5fspider',['BLUE_SPIDER',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea8a225aa1bd1709a96624a10c4d03ccc5',1,'Enums.h']]],
   ['bluebabys_5fonly_5ffriend',['BLUEBABYS_ONLY_FRIEND',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea41d09fb8ef3934a894a43565170917e8',1,'Enums.h']]],
+  ['bluewombpartime',['BlueWombParTime',['../class_game.html#acc245460949069065ca75cd87bc9496e',1,'Game']]],
   ['bo',['BO',['../class_color.html#a20cc85ed5c20dca7ed3b1bbb964b3b43',1,'Color']]],
   ['bobs_5fbrain',['BOBS_BRAIN',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea329a6ddd48d6434553503e0239bbfe95',1,'Enums.h']]],
   ['bobs_5fhead',['BOBS_HEAD',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a66cc23356827c6029a82ef48ef1f51d6',1,'Enums.h']]],
@@ -121,6 +123,7 @@ var searchData=
   ['bone',['BONE',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359a618bf303fb58b4eb006b58c15ca0f7ab',1,'Enums.h']]],
   ['booger',['BOOGER',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359ab175001a03d5a48095d3c3e4573012be',1,'Enums.h']]],
   ['boomerang',['BOOMERANG',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a41c1c7c62e57d94a3e8bb4a76a274be7',1,'Enums.h']]],
+  ['bossrushpartime',['BossRushParTime',['../class_game.html#a873198cadfacec06c0af9fa49ad67bcc',1,'Game']]],
   ['bounced',['Bounced',['../class_entity_tear.html#a822611d340b1065aa328250f9c5c89f6',1,'EntityTear']]],
   ['bouncelaser',['BounceLaser',['../class_entity_laser.html#a4d37af8551f0f0d53727aae8d2bc0c8a',1,'EntityLaser']]],
   ['brimstone_5fswirl',['BRIMSTONE_SWIRL',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a43df393ff403e69de164d7873e99ed30',1,'Enums.h']]],
@@ -133,5 +136,6 @@ var searchData=
   ['bumbo',['BUMBO',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea955dba87c40da3da01bae2b43c729bd5',1,'Enums.h']]],
   ['busted',['Busted',['../class_grid_entity_door.html#a79570b326a8badd84e5b1e2cfa7a4d71',1,'GridEntityDoor']]],
   ['butterbeanfart',['ButterBeanFart',['../class_game.html#aa0adcb328556d4e421726d3ac046ebac',1,'Game']]],
-  ['butterfly',['BUTTERFLY',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a350ff66d481090527f4ac59220d56deb',1,'Enums.h']]]
+  ['butterfly',['BUTTERFLY',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a350ff66d481090527f4ac59220d56deb',1,'Enums.h']]],
+  ['buttonaction',['ButtonAction',['../group___enumerations.html#gafa717ac273a5a382f7c01ef7afba1ee7',1,'Enums.h']]]
 ];

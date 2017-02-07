@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['fadein',['Fadein',['../class_game.html#a1e45b79cf1385958bc6326a5e81833d7',1,'Game']]],
-  ['fadeout',['Fadeout',['../class_game.html#ad7197c2f0cec68101a2d48828ab99e1c',1,'Game']]],
+  ['fadein',['Fadein',['../class_game.html#a1e45b79cf1385958bc6326a5e81833d7',1,'Game::Fadein()'],['../class_music_manager.html#ac4f6737d41cfe8bddeaa6af88a526019',1,'MusicManager::Fadein()']]],
+  ['fadeout',['Fadeout',['../class_game.html#ad7197c2f0cec68101a2d48828ab99e1c',1,'Game::Fadeout()'],['../class_music_manager.html#aa2e1fc100aa389d146254dfffc7d5776',1,'MusicManager::Fadeout()']]],
   ['fart',['Fart',['../class_game.html#a7dbed82d4673610a5cddf8d512526437',1,'Game']]],
   ['findfreepickupspawnposition',['FindFreePickupSpawnPosition',['../class_room.html#a0352286862f293cb6a0008716405af9e',1,'Room']]],
   ['findfreetileposition',['FindFreeTilePosition',['../class_room.html#a67d859708304a2da30feb74a8d50ff77',1,'Room']]],

@@ -2,6 +2,7 @@ var searchData=
 [
   ['gb_5fbug',['GB_BUG',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea023e3040c8f6b5d9d1c00fe4833208be',1,'Enums.h']]],
   ['gemini',['GEMINI',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbeaa028c82f108fcb5586b7ccdfea33d1f8',1,'Enums.h']]],
+  ['get_5faction_5fvalue',['GET_ACTION_VALUE',['../group___enumerations.html#gga0945400993463eece8f1c9856e24573ca5bb0b3c714ee40f99417a11616a1a63a',1,'Enums.h']]],
   ['ghost_5fbaby',['GHOST_BABY',['../group___enumerations.html#gga98047d6add3110afcb410e3026264bbea8eea16fc1dc2e4d850f19691f7cf0388',1,'Enums.h']]],
   ['glaucoma',['GLAUCOMA',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359acdd6e1abc8ef0072544087ddbeb2ceb8',1,'Enums.h']]],
   ['glaucoma_5fblood',['GLAUCOMA_BLOOD',['../group___enumerations.html#gga1c33a86e6763599e3685d45558207359aabccb043c8b3f40fa11242b5a4e28d90',1,'Enums.h']]],

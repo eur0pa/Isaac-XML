@@ -10,5 +10,6 @@ var searchData=
   ['moverandomlyaxisaligned',['MoveRandomlyAxisAligned',['../class_path_finder.html#a901590d7028ae18ce42bc2807a84754a',1,'PathFinder']]],
   ['moverandomlyboss',['MoveRandomlyBoss',['../class_path_finder.html#a02166808725f09faaf6df05ddf4e3513',1,'PathFinder']]],
   ['movetorandomroom',['MoveToRandomRoom',['../class_game.html#ab01e756e8ffd4af7db99d3f163fd3595',1,'Game']]],
-  ['multiplyfriction',['MultiplyFriction',['../class_entity.html#af45785e4f70fe0b4c656466d24f727f9',1,'Entity']]]
+  ['multiplyfriction',['MultiplyFriction',['../class_entity.html#af45785e4f70fe0b4c656466d24f727f9',1,'Entity']]],
+  ['musicmanager',['MusicManager',['../group___functions.html#gadb9aad240fd3780570efed9201ce28ee',1,'Output.h']]]
 ];

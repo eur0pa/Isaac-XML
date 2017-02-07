@@ -25,6 +25,7 @@ var searchData=
   ['theresoptionspickup',['TheresOptionsPickup',['../class_entity_pickup.html#a5195ffe3b8b865b83b157531901f4143',1,'EntityPickup']]],
   ['throwspider',['ThrowSpider',['../class_entity_n_p_c.html#a589222569ec4d27dba6c881ea95c3326',1,'EntityNPC']]],
   ['time',['Time',['../class_shockwave_params.html#a2422d035adf40ed3a5b343f077e1aad1',1,'ShockwaveParams']]],
+  ['timecounter',['TimeCounter',['../class_game.html#afc9ce44803ae170c5a90b3d66c0f0b4a',1,'Game']]],
   ['timedt',['TimeDT',['../class_shockwave_params.html#ae439dad53f7605468e1c81aef528373f',1,'ShockwaveParams']]],
   ['timeout',['Timeout',['../class_entity_pickup.html#a6cd244af7bd3a419c1ae5350044f315a',1,'EntityPickup::Timeout()'],['../class_entity_effect.html#a997b7de0287f4101e0dc11197cf90430',1,'EntityEffect::Timeout()'],['../class_entity_laser.html#ac0596812cd07b70ead7374b56a91b37f',1,'EntityLaser::Timeout()']]],
   ['tiny_5fbug',['TINY_BUG',['../group___enumerations.html#gga76f2089184023be252ef251921626d99a6cbbfd07d783fb30b116acdd382ab003',1,'Enums.h']]],
@@ -193,5 +194,5 @@ var searchData=
   ['tryunlock',['TryUnlock',['../class_grid_entity_door.html#a324db2cef14886aadf144c965b063e35',1,'GridEntityDoor']]],
   ['tryusekey',['TryUseKey',['../class_entity_player.html#a2c32cda079f28d3dbb31a2777426f7ce',1,'EntityPlayer']]],
   ['turngold',['TurnGold',['../class_room.html#a1d2fcc21c10e96dd201b4d4b892b484b',1,'Room']]],
-  ['type',['Type',['../class_entity_ref.html#ab0b4571f7ae6cf41c688ccdf28d7a390',1,'EntityRef::Type()'],['../class_config_1_1_item.html#a594c64cc65b43d9b0fa14ef9cb45ff88',1,'Config::Item::Type()'],['../class_entity.html#a8db7312370db1734681dfaee7f2242a8',1,'Entity::Type()'],['../class_grid_entity_desc.html#aa6c96942086499ea377f825a2824d712',1,'GridEntityDesc::Type()']]]
+  ['type',['Type',['../class_entity_ref.html#ab0b4571f7ae6cf41c688ccdf28d7a390',1,'EntityRef::Type()'],['../class_config_1_1_item.html#a594c64cc65b43d9b0fa14ef9cb45ff88',1,'Config::Item::Type()'],['../class_entity.html#a8db7312370db1734681dfaee7f2242a8',1,'Entity::Type()'],['../class_grid_entity_desc.html#aa6c96942086499ea377f825a2824d712',1,'GridEntityDesc::Type()'],['../class_room_config_1_1_entry.html#a4860f52ad55bf5c584f8d220b89893be',1,'RoomConfig::Entry::Type()'],['../class_room_config_1_1_room.html#a5e314f8d767194724779df3086a1f8a2',1,'RoomConfig::Room::Type()']]]
 ];

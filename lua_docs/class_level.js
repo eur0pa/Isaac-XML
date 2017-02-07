@@ -31,6 +31,7 @@ var class_level =
     [ "GetRandomRoomIndex", "class_level.html#abec9b66c2f74597cff48896073851e6b", null ],
     [ "GetRoomByIdx", "class_level.html#a482d1e469fbe4bd1a8bf142717892561", null ],
     [ "GetRoomCount", "class_level.html#a2df27da01b927e5af8efb6b15ba8f87c", null ],
+    [ "GetRooms", "class_level.html#aafb1d0cfa4b5a160bdc4c8006daacf52", null ],
     [ "GetStage", "class_level.html#aef5e18dbe0ffab3761302c9f38d73118", null ],
     [ "GetStageType", "class_level.html#ae0322dfcf6923481753b17e0c1a41fda", null ],
     [ "GetStartingRoomIndex", "class_level.html#a7befd23e94f7f3a51d4621fe5988a594", null ],

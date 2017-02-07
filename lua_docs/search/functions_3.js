@@ -14,9 +14,11 @@ var searchData=
   ['canshutdoors',['CanShutDoors',['../class_entity.html#a845c3b4ecf9c9064b732c4f53971e06a',1,'Entity']]],
   ['canspawndevilroom',['CanSpawnDevilRoom',['../class_level.html#af4e9adf257bed3485709a3151b32c70b',1,'Level']]],
   ['canstagehavecurseoflabyrinth',['CanStageHaveCurseOfLabyrinth',['../class_level.html#ad2e1fb8519bdf72beb8336290ae94698',1,'Level']]],
+  ['canturnhead',['CanTurnHead',['../class_entity_player.html#ab5283f879841295697dbe8729ef9d66b',1,'EntityPlayer']]],
   ['changeroom',['ChangeRoom',['../class_level.html#acee5a4d4b94c9b5e7c9a26acdb376ef9',1,'Level::ChangeRoom()'],['../class_game.html#a01707d799eb6895bd3d10de5df514a13',1,'Game::ChangeRoom()']]],
   ['changevariant',['ChangeVariant',['../class_entity_tear.html#ad139684781df68e385eef22885f3549c',1,'EntityTear']]],
   ['charmfart',['CharmFart',['../class_game.html#ae36245fdbb0db48912128bd6cfc8f4b5',1,'Game']]],
+  ['checkfamiliar',['CheckFamiliar',['../class_entity_player.html#a7a22d3b373a901b1fb61c2624f841c4b',1,'EntityPlayer']]],
   ['checkline',['CheckLine',['../class_room.html#a14eb7072cfa4553c609439ebb932c92e',1,'Room']]],
   ['clamp',['Clamp',['../class_vector.html#ace103d3040e81c1ac3acf2de0b3cf50b',1,'Vector']]],
   ['clamped',['Clamped',['../class_vector.html#a813752c55e1bc1187e21c7bc8e4573bf',1,'Vector']]],
@@ -32,5 +34,6 @@ var searchData=
   ['close',['Close',['../class_grid_entity_door.html#a93b4761181298094246409e16337ac0a',1,'GridEntityDoor']]],
   ['collideswithgrid',['CollidesWithGrid',['../class_entity.html#a456361c3c42d15897a7c7b1a4e95aea2',1,'Entity']]],
   ['color',['Color',['../class_color.html#abfab99e1ad10cdb66e5f8cfd7d273cd6',1,'Color']]],
-  ['cross',['Cross',['../class_vector.html#ac7734ac3f82d1af28f63cc4d7283fbbc',1,'Vector']]]
+  ['cross',['Cross',['../class_vector.html#ac7734ac3f82d1af28f63cc4d7283fbbc',1,'Vector']]],
+  ['crossfade',['Crossfade',['../class_music_manager.html#ab30eaa809c4fad4a0e5f32aa5152c240',1,'MusicManager']]]
 ];

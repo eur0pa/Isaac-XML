@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['fadein',['Fadein',['../class_game.html#a1e45b79cf1385958bc6326a5e81833d7',1,'Game']]],
-  ['fadeout',['Fadeout',['../class_game.html#ad7197c2f0cec68101a2d48828ab99e1c',1,'Game']]],
+  ['fadein',['Fadein',['../class_game.html#a1e45b79cf1385958bc6326a5e81833d7',1,'Game::Fadein()'],['../class_music_manager.html#ac4f6737d41cfe8bddeaa6af88a526019',1,'MusicManager::Fadein()']]],
+  ['fadeout',['Fadeout',['../class_game.html#ad7197c2f0cec68101a2d48828ab99e1c',1,'Game::Fadeout()'],['../class_music_manager.html#aa2e1fc100aa389d146254dfffc7d5776',1,'MusicManager::Fadeout()']]],
   ['falling_5fember',['FALLING_EMBER',['../group___enumerations.html#gga76f2089184023be252ef251921626d99af0e8caa6a265723063811be860644305',1,'Enums.h']]],
   ['fallingacceleration',['FallingAcceleration',['../class_entity_tear.html#ad1cf5fba9b381a8a2aba225f32bd26c3',1,'EntityTear::FallingAcceleration()'],['../class_entity_effect.html#a6409902c2702400015afd08ecef2048a',1,'EntityEffect::FallingAcceleration()']]],
   ['fallingaccelmodifier',['FallingAccelModifier',['../class_projectile_params.html#a2eaf9f03f988febf7bd23663ec2ad056',1,'ProjectileParams']]],

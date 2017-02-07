@@ -13,5 +13,6 @@ var searchData=
   ['entityplayer',['EntityPlayer',['../class_entity_player.html',1,'']]],
   ['entityptr',['EntityPtr',['../class_entity_ptr.html',1,'']]],
   ['entityref',['EntityRef',['../class_entity_ref.html',1,'']]],
-  ['entitytear',['EntityTear',['../class_entity_tear.html',1,'']]]
+  ['entitytear',['EntityTear',['../class_entity_tear.html',1,'']]],
+  ['entry',['Entry',['../class_room_config_1_1_entry.html',1,'RoomConfig']]]
 ];
