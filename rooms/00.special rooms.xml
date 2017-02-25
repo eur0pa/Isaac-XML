@@ -6203,10 +6203,7 @@
 		<door x="6" y="7" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
-		<spawn x="6" y="2">
-			<entity type="61" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="2" y="3">
+		<spawn x="11" y="2">
 			<entity type="0" variant="10" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="5" y="3">
@@ -6218,11 +6215,8 @@
 		<spawn x="7" y="3">
 			<entity type="61" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="4" y="4">
+		<spawn x="9" y="3">
 			<entity type="0" variant="10" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="6" y="4">
-			<entity type="61" variant="0" subtype="0" weight="1" />
 		</spawn>
 	</room>
 	<room type="5" variant="1068" subtype="5" difficulty="1" name="Monstro II (copy)" shape="1" weight="1" width="13" height="7">
@@ -13443,6 +13437,15 @@
 		<spawn x="1" y="7">
 			<entity type="19" variant="0" subtype="0" weight="4" />
 		</spawn>
+		<spawn x="2" y="7">
+			<entity type="19" variant="0" subtype="0" weight="4" />
+		</spawn>
+		<spawn x="3" y="7">
+			<entity type="19" variant="0" subtype="0" weight="4" />
+		</spawn>
+		<spawn x="4" y="7">
+			<entity type="19" variant="0" subtype="0" weight="4" />
+		</spawn>
 		<spawn x="11" y="7">
 			<entity type="410" variant="0" subtype="0" weight="1" />
 		</spawn>
@@ -13566,15 +13569,6 @@
 		</spawn>
 		<spawn x="1" y="6">
 			<entity type="409" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="5" y="6">
-			<entity type="1000" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="6" y="6">
-			<entity type="1000" variant="0" subtype="0" weight="1" />
-		</spawn>
-		<spawn x="7" y="6">
-			<entity type="1000" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="11" y="6">
 			<entity type="409" variant="0" subtype="0" weight="1" />

@@ -43098,9 +43098,6 @@
 		<spawn x="12" y="6">
 			<entity type="1000" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="10" y="7">
-			<entity type="1000" variant="0" subtype="0" weight="1" />
-		</spawn>
 	</room>
 	<room type="1" variant="151" subtype="0" difficulty="10" name="" shape="1" weight="1" width="13" height="7">
 		<door x="6" y="-1" exists="1" />
@@ -49114,7 +49111,7 @@
 			<entity type="212" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="12" y="0">
-			<entity type="1900" variant="0" subtype="0" weight="1" />
+			<entity type="1500" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="0" y="1">
 			<entity type="3000" variant="0" subtype="0" weight="1" />
@@ -49189,7 +49186,7 @@
 			<entity type="212" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="6" y="6">
-			<entity type="1900" variant="0" subtype="0" weight="1" />
+			<entity type="1500" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="7" y="6">
 			<entity type="3000" variant="0" subtype="0" weight="1" />

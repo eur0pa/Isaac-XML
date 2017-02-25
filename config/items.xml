@@ -396,7 +396,7 @@
 	<passive achievement="202" description="The heavens will change you" gfx="Collectibles_392_Zodiac.png" id="392" name="Zodiac" />
 	<passive achievement="220" description="The kiss of death" gfx="Collectibles_393_SerpentsKiss.png" id="393" name="Serpent's Kiss" />
 	<passive description="Directed tears" gfx="Collectibles_394_Marked.png" id="394" name="Marked" cache="firedelay range" />
-	<passive description="Laser ring tears" gfx="Collectibles_395_TechX.png" id="395" name="Tech X" cache="weapon" />
+	<passive description="Laser ring tears" gfx="Collectibles_395_TechX.png" id="395" name="Tech X" cache="all" />
 	<active description="Short cutter" gfx="Collectibles_396_VentricleRazor.png" id="396" name="Ventricle Razor" />
 	<passive description="Controlled tears" gfx="Collectibles_397_TractorBeam.png" id="397" name="Tractor Beam" cache="firedelay tearflag range shotspeed" />
 	<passive description="Shrink shot!" gfx="Collectibles_398_GodsFlesh.png" id="398" name="God's Flesh" cache="tearcolor" />
@@ -435,10 +435,10 @@
 	<familiar description="Turret Follower" gfx="Collectibles_430_PapaFly.png" id="430" name="Papa Fly" />
 	<familiar description="ydduB Buddy" gfx="Collectibles_431_MultidimensionalBaby.png" id="431" name="Multidimensional Baby" />
 	<passive description="Prize Bombs!" gfx="Collectibles_432_GlitterBombs.png" id="432" name="Glitter Bombs" bombs="5" />
-	<passive achievement="195" description="Me! and my shaaaadow!" gfx="Collectibles_433_MyShadow.png" id="433" name="My Shadow" />
+	<passive achievement="195" description="Me! And my shaaaadow!" gfx="Collectibles_433_MyShadow.png" id="433" name="My Shadow" />
 	<active description="Gotta catch 'em all?" gfx="Collectibles_434_JarOfFlies.png" id="434" name="Jar of Flies" maxcharges="0" />
 	<familiar description="4-way buddy!" gfx="Collectibles_435_LilLoki.png" id="435" name="Lil Loki" />
-	<familiar description="dont cry over it..." gfx="Collectibles_436_Milk.png" id="436" name="Milk!" cache="firedelay" />
+	<familiar description="Don't cry over it..." gfx="Collectibles_436_Milk.png" id="436" name="Milk!" cache="firedelay" />
 	<active description="Reroll Rewards!" gfx="Collectibles_437_D7.png" id="437" name="D7" maxcharges="3" />
 	<passive description="Memories..." gfx="Collectibles_438_Binky.png" id="438" name="Binky" cache="firedelay" soulhearts="2" />
 	<active description="What's inside?" gfx="Collectibles_439_MomsBox.png" id="439" name="Mom's Box" maxcharges="4" cache="all" />
@@ -448,7 +448,7 @@
 	<!-- Afterbirth+ -->
 	<passive achievement="290" description="Loss is power" gfx="Collectibles_442_DarkPrincesCrown.png" id="442" name="Dark Princes Crown" cache="range firedelay shotspeed" devilprice="2" />
 	<passive description="Trick or treat?" gfx="Collectibles_443_Apple.png" id="443" name="Apple!" cache="firedelay" />
-	<passive description="Hes a bleeder!" gfx="Collectibles_444_LeadPencil.png" id="444" name="Lead Pencil" />
+	<passive description="He's a bleeder!" gfx="Collectibles_444_LeadPencil.png" id="444" name="Lead Pencil" />
 	<passive description="Bark at the moon!" gfx="Collectibles_445_DogTooth.png" id="445" name="Dog Tooth" cache="damage speed" />
 	<passive description="Halitosis" gfx="Collectibles_446_DeadTooth.png" id="446" name="Dead Tooth" />
 	<passive description="Crying makes me toot" gfx="Collectibles_447_LingerBean.png" id="447" name="Linger Bean" />
@@ -462,7 +462,7 @@
 	<passive achievement="307" description="I remember this..." gfx="Collectibles_455_DadsLostCoin.png" id="455" name="Dad's Lost Coin" cache="range" />
 	<passive description="Midnight snack!" gfx="Collectibles_456_MoldyBread.png" id="456" name="Moldy Bread" hearts="2" maxhearts="2" />
 	<passive description="Hard headed!" gfx="Collectibles_457_Conehead.png" id="457" name="Cone Head" soulhearts="2" />
-	<passive description="Whats in there?" gfx="Collectibles_458_BellyButton.png" id="458" name="Belly Button" />
+	<passive description="What's in there?" gfx="Collectibles_458_BellyButton.png" id="458" name="Belly Button" />
 	<passive description="Booger tears!" gfx="Collectibles_459_SinusInfection.png" id="459" name="Sinus Infection" />
 	<passive description="Blind tears!" gfx="Collectibles_460_Glaucoma.png" id="460" name="Glaucoma" />
 	<passive description="Egg tears!" gfx="Collectibles_461_Parasitoid.png" id="461" name="Parasitoid" cache="range" />
@@ -610,8 +610,8 @@
 	<trinket achievement="204" description="Feels greedy" gfx="trinket_084_ribofgreed.png" id="84" name="Rib of Greed" />
 	<trinket achievement="239" description="Karma up" gfx="trinket_085_karma.png" id="85" name="Karma" />
 	
-	<trinket description="the poop is moving..." gfx="Trinket_086_LilLarva.png" id="86" name="Lil Larva" />
-	<trinket description="you feel her love" gfx="Trinket_087_MomsLocket.png" id="87" name="Mom's Locket" />
+	<trinket description="The poop is moving..." gfx="Trinket_086_LilLarva.png" id="86" name="Lil Larva" />
+	<trinket description="You feel her love" gfx="Trinket_087_MomsLocket.png" id="87" name="Mom's Locket" />
 	<trinket description="Never again!" gfx="Trinket_088_NO.png" id="88" name="NO!" />
 	<trinket description="Keep your friends close..." gfx="Trinket_089_ChildLeash.png" id="89" name="Child Leash" />
 	<trinket description="Fartoom!" gfx="Trinket_090_BrownCap.png" id="90" name="Brown Cap" />
@@ -635,7 +635,7 @@
 	<trinket description="I wonder what it is" gfx="trinket_105_baglunch.png" id="105" name="Bag Lunch" />
 	<trinket description="Uncorked" gfx="trinket_106_lostcork.png" id="106" name="Lost Cork" />
 	<trinket achievement="302" description="Drain me" gfx="trinket_107_crowheart.png" id="107" name="Crow Heart" />
-	<trinket description="Thats a hard nut to crack!" gfx="trinket_108_walnut.png" id="108" name="Walnut" />
+	<trinket description="That's a hard nut to crack!" gfx="trinket_108_walnut.png" id="108" name="Walnut" />
 	<trinket description="Stuck!" gfx="trinket_109_ducttape.png" id="109" name="Duct Tape" />
 	<trinket achievement="284" description="Feels lucky..." gfx="trinket_110_silverdollar.png" id="110" name="Silver Dollar" />
 	<trinket achievement="287" description="Drips with blood..." gfx="trinket_111_bloodycrown.png" id="111" name="Bloody Crown" />
