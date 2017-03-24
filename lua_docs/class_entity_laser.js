@@ -1,6 +1,6 @@
 var class_entity_laser =
 [
-    [ "CalculateEndPoint", "class_entity_laser.html#a4def08593cf7fef5e3c9fe4f7ea16fb0", null ],
+    [ "CalculateEndPoint", "class_entity_laser.html#a632c7cc2ee43dd811ab5fee5ca0f12b3", null ],
     [ "GetEndPoint", "class_entity_laser.html#a938509ea2ecaf2218f9b5e26210da070", null ],
     [ "GetNonOptimizedSamples", "class_entity_laser.html#a91fac0a00eac518fb94e87a17a0f79c0", null ],
     [ "GetRenderZ", "class_entity_laser.html#a9b8fe1c1c7896c2f053d658262091eef", null ],
@@ -14,7 +14,7 @@ var class_entity_laser =
     [ "SetMultidimensionalTouched", "class_entity_laser.html#a632875bb8513d6c1e218cbec12341393", null ],
     [ "SetOneHit", "class_entity_laser.html#a61d55816a5e29248624156b20861c951", null ],
     [ "SetTimeout", "class_entity_laser.html#ae09fce2ceac62b4dfcbc31097277cb50", null ],
-    [ "ShootAngle", "class_entity_laser.html#a3931aba4b3e7c41fb0968a62658b2211", null ],
+    [ "ShootAngle", "class_entity_laser.html#a921dd861ce7f543cd535a89915681091", null ],
     [ "Angle", "class_entity_laser.html#a531e48848abbf79f321d1a78cdc98238", null ],
     [ "AngleDegrees", "class_entity_laser.html#a7100eed09ecfe3cec73127c24601b8a5", null ],
     [ "BlackHpDropChance", "class_entity_laser.html#a4b488d177977d44d7de3b4e44c56c879", null ],

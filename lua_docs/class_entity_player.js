@@ -90,7 +90,7 @@ var class_entity_player =
     [ "GetGreedDonationBreakChance", "class_entity_player.html#a3c64bafab7b9e5a0c71feae8206fa587", null ],
     [ "GetHeadDirection", "class_entity_player.html#a1a28da613a4d4c68734abd19d22a4eb4", null ],
     [ "GetHearts", "class_entity_player.html#ad5c625fdc6d0651e4a5c5301341166a6", null ],
-    [ "GetItemState", "class_entity_player.html#a5da8e0a4053e789cc654c94a1f4a80bc", null ],
+    [ "GetItemState", "class_entity_player.html#a69aad84548878a521019e307941d9f83", null ],
     [ "GetJarFlies", "class_entity_player.html#a680e6b8d618648c11e044b991f6ae73b", null ],
     [ "GetJarHearts", "class_entity_player.html#a59a3aff1226efa0b24987ea8fe73e4aa", null ],
     [ "GetLaserOffset", "class_entity_player.html#a998f0f9c75e7be8704253f9faefa4fa3", null ],

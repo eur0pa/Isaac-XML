@@ -2,7 +2,7 @@ var class_color =
 [
     [ "Color", "class_color.html#abfab99e1ad10cdb66e5f8cfd7d273cd6", null ],
     [ "__mul", "class_color.html#a2041b94436a53fc1403f6f7026584724", null ],
-    [ "Lerp", "class_color.html#a06de22a935b1a31d1cc8776d5af5561c", null ],
+    [ "Lerp", "class_color.html#a8d482383815756ab0974b34a6b8add75", null ],
     [ "Reset", "class_color.html#a36fa4bb53ae01f54533811a89852040b", null ],
     [ "SetColorize", "class_color.html#a86fc92e43adbf87ff84f52c583f1e476", null ],
     [ "SetOffset", "class_color.html#a5f88bdd6845755c7d6a9a4cfee899467", null ],

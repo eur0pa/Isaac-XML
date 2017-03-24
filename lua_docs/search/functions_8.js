@@ -19,6 +19,7 @@ var searchData=
   ['hasnulleffect',['HasNullEffect',['../class_temporary_effects.html#ae4a6aaa0d0050d1aab9f71fe85c94914',1,'TemporaryEffects']]],
   ['haspathtopos',['HasPathToPos',['../class_path_finder.html#a391aceba754a137f84f330039ee2c435',1,'PathFinder']]],
   ['hasplayerform',['HasPlayerForm',['../class_entity_player.html#a91760cf07bcc250726eadd63e249de7d',1,'EntityPlayer']]],
+  ['hasseedeffect',['HasSeedEffect',['../class_seeds.html#a42b8e531dfa761532e7ec613293881b7',1,'Seeds']]],
   ['hasslowdown',['HasSlowDown',['../class_room.html#abd1ff0479e9d38de3d41e0d4f395a77a',1,'Room']]],
   ['hastimeditem',['HasTimedItem',['../class_entity_player.html#a22ee5c1959991b0b60d86baa3679c8b2',1,'EntityPlayer']]],
   ['hastriggerpressureplates',['HasTriggerPressurePlates',['../class_room.html#ac146b41582262bb28463ca0d1bbabfa5',1,'Room']]],

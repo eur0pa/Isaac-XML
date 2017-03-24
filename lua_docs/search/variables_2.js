@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['cacheflags',['CacheFlags',['../class_config_1_1_item.html#a5393eefa8b6c462eb3e38c0b697ee871',1,'Config::Item']]],
+  ['cacheflags',['CacheFlags',['../class_item_config_1_1_item.html#a542eeff5a25ffeac86a8a8a312b76f2c',1,'ItemConfig::Item']]],
   ['canfly',['CanFly',['../class_entity_player.html#a90b8f0fd5b85c8aa1e629ed1e901184d',1,'EntityPlayer']]],
   ['canshutdoors',['CanShutDoors',['../class_entity_n_p_c.html#a4f6207b5982b12aa707f1ee027195bea',1,'EntityNPC']]],
   ['cantriggerstreakend',['CanTriggerStreakEnd',['../class_entity_tear.html#a2e30d30974067a551fb5a5140eabf316',1,'EntityTear']]],
@@ -24,7 +24,7 @@ var searchData=
   ['controllerindex',['ControllerIndex',['../class_entity_player.html#a614a13693360cd64fe808f25a6077b4e',1,'EntityPlayer']]],
   ['controlsenabled',['ControlsEnabled',['../class_entity_player.html#ad619ac182a1d805302ed756449c26664',1,'EntityPlayer']]],
   ['cooldown',['Cooldown',['../class_temporary_effect.html#aba56ce61589b1e646d84b84b172ec92d',1,'TemporaryEffect']]],
-  ['costume',['Costume',['../class_config_1_1_item.html#a8f88603f6e095cfd6589982976776c4b',1,'Config::Item']]],
+  ['costume',['Costume',['../class_item_config_1_1_item.html#a60dfb748978338720d9dfae9c8c3d476',1,'ItemConfig::Item']]],
   ['count',['Count',['../class_temporary_effect.html#a13fdcfda0ee6851fbaaa32d2d579acd6',1,'TemporaryEffect']]],
   ['currentroomtype',['CurrentRoomType',['../class_grid_entity_door.html#ada68ccc12ec3fd1e69f2a6cb658779d9',1,'GridEntityDoor']]],
   ['curvestrength',['CurveStrength',['../class_entity_laser.html#a1a69f6d786109fabdaf0ec80a5c385dc',1,'EntityLaser']]],

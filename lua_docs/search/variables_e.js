@@ -17,7 +17,7 @@ var searchData=
   ['previousstate',['PreviousState',['../class_grid_entity_door.html#a6f7dcc33f6c03761c626d0bb6ffd43fd',1,'GridEntityDoor']]],
   ['previousvariant',['PreviousVariant',['../class_grid_entity_door.html#ae62f20e9d535cb6a33e49c779120e7f5',1,'GridEntityDoor']]],
   ['price',['Price',['../class_entity_pickup.html#a342aa081c98c409bee38b26a923f161f',1,'EntityPickup']]],
-  ['priority',['Priority',['../class_config_1_1_costume.html#a9d8156c72ba76d0eedc12373182c0616',1,'Config::Costume']]],
+  ['priority',['Priority',['../class_item_config_1_1_costume.html#ab7ff9e7b1f7ea7c6650bccf09d67867e',1,'ItemConfig::Costume']]],
   ['projectilecooldown',['ProjectileCooldown',['../class_entity_n_p_c.html#a7f08ff17d1c3e040c722df739a163c8e',1,'EntityNPC']]],
   ['projectiledelay',['ProjectileDelay',['../class_entity_n_p_c.html#a77ba4dc74119155772c23264da44ff31',1,'EntityNPC']]]
 ];

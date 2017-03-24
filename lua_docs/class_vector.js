@@ -11,7 +11,7 @@ var class_vector =
     [ "Distance", "class_vector.html#a3b5516463b4a28f3c919100d86f37473", null ],
     [ "DistanceSquared", "class_vector.html#a2017d10464afbbfac794504651b6c6d0", null ],
     [ "Dot", "class_vector.html#a1b3a83ea8859a34776e4b5ff4a26cc00", null ],
-    [ "FromAngle", "class_vector.html#a07c35c26e27b8562aeac4069d5f580b9", null ],
+    [ "FromAngle", "class_vector.html#a3421510b3ccf4c3ffd48b5df9588e7fc", null ],
     [ "GetAngleDegrees", "class_vector.html#a267cb475e2b29b83ac555c04d13cfc69", null ],
     [ "Length", "class_vector.html#a36fc58a941177377e066425071cf4bb3", null ],
     [ "LengthSquared", "class_vector.html#aa5fcce60363f37a753eb5996bada6bf6", null ],

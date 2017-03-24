@@ -638,6 +638,16 @@
 		<Item Id="509" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Sharp Straw-->
 		<Item Id="507" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Sprinkler-->
+		<Item Id="516" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Black Hole-->
+		<Item Id="512" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Angry Fly-->
+		<Item Id="511" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Bozo-->
+		<Item Id="513" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Fast Bombs-->
+		<Item Id="517" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="shop">
 		<!--The Compass-->
@@ -778,6 +788,12 @@
 		<Item Id="483" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Poke Go-->
 		<Item Id="505" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Buddy in a box-->
+		<Item Id="518" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Broken Modem-->
+		<Item Id="514" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Mystery Gift-->
+		<Item Id="515" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="boss">
 		<!--Magic Mushroom-->
@@ -1000,6 +1016,8 @@
 		<Item Id="442" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Shade-->
 		<Item Id="468" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Lil Delirium-->
+		<Item Id="519" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="angel">
 		<!--The Bible-->
@@ -1078,6 +1096,8 @@
 		<Item Id="477" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Delirious-->
 		<Item Id="510" Weight="0.4" DecreaseBy="0.4" RemoveOn="0.1"/>
+		<!--Lil Delirium-->
+		<Item Id="519" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="secret">
 		<!--Samson's Chains-->
@@ -1186,6 +1206,8 @@
 		<Item Id="19" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--MaMa Mega!-->
 		<Item Id="483" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Fast Bombs-->
+		<Item Id="517" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="goldenChest">
 		<!--Max's Head-->
@@ -1450,6 +1472,8 @@
 		<Item Id="353" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Glitter Bombs-->
 		<Item Id="432" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Fast Bombs-->
+		<Item Id="517" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="dungeon">
 		<!--Lunch-->

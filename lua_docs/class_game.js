@@ -47,6 +47,7 @@ var class_game =
     [ "GetRandomPlayer", "class_game.html#a3a8c2c1d08a50e41ed1386eb90291b03", null ],
     [ "GetRoom", "class_game.html#a84ec33d7ac1ab5a3b1b55a494032ec3d", null ],
     [ "GetScreenShakeCountdown", "class_game.html#a3f868c0c7cd9be6d4b7ed9e767a2161a", null ],
+    [ "GetSeeds", "class_game.html#a808a458755acf017ef9ae2f4fe821b90", null ],
     [ "GetStagesWithoutDamage", "class_game.html#a5c97e5fb6a1c0b1ddaa4c56550e7500b", null ],
     [ "GetStagesWithoutHeartsPicked", "class_game.html#a6432b069d3ad597f6103ba623ae4f68f", null ],
     [ "GetStateFlag", "class_game.html#a55a42321ac31e8249a07ae56a14f4174", null ],

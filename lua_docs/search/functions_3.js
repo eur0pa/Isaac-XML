@@ -1,8 +1,9 @@
 var searchData=
 [
   ['calctargetposition',['CalcTargetPosition',['../class_entity_n_p_c.html#a68aaf4419c10fb65870034256d1037c2',1,'EntityNPC']]],
-  ['calculateendpoint',['CalculateEndPoint',['../class_entity_laser.html#a4def08593cf7fef5e3c9fe4f7ea16fb0',1,'EntityLaser']]],
+  ['calculateendpoint',['CalculateEndPoint',['../class_entity_laser.html#a632c7cc2ee43dd811ab5fee5ca0f12b3',1,'EntityLaser']]],
   ['canaddcollectible',['CanAddCollectible',['../class_entity_player.html#a5b9020e18960757f4b155c9609af7b83',1,'EntityPlayer']]],
+  ['canaddseedeffect',['CanAddSeedEffect',['../class_seeds.html#a075c2d89f475a785a775ea88289cb1b6',1,'Seeds']]],
   ['canbedamagedfromvelocity',['CanBeDamagedFromVelocity',['../class_entity_n_p_c.html#a234254b0395d6cd4fc9490a97b901a1d',1,'EntityNPC']]],
   ['canblowopen',['CanBlowOpen',['../class_grid_entity_door.html#a893e09dc54a4c07ec11ed2c7b1932c4d',1,'GridEntityDoor']]],
   ['canopenchallengeroom',['CanOpenChallengeRoom',['../class_level.html#a0e41a4bfdd3bc21f8213ffeca46acfc2',1,'Level']]],
@@ -28,12 +29,17 @@ var searchData=
   ['cleardonationmodgreed',['ClearDonationModGreed',['../class_game.html#a002852b318d0e43c183ab014c2b67b86',1,'Game']]],
   ['cleareffects',['ClearEffects',['../class_temporary_effects.html#ac8a8f502c86d7c92d9ab16202d616ca8',1,'TemporaryEffects']]],
   ['clearentityflags',['ClearEntityFlags',['../class_entity.html#a7c2968914608acc00eb37673705e8805',1,'Entity']]],
+  ['clearseedeffects',['ClearSeedEffects',['../class_seeds.html#aecd0b2d8901ab25ae40c072a51fe4d13',1,'Seeds']]],
   ['clearstageswithoutdamage',['ClearStagesWithoutDamage',['../class_game.html#a5452b936eb66df405764637a0acb1a5a',1,'Game']]],
   ['clearstageswithoutheartspicked',['ClearStagesWithoutHeartsPicked',['../class_game.html#acb5d32ccc40011278f291f42fc271aa5',1,'Game']]],
+  ['clearstartseed',['ClearStartSeed',['../class_seeds.html#a679c13db5959202a2ad15951703256e4',1,'Seeds']]],
   ['cleartemporaryeffects',['ClearTemporaryEffects',['../class_entity_player.html#a02909daffabc843e0248caefc6125419',1,'EntityPlayer']]],
   ['close',['Close',['../class_grid_entity_door.html#a93b4761181298094246409e16337ac0a',1,'GridEntityDoor']]],
   ['collideswithgrid',['CollidesWithGrid',['../class_entity.html#a456361c3c42d15897a7c7b1a4e95aea2',1,'Entity']]],
   ['color',['Color',['../class_color.html#abfab99e1ad10cdb66e5f8cfd7d273cd6',1,'Color']]],
+  ['consoleoutput',['ConsoleOutput',['../namespace_isaac.html#a66a278e9b5fc1a6baa2409dd1c57b204',1,'Isaac']]],
+  ['countseedeffects',['CountSeedEffects',['../class_seeds.html#ad114d97a3204399e54141b57d0516057',1,'Seeds']]],
+  ['countunlockedseedeffects',['CountUnlockedSeedEffects',['../class_seeds.html#a0b3f65ad9c4c1ac86f431de5b525ddb9',1,'Seeds']]],
   ['cross',['Cross',['../class_vector.html#ac7734ac3f82d1af28f63cc4d7283fbbc',1,'Vector']]],
-  ['crossfade',['Crossfade',['../class_music_manager.html#ab30eaa809c4fad4a0e5f32aa5152c240',1,'MusicManager']]]
+  ['crossfade',['Crossfade',['../class_music_manager.html#a9dad87ac4e51b7030098bdaf4b3be339',1,'MusicManager']]]
 ];

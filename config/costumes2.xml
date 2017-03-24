@@ -343,7 +343,7 @@
 	<costume id="314" anm2path="314_thunderthighs.anm2" type="passive" hasSkinAlt="true" />
 	<costume id="315" anm2path="315_strangeattractor.anm2" type="passive" />
 	<costume id="316" anm2path="316_cursedeye.anm2" type="passive" />
-	<costume id="317" anm2path="317_mysteriousliquid.anm2" type="passive"  />
+	<costume id="317" anm2path="317_mysteriousliquid.anm2" type="passive" hasSkinAlt="true" />
 	<!--<costume id="326" anm2path="326_breath of life.anm2" type="active"  hasSkinAlt="true" />-->
 	<costume id="327" anm2path="327_thepolaroid.anm2" type="passive" />
 	<costume id="328" anm2path="328_thenegative.anm2" type="passive" />
@@ -448,6 +448,10 @@
 	<costume id="503" anm2path="503_LittleHorn.anm2" type="passive" />
 	<costume id="507" anm2path="507_SharpStraw.anm2" type="passive" />
 	<costume id="510" anm2path="510_Delirious.anm2" type="active" />
+	
+	<costume id="513" anm2path="513_Bozo.anm2" type="passive" />
+	<costume id="514" anm2path="514_Modem.anm2" type="passive" />
+	<costume id="517" anm2path="517_fastbombs.anm2" type="passive" />
 		
 	<costume id="53" anm2path="t53_Tick.anm2" type="trinket" />
 </costumes>

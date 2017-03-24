@@ -20,7 +20,7 @@ var class_entity_n_p_c =
     [ "QueryNPCsSpawnerType", "class_entity_n_p_c.html#a9625b5beebd2968fa8e09653af312750", null ],
     [ "QueryNPCsType", "class_entity_n_p_c.html#ab64e94bcaf7b41ca531ab7c5bc28090e", null ],
     [ "ResetPathFinderTarget", "class_entity_n_p_c.html#a87d98bb741263291c988e8e0d7d973fa", null ],
-    [ "ThrowSpider", "class_entity_n_p_c.html#a589222569ec4d27dba6c881ea95c3326", null ],
+    [ "ThrowSpider", "class_entity_n_p_c.html#a9a248bde156de3c654d800072313d001", null ],
     [ "CanShutDoors", "class_entity_n_p_c.html#a4f6207b5982b12aa707f1ee027195bea", null ],
     [ "ChildNPC", "class_entity_n_p_c.html#a606c83e16804aa59433566a59ae62e84", null ],
     [ "EntityRef", "class_entity_n_p_c.html#abe6f5c6979aed26ada4576dbf2aaac25", null ],

@@ -1,15 +1,14 @@
 var NAVTREE =
 [
   [ "Binding of Isaac - Afterbirth+ Lua Reference/Guide", "index.html", [
-    [ "Debug Console Primer", "md_input_converted_test__debug__console__primer.html", null ],
-    [ "Using ZeroBrane Studio to debug your scripts", "md_input_converted_test__debugging.html", null ],
+    [ "Debug Console Primer", "md__d_1_doxygen_test_input_converted_test__debug__console__primer.html", null ],
+    [ "Using ZeroBrane Studio to debug your scripts", "md__d_1_doxygen_test_input_converted_test__debugging.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
+        [ "Functions", "namespacemembers_func.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -28,20 +27,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_entity_knife.html#a75aeb9046c361def77c9796aefd4cceb",
-"class_entity_player.html#aa251b5962fdc050ad450ea379ea20c06",
-"class_grid_entity_door.html#a8940b8436121e6f70447bc5bbc2805aa",
-"class_room_config_1_1_entry.html#afd6907672892f850292234c18fb33f88",
-"group___enumerations.html#ga2f1970a814e3e61deec58584b8b45a1e",
-"group___enumerations.html#gga1a22039e4e87e271f7333d22a8d9e204a5529f9a600d75c2f9aadc0095a3a6697",
-"group___enumerations.html#gga26549fb24a4827dc8429c176a27e3c9da21c4682330b5e96daa91b3b8e2477502",
-"group___enumerations.html#gga2f1970a814e3e61deec58584b8b45a1ea7bfa09cc89f68a68910856922abaa796",
-"group___enumerations.html#gga2f1970a814e3e61deec58584b8b45a1eaf6683666c67375ae0215d48039a62c85",
-"group___enumerations.html#gga76f2089184023be252ef251921626d99aec872065523964151696f850a5a39436",
-"group___enumerations.html#ggab084d3a6d6ddd144ea6df4af965f93fcab13be7e68f4cc4e8e60ef7ef22720ccf",
-"group___enumerations.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2acda34c0800e27b4d4c2f3d7bc92588b1",
-"group___enumerations.html#ggad79a57ed3105eb60d991a1aeb4a9dc44a5d99d79c19c4ea38731d52dd752c5612",
-"group___enumerations.html#ggae64a4edf652c04664bcf078b8844ae4badf2bd853716adac89febd2593387fc9e"
+"class_entity_laser.html#af6e3f7b8cc5cfe3b2e04a8b78d799b30",
+"class_entity_player.html#ae919b0026d4196e2bd66e1b7eea514df",
+"class_item_config_1_1_item.html#a01a8a96e778f5d4ae86705dab32774bd",
+"class_room.html#ae25498b2c55afaf88fffcbe41ff44f2d",
+"functions_vars_l.html",
+"group__enums.html#gga1a22039e4e87e271f7333d22a8d9e204a014f13dd5016bf7dc47a8cf9caed3f95",
+"group__enums.html#gga1a22039e4e87e271f7333d22a8d9e204ad510a1e3fceeb9fc75e925cf4cfac368",
+"group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea49075701f4fca51d92b9dbe276f6856d",
+"group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eac70cfc61cb7f57b10661a37ab38b2f58",
+"group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2ccea97c8e5154363eb1a099379d037b1edad",
+"group__enums.html#gga98047d6add3110afcb410e3026264bbea2edc0b520680afabc4ef7bc435d624ee",
+"group__enums.html#ggabcabfff8e6138e0943763148d70e5005a3a2ee9ec4d7c44239e3f9f769074ac02",
+"group__enums.html#ggacb81dc787ab621baa1b749086e67995ca0e12a492382a84a01d8c0cba58c55514",
+"group__enums.html#ggad79a57ed3105eb60d991a1aeb4a9dc44aaffc5869796a3ae5e82898b71f600135",
+"group__enums.html#ggaf0f11632042073b26283ebf65c46b25fac360a2d8f759c36827100bf9a6230e0b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

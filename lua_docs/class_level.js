@@ -31,7 +31,7 @@ var class_level =
     [ "GetRandomRoomIndex", "class_level.html#abec9b66c2f74597cff48896073851e6b", null ],
     [ "GetRoomByIdx", "class_level.html#a482d1e469fbe4bd1a8bf142717892561", null ],
     [ "GetRoomCount", "class_level.html#a2df27da01b927e5af8efb6b15ba8f87c", null ],
-    [ "GetRooms", "class_level.html#aafb1d0cfa4b5a160bdc4c8006daacf52", null ],
+    [ "GetRooms", "class_level.html#aee91d2920f7dcd5a626b73d21fbe9ebc", null ],
     [ "GetStage", "class_level.html#aef5e18dbe0ffab3761302c9f38d73118", null ],
     [ "GetStageType", "class_level.html#ae0322dfcf6923481753b17e0c1a41fda", null ],
     [ "GetStartingRoomIndex", "class_level.html#a7befd23e94f7f3a51d4621fe5988a594", null ],
@@ -56,6 +56,9 @@ var class_level =
     [ "UncoverHiddenDoor", "class_level.html#afe994755918787f5977810f677056709", null ],
     [ "Update", "class_level.html#a0a3501c065968ca5ee02cf83cb43b0f7", null ],
     [ "UpdateVisibility", "class_level.html#a7cb3e42dae8b8f50a973913e8fa47720", null ],
+    [ "DungeonReturnPosition", "class_level.html#a2422c1e1a66f443cc6ed496be463cc18", null ],
+    [ "DungeonReturnRoomIndex", "class_level.html#a8f6650878b208a33e33c17b8e569c4f5", null ],
     [ "EnterDoor", "class_level.html#aafde153b89894735004cd080cf5cc2f3", null ],
+    [ "GreedModeWave", "class_level.html#a0ecbc57869397c24828d89b5b0d0372f", null ],
     [ "LeaveDoor", "class_level.html#aa51d394d66f5a1f6b46be519b281663a", null ]
 ];

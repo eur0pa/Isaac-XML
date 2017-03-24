@@ -6,8 +6,6 @@ var searchData=
   ['openlockedanimation',['OpenLockedAnimation',['../class_grid_entity_door.html#a97ae6b13424c54ad1cca95e06cdd4f27',1,'GridEntityDoor']]],
   ['orbitangleoffset',['OrbitAngleOffset',['../class_entity_familiar.html#a2919cd1350a1a14da8d9f1528cd7ad42',1,'EntityFamiliar']]],
   ['orbitdistance',['OrbitDistance',['../class_entity_familiar.html#ae09a3876ae274ce071acd2d12feae2f5',1,'EntityFamiliar']]],
-  ['orbitlayer',['OrbitLayer',['../class_entity_familiar.html#ac3765e68a81d0dc450752451ff379a51',1,'EntityFamiliar']]],
-  ['orbitspeed',['OrbitSpeed',['../class_entity_familiar.html#a9a0345a8648cff833b46cf083d2c18c2',1,'EntityFamiliar']]],
   ['overridedata',['OverrideData',['../class_room_descriptor.html#a922e95692f4b927ede4fc18553fb43f4',1,'RoomDescriptor']]],
-  ['overwritecolor',['OverwriteColor',['../class_config_1_1_costume.html#a9d961803dc39c0978f4f7b727c13677e',1,'Config::Costume']]]
+  ['overwritecolor',['OverwriteColor',['../class_item_config_1_1_costume.html#a323a064a49ab51738a46a215dd2db446',1,'ItemConfig::Costume']]]
 ];

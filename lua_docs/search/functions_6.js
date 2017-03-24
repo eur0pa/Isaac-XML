@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['fadein',['Fadein',['../class_game.html#a1e45b79cf1385958bc6326a5e81833d7',1,'Game::Fadein()'],['../class_music_manager.html#ac4f6737d41cfe8bddeaa6af88a526019',1,'MusicManager::Fadein()']]],
+  ['fadein',['Fadein',['../class_game.html#a1e45b79cf1385958bc6326a5e81833d7',1,'Game::Fadein()'],['../class_music_manager.html#addbccc02a3d2b2c0e76100ab544932a4',1,'MusicManager::Fadein()']]],
   ['fadeout',['Fadeout',['../class_game.html#ad7197c2f0cec68101a2d48828ab99e1c',1,'Game::Fadeout()'],['../class_music_manager.html#aa2e1fc100aa389d146254dfffc7d5776',1,'MusicManager::Fadeout()']]],
   ['fart',['Fart',['../class_game.html#a7dbed82d4673610a5cddf8d512526437',1,'Game']]],
   ['findfreepickupspawnposition',['FindFreePickupSpawnPosition',['../class_room.html#a0352286862f293cb6a0008716405af9e',1,'Room']]],
@@ -21,6 +21,7 @@ var searchData=
   ['followparent',['FollowParent',['../class_entity_effect.html#ad384ab0a85d5c0bd3b904c886a42443f',1,'EntityEffect::FollowParent()'],['../class_entity_familiar.html#a4ba1df8ab58a57f5af6e72619268e8e9',1,'EntityFamiliar::FollowParent()']]],
   ['followposition',['FollowPosition',['../class_entity_familiar.html#a76f77fc4ad90dc6c94d30c834e69c089',1,'EntityFamiliar']]],
   ['forcehorsemanboss',['ForceHorsemanBoss',['../class_level.html#aadac1dd3a147c6acac9e7ec775db434a',1,'Level']]],
-  ['fromangle',['FromAngle',['../class_vector.html#a07c35c26e27b8562aeac4069d5f580b9',1,'Vector']]],
+  ['forgetstageseed',['ForgetStageSeed',['../class_seeds.html#aec7e728f2d282a82cacc5e0b71a931cd',1,'Seeds']]],
+  ['fromangle',['FromAngle',['../class_vector.html#a3421510b3ccf4c3ffd48b5df9588e7fc',1,'Vector']]],
   ['fullcharge',['FullCharge',['../class_entity_player.html#abb6c05883c59eab3211fb9d74257ccd6',1,'EntityPlayer']]]
 ];

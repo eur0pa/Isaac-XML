@@ -2,8 +2,8 @@ var searchData=
 [
   ['m_5fheight',['m_Height',['../class_entity_effect.html#a2cd09c460bf293076e3daff2ae6e1fbd',1,'EntityEffect']]],
   ['mass',['Mass',['../class_entity.html#ae83699a74bd5f2fd33207ea45912f787',1,'Entity']]],
-  ['maxcharges',['MaxCharges',['../class_config_1_1_item.html#a50525ba95a91c7906ad6c346507240de',1,'Config::Item']]],
-  ['maxcooldown',['MaxCooldown',['../class_config_1_1_item.html#a67212ad297d4301cb64febd0e832edc7',1,'Config::Item']]],
+  ['maxcharges',['MaxCharges',['../class_item_config_1_1_item.html#aad64574ccb04066f5203336b17d5687d',1,'ItemConfig::Item']]],
+  ['maxcooldown',['MaxCooldown',['../class_item_config_1_1_item.html#ab053522249a7ff7816c832ea849dbf93',1,'ItemConfig::Item']]],
   ['maxdistance',['MaxDistance',['../class_entity_laser.html#a68d9a4c1841ed08a63e424d2f0e4c644',1,'EntityLaser::MaxDistance()'],['../class_entity_knife.html#ad3eb1c4ce8d1c798447f05dacc4c591a',1,'EntityKnife::MaxDistance()']]],
   ['maxfiredelay',['MaxFireDelay',['../class_entity_player.html#aab893842a6dd2de9fb7cb5ecf0e26952',1,'EntityPlayer']]],
   ['maxhitpoints',['MaxHitPoints',['../class_entity.html#a681002b7bcfcad2498ae864280b860e4',1,'Entity']]],

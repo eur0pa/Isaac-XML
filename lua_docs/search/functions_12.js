@@ -1,8 +1,9 @@
 var searchData=
 [
   ['savemoddata',['SaveModData',['../namespace_isaac.html#ab1300e3cd3c6df64d967ecb0076321e9',1,'Isaac']]],
-  ['screentoworlddistance',['ScreenToWorldDistance',['../group___functions.html#ga1592b9232243cdf20dab6f0da8f73e02',1,'Output.h']]],
+  ['screentoworlddistance',['ScreenToWorldDistance',['../group__funcs.html#ga1592b9232243cdf20dab6f0da8f73e02',1,'Output.h']]],
   ['screenwrapposition',['ScreenWrapPosition',['../class_room.html#a21795f04b7be39af33c92f521f89e601',1,'Room']]],
+  ['seed2string',['Seed2String',['../class_seeds.html#a53e144d11dadd651eadd08f1a2f68aad',1,'Seeds']]],
   ['setactivecharge',['SetActiveCharge',['../class_entity_player.html#afd422cbf0abe9b851816d7e48b05458c',1,'EntityPlayer']]],
   ['setactiverotation',['SetActiveRotation',['../class_entity_laser.html#a2afe16cbedc11bfd1979a392c41b9ed2',1,'EntityLaser']]],
   ['setambientsound',['SetAmbientSound',['../class_s_f_x_manager.html#a0f713773136bed8183750c96970ae3da',1,'SFXManager']]],
@@ -57,6 +58,7 @@ var searchData=
   ['setspriteframe',['SetSpriteFrame',['../class_entity.html#ae480f2aacaabfd3537d26fb9e8570ed2',1,'Entity']]],
   ['setspriteoverlayframe',['SetSpriteOverlayFrame',['../class_entity.html#a93ba8c8a229d3aba279241e127a5c766',1,'Entity']]],
   ['setstage',['SetStage',['../class_level.html#a34c72ce5d93ca2b3a412b4961353fdaf',1,'Level']]],
+  ['setstartseed',['SetStartSeed',['../class_seeds.html#a010e60509fdea1b85f927a7f16ecc04b',1,'Seeds']]],
   ['setstateflag',['SetStateFlag',['../class_level.html#ad781a45322a588b14b2e9cd9263d1266',1,'Level::SetStateFlag()'],['../class_game.html#aecfbe9e74d67bd56760cf4e18e5af6f7',1,'Game::SetStateFlag()']]],
   ['settargettrapdoor',['SetTargetTrapDoor',['../class_entity_player.html#a8e9fc7d15cc25f7dbf7dba574c65c296',1,'EntityPlayer']]],
   ['settimeout',['SetTimeout',['../class_entity_effect.html#aa00860ca041a9a16ee67bd86c5866dac',1,'EntityEffect::SetTimeout()'],['../class_entity_laser.html#ae09fce2ceac62b4dfcbc31097277cb50',1,'EntityLaser::SetTimeout()']]],
@@ -65,15 +67,15 @@ var searchData=
   ['setvariant',['SetVariant',['../class_grid_entity.html#a1ba1ba9fbbd1e845ae55bc58272c7b09',1,'GridEntity']]],
   ['setwaitframes',['SetWaitFrames',['../class_entity_tear.html#a2aa07af9646b32d9d503b5860885a7e8',1,'EntityTear']]],
   ['setwallcolor',['SetWallColor',['../class_room.html#ab420d510e646d21098beed13e2c0247f',1,'Room']]],
-  ['sfxmanager',['SFXManager',['../group___functions.html#ga9234017f135540fa61ad6c17a7c9205b',1,'Output.h']]],
+  ['sfxmanager',['SFXManager',['../group__funcs.html#ga9234017f135540fa61ad6c17a7c9205b',1,'Output.h']]],
   ['shakescreen',['ShakeScreen',['../class_game.html#a27644704ea138d1c04a0bd54a68840ec',1,'Game']]],
   ['shoot',['Shoot',['../class_entity_familiar.html#a9ddf9e641a64b0a77dd81cb15f96fde5',1,'EntityFamiliar::Shoot()'],['../class_entity_knife.html#a92bc954600ed55cb92fe2125ac247432',1,'EntityKnife::Shoot()']]],
-  ['shootangle',['ShootAngle',['../class_entity_laser.html#a3931aba4b3e7c41fb0968a62658b2211',1,'EntityLaser']]],
+  ['shootangle',['ShootAngle',['../class_entity_laser.html#a921dd861ce7f543cd535a89915681091',1,'EntityLaser']]],
   ['shootredcandle',['ShootRedCandle',['../class_entity_player.html#a9c20b4f0fb1ed85d6fef1bea7fc41c32',1,'EntityPlayer']]],
   ['shopreshuffle',['ShopReshuffle',['../class_room.html#a4c25a89fb4ce09ef4ea087ef5c8d38c2',1,'Room']]],
   ['shoprestockfull',['ShopRestockFull',['../class_room.html#a857f3f4232f323e28c0fd92b5fabe982',1,'Room']]],
   ['shoprestockpartial',['ShopRestockPartial',['../class_room.html#a58dc2f4c28539da5de09187211aea3c0',1,'Room']]],
-  ['shouldaddcostumeonpickup',['ShouldAddCostumeOnPickup',['../class_config_1_1_config.html#a0819984cd3b2dcf5478ef00b7f70a0c1',1,'Config::Config']]],
+  ['shouldaddcostumeonpickup',['ShouldAddCostumeOnPickup',['../class_item_config_1_1_config.html#a081bc308ad482c33ba4b69bf7c54fdb4',1,'ItemConfig::Config']]],
   ['showfortune',['ShowFortune',['../class_game.html#a09c18715e7307c393e35bdecc67ae671',1,'Game']]],
   ['showhallucination',['ShowHallucination',['../class_game.html#a7acd8f816c3c1248397fb256cc6a492a',1,'Game']]],
   ['showmap',['ShowMap',['../class_level.html#aecf6561a2fa4f7f514f6e8e31d8bfb1c',1,'Level']]],
@@ -91,5 +93,6 @@ var searchData=
   ['startstagetransition',['StartStageTransition',['../class_game.html#aa6b49ca8563c6d9895fb7204664fa1aa',1,'Game']]],
   ['stop',['Stop',['../class_sprite.html#a08d8f3eadcc9c15d9a7fee7d5f4b8a3c',1,'Sprite::Stop()'],['../class_s_f_x_manager.html#ab1901aa2c66c9c28294768ab965d8b45',1,'SFXManager::Stop()']]],
   ['stopextraanimation',['StopExtraAnimation',['../class_entity_player.html#a7b2f49b67666f8583a2e682003f4fcb7',1,'EntityPlayer']]],
-  ['stoploopingsounds',['StopLoopingSounds',['../class_s_f_x_manager.html#a7e89c72f45258a29bd2bc3ab77168b0d',1,'SFXManager']]]
+  ['stoploopingsounds',['StopLoopingSounds',['../class_s_f_x_manager.html#a7e89c72f45258a29bd2bc3ab77168b0d',1,'SFXManager']]],
+  ['string2seed',['String2Seed',['../class_seeds.html#a7c5538b10e5f1cb7c7331d757ec80ad9',1,'Seeds']]]
 ];

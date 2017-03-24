@@ -1,7 +1,7 @@
 var class_entity_effect =
 [
     [ "FollowParent", "class_entity_effect.html#ad384ab0a85d5c0bd3b904c886a42443f", null ],
-    [ "IsPlayerCreep", "class_entity_effect.html#a55ea5bec476b09c5678458e26247b9ae", null ],
+    [ "IsPlayerCreep", "class_entity_effect.html#addd36cfad075f5282556091f0fc1ffc5", null ],
     [ "SetDamageSource", "class_entity_effect.html#ad2ce8ec6dc08c97371fd6eb4a5cb2c3b", null ],
     [ "SetRadii", "class_entity_effect.html#a86b64d5ee001bf4a048db52512e76ec7", null ],
     [ "SetTimeout", "class_entity_effect.html#aa00860ca041a9a16ee67bd86c5866dac", null ],

@@ -4,7 +4,7 @@ var searchData=
   ['pickenemytarget',['PickEnemyTarget',['../class_entity_familiar.html#a656b10780f4d098df68b4dabc4b3a834',1,'EntityFamiliar']]],
   ['pickentry',['PickEntry',['../class_room_config_1_1_spawn.html#abb647d07f5dfca1b983b10160cf4aa9d',1,'RoomConfig::Spawn']]],
   ['pitchslide',['PitchSlide',['../class_music_manager.html#a1c7a725ec16010599a9077ed5dbff952',1,'MusicManager']]],
-  ['play',['Play',['../class_sprite.html#a75fbc3fd97f507ee8c58885a044a2b1c',1,'Sprite::Play()'],['../class_s_f_x_manager.html#ad5a2b5686d31b654db806a9755334d9f',1,'SFXManager::Play()'],['../class_music_manager.html#a7968772c81d481c3552b4ff9f4c2e370',1,'MusicManager::Play()']]],
+  ['play',['Play',['../class_sprite.html#a75fbc3fd97f507ee8c58885a044a2b1c',1,'Sprite::Play()'],['../class_s_f_x_manager.html#ad5a2b5686d31b654db806a9755334d9f',1,'SFXManager::Play()'],['../class_music_manager.html#a881ddf7f06a847095be86ecf11045319',1,'MusicManager::Play()']]],
   ['playchargeanim',['PlayChargeAnim',['../class_entity_familiar.html#adc8fcd80581b173065d6df550c7ba435',1,'EntityFamiliar']]],
   ['playdropsound',['PlayDropSound',['../class_entity_pickup.html#a551ebd7460baefc5428915506c2e5a25',1,'EntityPickup']]],
   ['playextraanimation',['PlayExtraAnimation',['../class_entity_player.html#a5e5a4bf7b0b550d862b446a4427bde55',1,'EntityPlayer']]],

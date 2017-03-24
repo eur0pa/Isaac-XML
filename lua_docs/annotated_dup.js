@@ -1,7 +1,7 @@
 var annotated_dup =
 [
-    [ "Config", "namespace_config.html", "namespace_config" ],
     [ "CppContainer", "namespace_cpp_container.html", "namespace_cpp_container" ],
+    [ "ItemConfig", "namespace_item_config.html", "namespace_item_config" ],
     [ "PlayerTypes", "namespace_player_types.html", "namespace_player_types" ],
     [ "RoomConfig", "namespace_room_config.html", "namespace_room_config" ],
     [ "Color", "class_color.html", "class_color" ],
@@ -28,6 +28,7 @@ var annotated_dup =
     [ "RNG", "class_r_n_g.html", "class_r_n_g" ],
     [ "Room", "class_room.html", "class_room" ],
     [ "RoomDescriptor", "class_room_descriptor.html", "class_room_descriptor" ],
+    [ "Seeds", "class_seeds.html", "class_seeds" ],
     [ "SFXManager", "class_s_f_x_manager.html", "class_s_f_x_manager" ],
     [ "ShockwaveParams", "class_shockwave_params.html", "class_shockwave_params" ],
     [ "Sprite", "class_sprite.html", "class_sprite" ],

@@ -1,5 +1,5 @@
 var modules =
 [
-    [ "Enumerations", "group___enumerations.html", "group___enumerations" ],
-    [ "Functions", "group___functions.html", "group___functions" ]
+    [ "Enumerations", "group__enums.html", "group__enums" ],
+    [ "Functions", "group__funcs.html", "group__funcs" ]
 ];

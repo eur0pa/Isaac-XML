@@ -52,6 +52,11 @@
 		<hair gfx="Character_009_EdenHair8.png" />
 		<hair gfx="Character_009_EdenHair9.png" />
 		<hair gfx="Character_009_EdenHair10.png" />
+		<hair gfx="Character_009_EdenHair11.png" />
+		<hair gfx="Character_009_EdenHair12.png" />
+		<hair gfx="Character_009_EdenHair13.png" />
+		<hair gfx="Character_009_EdenHair14.png" />
+		<hair gfx="Character_009_EdenHair15.png" />
 	</player>
 	<player id="10" name="The Lost" skin="Character_012_TheLost.png" hp="0" armor="1" coins="1" items="284"
           nameimage="PlayerName_12_TheLost.png" 
