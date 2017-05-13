@@ -3,6 +3,7 @@ var NAVTREE =
   [ "Binding of Isaac - Afterbirth+ Lua Reference/Guide", "index.html", [
     [ "Debug Console Primer", "md__d_1_doxygen_test_input_converted_test__debug__console__primer.html", null ],
     [ "Using ZeroBrane Studio to debug your scripts", "md__d_1_doxygen_test_input_converted_test__debugging.html", null ],
+    [ "Remarks", "md__d_1_doxygen_test_input_converted_test__remarks.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
@@ -27,21 +28,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_entity_laser.html#af6e3f7b8cc5cfe3b2e04a8b78d799b30",
-"class_entity_player.html#ae919b0026d4196e2bd66e1b7eea514df",
-"class_item_config_1_1_item.html#a01a8a96e778f5d4ae86705dab32774bd",
-"class_room.html#ae25498b2c55afaf88fffcbe41ff44f2d",
-"functions_vars_l.html",
-"group__enums.html#gga1a22039e4e87e271f7333d22a8d9e204a014f13dd5016bf7dc47a8cf9caed3f95",
-"group__enums.html#gga1a22039e4e87e271f7333d22a8d9e204ad510a1e3fceeb9fc75e925cf4cfac368",
-"group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea49075701f4fca51d92b9dbe276f6856d",
-"group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eac70cfc61cb7f57b10661a37ab38b2f58",
-"group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2ccea97c8e5154363eb1a099379d037b1edad",
-"group__enums.html#gga98047d6add3110afcb410e3026264bbea2edc0b520680afabc4ef7bc435d624ee",
-"group__enums.html#ggabcabfff8e6138e0943763148d70e5005a3a2ee9ec4d7c44239e3f9f769074ac02",
-"group__enums.html#ggacb81dc787ab621baa1b749086e67995ca0e12a492382a84a01d8c0cba58c55514",
-"group__enums.html#ggad79a57ed3105eb60d991a1aeb4a9dc44aaffc5869796a3ae5e82898b71f600135",
-"group__enums.html#ggaf0f11632042073b26283ebf65c46b25fac360a2d8f759c36827100bf9a6230e0b"
+"class_entity_n_p_c.html#a4f6207b5982b12aa707f1ee027195bea",
+"class_entity_player.html#af822020fd47a74891501c4a16500b580",
+"class_item_config_1_1_item.html#a5f209804f4e0fcdc09f05359c63843a9",
+"class_room.html#aa363c263a37aa86c3673bd48bed5798b",
+"functions_l.html",
+"group__enums.html#gga1457c3a6e53abb267d6ae9721bdf44a7aba88bf829afb675c8ca84d9c3cb45275",
+"group__enums.html#gga1a22039e4e87e271f7333d22a8d9e204abe91e61930da78cd4a6a9e65b54e331f",
+"group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea3bb36d3ed303e7dc8ba448b129c34062",
+"group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eab5046abfaa823805fc23ec6dcbbc6ad2",
+"group__enums.html#gga494095e4e135d1d700a9d7d96583f5beae2b939564423c22fef5ab10f3172c3f3",
+"group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1acf2e9feadf1ef655ac57503a8bb1291e",
+"group__enums.html#ggab540f7414f306325d92272bcef1e34e1a0ef128d499462a25ec10128ff947eb05",
+"group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2ad3abd4eff25e971e63038c89eace8e83",
+"group__enums.html#ggad79a57ed3105eb60d991a1aeb4a9dc44a5d99d79c19c4ea38731d52dd752c5612",
+"group__enums.html#ggae64a4edf652c04664bcf078b8844ae4baa0690db3c6f5c9fbeb55409ea0f8b5be"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

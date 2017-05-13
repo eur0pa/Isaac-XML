@@ -1,6 +1,7 @@
 var searchData=
 [
   ['addangelroomchance',['AddAngelRoomChance',['../class_level.html#a03a6745645ec4ffe14cfbce617f04936',1,'Level']]],
+  ['addbibleupgrade',['AddBibleUpgrade',['../class_item_pool.html#ad1c8a62fbb63b907d95d168f99094577',1,'ItemPool']]],
   ['addblackhearts',['AddBlackHearts',['../class_entity_player.html#a83be17160f56309113d3b753e2b5ac81',1,'EntityPlayer']]],
   ['addblueflies',['AddBlueFlies',['../class_entity_player.html#aa6bf53cb13dd5973deb482e2395ace11',1,'EntityPlayer']]],
   ['addbluespider',['AddBlueSpider',['../class_entity_player.html#a75001d2f206af06826ff41bbe69adc87',1,'EntityPlayer']]],
@@ -42,9 +43,10 @@ var searchData=
   ['addplayerformcostume',['AddPlayerFormCostume',['../class_entity_player.html#a45c16bc122b0de7ce0f5d6de11eb0e44',1,'EntityPlayer']]],
   ['addpoison',['AddPoison',['../class_entity.html#a3fa68380aec09bcb87bf91b3633f0a70',1,'Entity']]],
   ['addprettyfly',['AddPrettyFly',['../class_entity_player.html#a1dcb4349949559629008cc7f142d323f',1,'EntityPlayer']]],
+  ['addroomblacklist',['AddRoomBlacklist',['../class_item_pool.html#abc58af4ec23ed7860d1775bddc7c68f5',1,'ItemPool']]],
   ['addseedeffect',['AddSeedEffect',['../class_seeds.html#a68a6961a0fedc2c47451265bc89675dd',1,'Seeds']]],
   ['addshrink',['AddShrink',['../class_entity.html#a9b70c764181f48e429da93dedc46ba57',1,'Entity']]],
-  ['addslowing',['AddSlowing',['../class_entity.html#a8e35708f5db00b4748595dfac96f30cf',1,'Entity']]],
+  ['addslowing',['AddSlowing',['../class_entity.html#afa71ac2475f04b20f4815af34cfa7c9a',1,'Entity']]],
   ['addsoulhearts',['AddSoulHearts',['../class_entity_player.html#aa6da461962b472ed5ee68e932ac832e4',1,'EntityPlayer']]],
   ['addstagewithoutdamage',['AddStageWithoutDamage',['../class_game.html#a7fa0ab1878e88a961f177d4b7891f735',1,'Game']]],
   ['addstagewithoutheartspicked',['AddStageWithoutHeartsPicked',['../class_game.html#a8c2bb632286b613e7332e75d62eae319',1,'Game']]],

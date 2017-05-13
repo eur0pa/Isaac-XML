@@ -754,6 +754,21 @@ var group__enums =
       [ "COLLECTIBLE_MOMS_RAZOR", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eae334421fb5cb84ac293ed79f424ae100", null ],
       [ "COLLECTIBLE_BLOODSHOT_EYE", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea38e9510ee0fa9e5b24a7b6c0836b7481", null ],
       [ "COLLECTIBLE_DELIRIOUS", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eabf2132197e5ce6affa9e69913246a88f", null ],
+      [ "COLLECTIBLE_ANGRY_FLY", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea3bb36d3ed303e7dc8ba448b129c34062", null ],
+      [ "COLLECTIBLE_BLACK_HOLE", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea7f185906f18ec4c5defb19560d42cfbd", null ],
+      [ "COLLECTIBLE_BOZO", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaa29e1ace560c2bfd4b486f8f8cf97164", null ],
+      [ "COLLECTIBLE_BROKEN_MODEM", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea96ea89316a267179b7d963281af66653", null ],
+      [ "COLLECTIBLE_MYSTERY_GIFT", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaec1c9e6a8c897adae671f9258d51ae93", null ],
+      [ "COLLECTIBLE_SPRINKLER", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea49491b1f7cb739b3171f20d76a749d05", null ],
+      [ "COLLECTIBLE_FAST_BOMBS", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaa3a9e4b1aafbf8298cdde15d0eed8315", null ],
+      [ "COLLECTIBLE_BUDDY_IN_A_BOX", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea08ed24a07899fc1143c9a041e0c0edba", null ],
+      [ "COLLECTIBLE_LIL_DELIRIUM", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eabf30edf914d2496799c1aa125ea73a4d", null ],
+      [ "COLLECTIBLE_JUMPER_CABLES", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaa1fd99db934274a2cc4793804425eac5", null ],
+      [ "COLLECTIBLE_COUPON", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaeed3bdb994b33d2d21c28dccd91bd945", null ],
+      [ "COLLECTIBLE_TELEKINESIS", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ead40a9318f36cab3e898c278d5b99e204", null ],
+      [ "COLLECTIBLE_MOVING_BOX", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea4cfa696cd68b78ebe42d35bf5fb31f18", null ],
+      [ "COLLECTIBLE_TECHNOLOGY_ZERO", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaeabd923607c3f2b74f516f63fc2a1395", null ],
+      [ "COLLECTIBLE_LEPROCY", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1ea7325755b178778de9d7c7958a52f114c", null ],
       [ "NUM_COLLECTIBLES", "group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaac99038674f6423389881f95770d38f6", null ]
     ] ],
     [ "DamageFlag", "group__enums.html#gab084d3a6d6ddd144ea6df4af965f93fc", [
@@ -1427,6 +1442,36 @@ var group__enums =
       [ "IS_ACTION_TRIGGERED", "group__enums.html#gga0945400993463eece8f1c9856e24573caa12a8194accd14a606d4999ee3c85ac5", null ],
       [ "GET_ACTION_VALUE", "group__enums.html#gga0945400993463eece8f1c9856e24573ca5bb0b3c714ee40f99417a11616a1a63a", null ]
     ] ],
+    [ "ItemPoolType", "group__enums.html#gaa8e780d5a9d7622188511c4c190000f1", [
+      [ "POOL_NULL", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1add95d0602774eddc47981675ed5b6aa5", null ],
+      [ "POOL_TREASURE", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a735d48f41b6e02d4502d41b133adefc3", null ],
+      [ "POOL_SHOP", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ab6611ea60988fbd0daf0c23c20bef71c", null ],
+      [ "POOL_BOSS", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1abc5d0d45113566a9c150fe2adde590b0", null ],
+      [ "POOL_DEVIL", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a0abe754c84580914d27a50621d8d1ef1", null ],
+      [ "POOL_ANGEL", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a89759f22beabd30c26ed8c1c1daa7bf1", null ],
+      [ "POOL_SECRET", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a765ca4c84ec0251d8f5a8a8102c2d07c", null ],
+      [ "POOL_LIBRARY", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ac13f11af611191fe0f8a1f102cd81e5c", null ],
+      [ "POOL_CHALLENGE", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ad48351c939c4f488866d9271e114f2e0", null ],
+      [ "POOL_GOLDEN_CHEST", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ac3a8d213be4a066cbf74c7bc93b47052", null ],
+      [ "POOL_RED_CHEST", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a25a1f9562d2a09532b3a38a69a62e288", null ],
+      [ "POOL_BEGGAR", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a7956e9ba6a8ad63c0322338fb598e069", null ],
+      [ "POOL_DEMON_BEGGAR", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a347fe7a9571602684858a38837aa6bbe", null ],
+      [ "POOL_CURSE", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ab5aecdb02e3a659e3f5283f8e51efe67", null ],
+      [ "POOL_KEY_MASTER", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1acb0ba4a66a2c7b3442aab4beb828a447", null ],
+      [ "POOL_BOSSRUSH", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a9ab524b9b2a2d4716f4dabc0d80e4905", null ],
+      [ "POOL_DUNGEON", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a57a0e8f1ac2a4a94a17fb3c6909f4868", null ],
+      [ "POOL_GREED_TREASURE", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1aa92ec906c3aaf1359d1560624141ab0f", null ],
+      [ "POOL_GREED_BOSS", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a331f042e4eaf67e5cd867bcc075f3100", null ],
+      [ "POOL_GREED_SHOP", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a97a6337d4bd05cc112c13be96b300792", null ],
+      [ "POOL_GREED_DEVIL", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ab4dc7516f63c2b17038162bb762cea81", null ],
+      [ "POOL_GREED_ANGEL", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a5ebb2cf8e3fb2ddcaa6aaccfebdf6117", null ],
+      [ "POOL_GREED_CURSE", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a363fa24b7b5b91a94a24b4841edd66b5", null ],
+      [ "POOL_GREED_SECRET", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a37d66662a85d3cf2f6f754e4fa6591bb", null ],
+      [ "POOL_GREED_LIBRARY", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a16bb689d3a441d7153252ca5a618e568", null ],
+      [ "POOL_GREED_GOLDEN_CHEST", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a2afab85e3906ed6983abd2d2026f4c56", null ],
+      [ "POOL_BOMB_BUM", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1a429b5dd9d3214a68d5e0b4d365e28f51", null ],
+      [ "NUM_ITEMPOOLS", "group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ace8286b23ae69a7735c25c803859d271", null ]
+    ] ],
     [ "ItemType", "group__enums.html#ga443f647757dde85043b49343f5cbe66b", [
       [ "ITEM_NULL", "group__enums.html#gga443f647757dde85043b49343f5cbe66ba4ae11b68492a25afda2e36a3eb80c703", null ],
       [ "ITEM_PASSIVE", "group__enums.html#gga443f647757dde85043b49343f5cbe66ba3fd78a2bb4304215b3f5194bbabc2287", null ],
@@ -1651,7 +1696,8 @@ var group__enums =
       [ "MC_PRE_GAME_EXIT", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a606e2543ee424cd31d678e9591a0a9b9", null ],
       [ "MC_POST_NEW_LEVEL", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1aaa15355f9337dddfd644d6b890994cd4", null ],
       [ "MC_POST_NEW_ROOM", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a32cf1206a6cf3130aef0970bbc385c46", null ],
-      [ "MC_GET_CARD", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1ab55adfd98a00dee21f98b07328b6d21f", null ]
+      [ "MC_GET_CARD", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1ab55adfd98a00dee21f98b07328b6d21f", null ],
+      [ "MC_GET_SHADER_PARAMS", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a10c85a938bd75259ad64e2bc50332cd8", null ]
     ] ],
     [ "Mouse", "group__enums.html#ga6823a62e33fc2bc26d3dba7283e65cc9", [
       [ "MOUSE_BUTTON_1", "group__enums.html#gga6823a62e33fc2bc26d3dba7283e65cc9a34e69cb83acb2a2367271eea8fb48d87", null ],
@@ -2440,6 +2486,7 @@ var group__enums =
       [ "TEAR_NEEDLE", "group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2cceae6e9538264ab36b1eebbc44f8fb649ac", null ],
       [ "TEAR_JACOBS", "group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2ccea3c35ec46c1309918fe528905187c681f", null ],
       [ "TEAR_HORN", "group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2cceabe9e12bed259c0c547bf0aa3171788b8", null ],
+      [ "TEAR_LASER", "group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2ccea9953ec9ae97ae4318309ea21bb6468d1", null ],
       [ "TEAR_LUDOVICO", "group__enums.html#gga497749198295d1f3d5ecd1c6d5ea2ccea68f6981ec8c1f4b5fd1a5ef5d731b60a", null ]
     ] ],
     [ "TearVariant", "group__enums.html#ga1c33a86e6763599e3685d45558207359", [
@@ -2598,6 +2645,10 @@ var group__enums =
       [ "TRINKET_LOCUST_OF_CONQUEST", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2a1c37661c883fa33bc2592a8e6700761c", null ],
       [ "TRINKET_BAT_WING", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2ad6e60b11abde84a2ff4ab9a845db873d", null ],
       [ "TRINKET_STEM_CELL", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2adcd2e8a74c137fb99e9443780e66c37d", null ],
+      [ "TRINKET_HAIRPIN", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2a7ee500328b22dccf18830ad229070310", null ],
+      [ "TRINKET_WOODEN_CROSS", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2a4e21258c3015e8ab617810f705f9f3d9", null ],
+      [ "TRINKET_BUTTER", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2ae309702ff8e11a743d25326cf4be3ffa", null ],
+      [ "TRINKET_FILIGREE_FEATHERS", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2a9b8d60d96a9b1087a1890a5209ef37cd", null ],
       [ "NUM_TRINKETS", "group__enums.html#ggabd5e2c76ec4af0838568b19fd2b4e4f2a6c9e2499f2dd4dfa143b0569378c24c5", null ]
     ] ],
     [ "WeaponType", "group__enums.html#ga095ae9be41c95cab0ceb95c6dae270b8", [

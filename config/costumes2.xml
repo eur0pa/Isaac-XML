@@ -452,6 +452,10 @@
 	<costume id="513" anm2path="513_Bozo.anm2" type="passive" />
 	<costume id="514" anm2path="514_Modem.anm2" type="passive" />
 	<costume id="517" anm2path="517_fastbombs.anm2" type="passive" />
+	
+	<costume id="520" anm2path="520_JumperCable.anm2" type="passive" />
+	<costume id="524" anm2path="524_TechnologyZero.anm2" type="passive" />
+	<costume id="525" anm2path="525_Leprosy.anm2" type="passive" />
 		
 	<costume id="53" anm2path="t53_Tick.anm2" type="trinket" />
 </costumes>

@@ -19,6 +19,7 @@ var searchData=
   ['num_5fcollectibles',['NUM_COLLECTIBLES',['../group__enums.html#gga2f1970a814e3e61deec58584b8b45a1eaac99038674f6423389881f95770d38f6',1,'Enums.h']]],
   ['num_5fcurses',['NUM_CURSES',['../group__enums.html#ggaf8502e81b66781fad715e772644d8a04a6dad09c34ad02d5ab466a0d418dd8817',1,'Enums.h']]],
   ['num_5fdoor_5fslots',['NUM_DOOR_SLOTS',['../group__enums.html#gga445b41ae2021fde99dff29df01f9ce38abd72074d8d350af4d47396ded1eb3992',1,'Enums.h']]],
+  ['num_5fitempools',['NUM_ITEMPOOLS',['../group__enums.html#ggaa8e780d5a9d7622188511c4c190000f1ace8286b23ae69a7735c25c803859d271',1,'Enums.h']]],
   ['num_5fmusic',['NUM_MUSIC',['../group__enums.html#ggaf0f11632042073b26283ebf65c46b25fa466587f53dfc5e868418a14d1a76a6ee',1,'Enums.h']]],
   ['num_5fnullitems',['NUM_NULLITEMS',['../group__enums.html#gga09a6d381d03d5ba066a6d6129c108858a047890513fb832ace28dfa4ed0ceb104',1,'Enums.h']]],
   ['num_5foff_5fgrid_5frooms',['NUM_OFF_GRID_ROOMS',['../group__enums.html#gga494095e4e135d1d700a9d7d96583f5bea5e1cab890ff3cd7f35b12ec85faca410',1,'Enums.h']]],

@@ -8,6 +8,7 @@ var class_entity_n_p_c =
     [ "FireProjectiles", "class_entity_n_p_c.html#a6fbab8146c9cd0c7c64cdf0599a85a7f", null ],
     [ "GetAliveEnemyCount", "class_entity_n_p_c.html#ab31cc2ea160d46fb506088717a8590ee", null ],
     [ "GetBossColorIdx", "class_entity_n_p_c.html#ab7301d22a19ade09dcaf0680a7919652", null ],
+    [ "GetChampionColorIdx", "class_entity_n_p_c.html#acd1bbe0173009ffa820fe333afd6442b", null ],
     [ "GetPlayerTarget", "class_entity_n_p_c.html#a47d561dec91acafecf5b03d248d96faa", null ],
     [ "IsBoss", "class_entity_n_p_c.html#a841e2f547ee37f688664c318eb4cc47b", null ],
     [ "IsChampion", "class_entity_n_p_c.html#ac6cbd174accf3e74c2804cc7ae0f1504", null ],

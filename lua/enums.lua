@@ -36,7 +36,8 @@ ModCallbacks = {
 	MC_PRE_GAME_EXIT = 17, -- (bool) - ShouldSave
 	MC_POST_NEW_LEVEL = 18, -- This triggers after new room!
 	MC_POST_NEW_ROOM = 19, 
-	MC_GET_CARD = 20 -- (RNG& rng, integer CurrentCard, bool Playing, bool Runes, bool OnlyRunes) - This is used for Card Pools. Because not all cards have the same chance to spawn, use RNG for seeded random and return your card id (if you don't want to change the current card, return CurrentCard or nil). If desired Playing (can include playing cards), Runes (can include runes), OnlyRunes (only return runes) filter can be used to make your selection.
+	MC_GET_CARD = 20, -- (RNG& rng, integer CurrentCard, bool Playing, bool Runes, bool OnlyRunes) - This is used for Card Pools. Because not all cards have the same chance to spawn, use RNG for seeded random and return your card id (if you don't want to change the current card, return CurrentCard or nil). If desired Playing (can include playing cards), Runes (can include runes), OnlyRunes (only return runes) filter can be used to make your selection.
+	MC_GET_SHADER_PARAMS = 21 -- (string shaderName) - returns a table containing a key -> value pair for custom shader parameters
 }
 
 EntityType = {
@@ -2085,7 +2086,26 @@ CollectibleType = {
 	COLLECTIBLE_MOMS_RAZOR = 508,
 	COLLECTIBLE_BLOODSHOT_EYE = 509,
 	COLLECTIBLE_DELIRIOUS = 510,
-	NUM_COLLECTIBLES = 511
+	
+	-- Booster Pack #1
+	COLLECTIBLE_ANGRY_FLY = 511,
+	COLLECTIBLE_BLACK_HOLE = 512,
+	COLLECTIBLE_BOZO = 513,
+	COLLECTIBLE_BROKEN_MODEM = 514,
+	COLLECTIBLE_MYSTERY_GIFT = 515,
+	COLLECTIBLE_SPRINKLER = 516,
+	COLLECTIBLE_FAST_BOMBS = 517,
+	COLLECTIBLE_BUDDY_IN_A_BOX = 518,
+	COLLECTIBLE_LIL_DELIRIUM = 519,
+
+	-- Booster Pack #2
+	COLLECTIBLE_JUMPER_CABLES = 520,
+	COLLECTIBLE_COUPON = 521,
+	COLLECTIBLE_TELEKINESIS = 522,
+	COLLECTIBLE_MOVING_BOX = 523,
+	COLLECTIBLE_TECHNOLOGY_ZERO = 524,
+	COLLECTIBLE_LEPROCY = 525,
+	NUM_COLLECTIBLES = 526
 }
 TrinketType = {
 	TRINKET_NULL = 0,
@@ -2208,7 +2228,16 @@ TrinketType = {
 	TRINKET_LOCUST_OF_CONQUEST = 117,
 	TRINKET_BAT_WING = 118,
 	TRINKET_STEM_CELL = 119,
-	NUM_TRINKETS = 120
+	
+	-- Booster pack #1
+	TRINKET_HAIRPIN = 120,
+	TRINKET_WOODEN_CROSS = 121,
+	TRINKET_BUTTER = 122,
+
+	-- Booster pack #2
+	TRINKET_FILIGREE_FEATHERS = 123,
+	
+	NUM_TRINKETS = 124
 }
 PillEffect = {
 	PILLEFFECT_NULL = - 1,
@@ -2411,6 +2440,7 @@ TearFlags = {
 	TEAR_NEEDLE = 1 << 52, -- Needle tears
 	TEAR_JACOBS = 1 << 53, -- Jacobs ladder tears
 	TEAR_HORN = 1 << 54, -- Little Horn tears
+	TEAR_LASER = 1 << 55, -- Technology Zero
 	
 	TEAR_LUDOVICO = 1 << 55 -- Used as a weapon for Ludovico Technique
 }
@@ -2674,4 +2704,35 @@ GridRooms = {
 	
 	NUM_OFF_GRID_ROOMS = 9,
 	MAX_ROOMS = 137
+}
+
+ItemPoolType = {
+	POOL_NULL = - 1,
+	POOL_TREASURE = 0,
+	POOL_SHOP = 1,
+	POOL_BOSS = 2,
+	POOL_DEVIL = 3,
+	POOL_ANGEL = 4,
+	POOL_SECRET = 5,
+	POOL_LIBRARY = 6,
+	POOL_CHALLENGE = 7,
+	POOL_GOLDEN_CHEST = 8,
+	POOL_RED_CHEST = 9,
+	POOL_BEGGAR = 10,
+	POOL_DEMON_BEGGAR = 11,
+	POOL_CURSE = 12,
+	POOL_KEY_MASTER = 13,
+	POOL_BOSSRUSH = 14,
+	POOL_DUNGEON = 15,
+	POOL_GREED_TREASURE = 16,
+	POOL_GREED_BOSS = 17,
+	POOL_GREED_SHOP = 18,
+	POOL_GREED_DEVIL = 19,
+	POOL_GREED_ANGEL = 20,
+	POOL_GREED_CURSE = 21,
+	POOL_GREED_SECRET = 22,
+	POOL_GREED_LIBRARY = 23,
+	POOL_GREED_GOLDEN_CHEST = 24,
+	POOL_BOMB_BUM = 25,
+	NUM_ITEMPOOLS = 26
 }

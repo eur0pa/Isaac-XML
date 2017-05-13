@@ -76,6 +76,8 @@ var searchData=
   ['fly_5forbital',['FLY_ORBITAL',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea92f10b4f31faf9837d6bf5719146b149',1,'Enums.h']]],
   ['followparent',['FollowParent',['../class_entity_effect.html#ad384ab0a85d5c0bd3b904c886a42443f',1,'EntityEffect::FollowParent()'],['../class_entity_familiar.html#a4ba1df8ab58a57f5af6e72619268e8e9',1,'EntityFamiliar::FollowParent()']]],
   ['followposition',['FollowPosition',['../class_entity_familiar.html#a76f77fc4ad90dc6c94d30c834e69c089',1,'EntityFamiliar']]],
+  ['font',['Font',['../class_font.html',1,'Font'],['../class_font.html#ae12d76f0b59747bbf028333c9c7ed560',1,'Font::Font()']]],
+  ['forceaddpilleffect',['ForceAddPillEffect',['../class_item_pool.html#aed9f011252478a61fb0ec1d2128d6bb6',1,'ItemPool']]],
   ['forcehorsemanboss',['ForceHorsemanBoss',['../class_level.html#aadac1dd3a147c6acac9e7ec775db434a',1,'Level']]],
   ['forever_5falone',['FOREVER_ALONE',['../group__enums.html#gga98047d6add3110afcb410e3026264bbeab95a3aa5c1a3bc3f734a02e184beb2f6',1,'Enums.h']]],
   ['forgetstageseed',['ForgetStageSeed',['../class_seeds.html#aec7e728f2d282a82cacc5e0b71a931cd',1,'Seeds']]],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['musicmanager',['MusicManager',['../class_music_manager.html',1,'']]]
+  ['kcolor',['KColor',['../class_k_color.html',1,'']]]
 ];

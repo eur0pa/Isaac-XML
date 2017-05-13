@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['identifypill',['IdentifyPill',['../class_item_pool.html#a206e7498d864ec798ebaee5a7bdfa054',1,'ItemPool']]],
   ['init',['Init',['../class_grid_entity.html#aa6b27e5a08daf3b70903f5c812962b87',1,'GridEntity']]],
   ['initbabyskin',['InitBabySkin',['../class_entity_player.html#a5211855449bbea4ba9bbe882e2f78529',1,'EntityPlayer']]],
   ['initializedevilangelroom',['InitializeDevilAngelRoom',['../class_level.html#a0303cfb1e2355e92b75173cac352693a',1,'Level']]],
@@ -53,6 +54,7 @@ var searchData=
   ['isoverlayplaying',['IsOverlayPlaying',['../class_sprite.html#ab87dd6f14b1d7912ac1e7067bc27b64b',1,'Sprite']]],
   ['isp2appearing',['IsP2Appearing',['../class_entity_player.html#a2ab7a748021a8cb61d05427609f0e8e0',1,'EntityPlayer']]],
   ['ispaused',['IsPaused',['../class_game.html#a9ac4de1110a6a1180d82620b6e5e00c0',1,'Game']]],
+  ['ispillidentified',['IsPillIdentified',['../class_item_pool.html#a3ada0c7cddd7987a3d3c38e12a070d44',1,'ItemPool']]],
   ['isplayercreep',['IsPlayerCreep',['../class_entity_effect.html#addd36cfad075f5282556091f0fc1ffc5',1,'EntityEffect']]],
   ['isplaying',['IsPlaying',['../class_sprite.html#a85f009761420a226d04e31ec1d1511d2',1,'Sprite::IsPlaying()'],['../class_s_f_x_manager.html#aab2b0a086d5c46130fd12cea6838f5c3',1,'SFXManager::IsPlaying()']]],
   ['isposinspotlight',['IsPosInSpotLight',['../class_entity_player.html#a76860d20d5cd77712214d030ff97f6f4',1,'EntityPlayer']]],

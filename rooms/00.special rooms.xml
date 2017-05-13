@@ -33322,6 +33322,9 @@
 		<spawn x="8" y="3">
 			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
+		<spawn x="6" y="4">
+			<entity type="5" variant="10" subtype="3" weight="1" />
+		</spawn>
 		<spawn x="1" y="5">
 			<entity type="33" variant="2" subtype="0" weight="1" />
 		</spawn>
@@ -33346,11 +33349,14 @@
 		<spawn x="8" y="2">
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="4" y="3">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+		<spawn x="3" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="8" y="3">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+		<spawn x="6" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="9" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="0" y="6">
 			<entity type="33" variant="3" subtype="0" weight="1" />
@@ -33406,7 +33412,10 @@
 		<spawn x="8" y="2">
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="6" y="4">
+		<spawn x="5" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="7" y="4">
 			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 	</room>
@@ -33424,7 +33433,10 @@
 		<spawn x="6" y="2">
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="6" y="4">
+		<spawn x="4" y="3">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="8" y="3">
 			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 	</room>
@@ -33454,14 +33466,11 @@
 		<spawn x="9" y="2">
 			<entity type="5" variant="10" subtype="3" weight="1" />
 		</spawn>
-		<spawn x="4" y="4">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+		<spawn x="5" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="6" y="4">
-			<entity type="5" variant="10" subtype="3" weight="1" />
-		</spawn>
-		<spawn x="8" y="4">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+		<spawn x="7" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="0" y="6">
 			<entity type="33" variant="2" subtype="0" weight="1" />
@@ -33484,6 +33493,9 @@
 		<spawn x="6" y="2">
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
+		<spawn x="6" y="3">
+			<entity type="5" variant="10" subtype="4" weight="1" />
+		</spawn>
 		<spawn x="6" y="4">
 			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
@@ -33502,23 +33514,14 @@
 		<spawn x="6" y="2">
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="4" y="4">
+		<spawn x="4" y="3">
+			<entity type="5" variant="10" subtype="4" weight="1" />
+		</spawn>
+		<spawn x="6" y="3">
 			<entity type="5" variant="10" subtype="3" weight="1" />
 		</spawn>
-		<spawn x="6" y="4">
-			<entity type="5" variant="10" subtype="3" weight="1" />
-		</spawn>
-		<spawn x="8" y="4">
-			<entity type="5" variant="10" subtype="3" weight="1" />
-		</spawn>
-	</room>
-	<room type="15" variant="4" subtype="0" difficulty="1" name="Angel (copy)" shape="1" weight="1" width="13" height="7">
-		<door x="6" y="-1" exists="1" />
-		<door x="6" y="7" exists="1" />
-		<door x="-1" y="3" exists="1" />
-		<door x="13" y="3" exists="1" />
-		<spawn x="6" y="2">
-			<entity type="5001" variant="0" subtype="0" weight="1" />
+		<spawn x="8" y="3">
+			<entity type="5" variant="10" subtype="4" weight="1" />
 		</spawn>
 		<spawn x="5" y="4">
 			<entity type="5" variant="10" subtype="4" weight="1" />
@@ -33527,11 +33530,47 @@
 			<entity type="5" variant="10" subtype="4" weight="1" />
 		</spawn>
 	</room>
+	<room type="15" variant="4" subtype="0" difficulty="1" name="Angel (copy)" shape="1" weight="1" width="13" height="7">
+		<door x="6" y="-1" exists="1" />
+		<door x="6" y="7" exists="1" />
+		<door x="-1" y="3" exists="1" />
+		<door x="13" y="3" exists="1" />
+		<spawn x="3" y="2">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="6" y="2">
+			<entity type="5001" variant="0" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="9" y="2">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="6" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+	</room>
 	<room type="15" variant="5" subtype="0" difficulty="1" name="Angel (copy)" shape="1" weight="1" width="13" height="7">
 		<door x="6" y="-1" exists="1" />
 		<door x="6" y="7" exists="1" />
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
+		<spawn x="0" y="0">
+			<entity type="33" variant="2" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="12" y="0">
+			<entity type="33" variant="2" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="0" y="1">
+			<entity type="33" variant="2" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="1" y="1">
+			<entity type="33" variant="2" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="11" y="1">
+			<entity type="33" variant="2" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="12" y="1">
+			<entity type="33" variant="2" subtype="0" weight="1" />
+		</spawn>
 		<spawn x="4" y="2">
 			<entity type="33" variant="2" subtype="0" weight="1" />
 		</spawn>
@@ -33563,7 +33602,10 @@
 		<spawn x="8" y="2">
 			<entity type="33" variant="3" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="6" y="4">
+		<spawn x="4" y="4">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="8" y="4">
 			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 	</room>
@@ -33573,7 +33615,7 @@
 		<door x="-1" y="3" exists="1" />
 		<door x="13" y="3" exists="1" />
 		<spawn x="0" y="0">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="1" y="0">
 			<entity type="4000" variant="0" subtype="0" weight="1" />
@@ -33582,7 +33624,7 @@
 			<entity type="4000" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="12" y="0">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="0" y="1">
 			<entity type="1900" variant="0" subtype="0" weight="1" />
@@ -33594,7 +33636,7 @@
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="6" y="4">
-			<entity type="5" variant="10" subtype="4" weight="1" />
+			<entity type="5" variant="10" subtype="3" weight="1" />
 		</spawn>
 		<spawn x="0" y="5">
 			<entity type="1900" variant="0" subtype="0" weight="1" />
@@ -33603,7 +33645,7 @@
 			<entity type="1900" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="0" y="6">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="1" y="6">
 			<entity type="4000" variant="0" subtype="0" weight="1" />
@@ -33612,7 +33654,7 @@
 			<entity type="4000" variant="0" subtype="0" weight="1" />
 		</spawn>
 		<spawn x="12" y="6">
-			<entity type="5" variant="10" subtype="3" weight="1" />
+			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 	</room>
 	<room type="15" variant="8" subtype="0" difficulty="1" name="Angel (copy)" shape="1" weight="1" width="13" height="7">
@@ -33672,7 +33714,10 @@
 		<spawn x="6" y="2">
 			<entity type="5001" variant="0" subtype="0" weight="1" />
 		</spawn>
-		<spawn x="6" y="4">
+		<spawn x="5" y="3">
+			<entity type="5" variant="100" subtype="0" weight="1" />
+		</spawn>
+		<spawn x="7" y="3">
 			<entity type="5" variant="100" subtype="0" weight="1" />
 		</spawn>
 	</room>

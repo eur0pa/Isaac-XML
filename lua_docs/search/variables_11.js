@@ -4,7 +4,7 @@ var searchData=
   ['targetposition',['TargetPosition',['../class_projectile_params.html#af7ef7f921247fc90e687df94bbcfef32',1,'ProjectileParams::TargetPosition()'],['../class_entity.html#a60169f8e0696211b311bda73501483d0',1,'Entity::TargetPosition()']]],
   ['targetroomindex',['TargetRoomIndex',['../class_grid_entity_door.html#a5c6a4753f56d2a141303b941907c6b45',1,'GridEntityDoor']]],
   ['targetroomtype',['TargetRoomType',['../class_grid_entity_door.html#a64383e0797aba30283735f72202634dc',1,'GridEntityDoor']]],
-  ['tearcolor',['TearColor',['../class_tear_params.html#a3408ceef14ae8081feae4d58726ceaa2',1,'TearParams::TearColor()'],['../class_entity_player.html#a71c756bdc38cce821bf86f7d0bbba8c9',1,'EntityPlayer::TearColor()']]],
+  ['tearcolor',['TearColor',['../class_tear_params.html#a140e8088c9b4ab40930f343edc5f799a',1,'TearParams::TearColor()'],['../class_entity_player.html#a59614016fc2cc6ceba3a970ed154f722',1,'EntityPlayer::TearColor()']]],
   ['teardamage',['TearDamage',['../class_tear_params.html#a5f4cd28b287adefe89a99c73e2e8ab74',1,'TearParams']]],
   ['tearfallingacceleration',['TearFallingAcceleration',['../class_entity_player.html#a9e7f6b7aea91810091b2e59b7a939c32',1,'EntityPlayer']]],
   ['tearfallingspeed',['TearFallingSpeed',['../class_entity_player.html#a3a533321b560d86a49522fe7a3e0d011',1,'EntityPlayer']]],

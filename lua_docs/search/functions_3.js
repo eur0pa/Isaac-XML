@@ -36,7 +36,6 @@ var searchData=
   ['cleartemporaryeffects',['ClearTemporaryEffects',['../class_entity_player.html#a02909daffabc843e0248caefc6125419',1,'EntityPlayer']]],
   ['close',['Close',['../class_grid_entity_door.html#a93b4761181298094246409e16337ac0a',1,'GridEntityDoor']]],
   ['collideswithgrid',['CollidesWithGrid',['../class_entity.html#a456361c3c42d15897a7c7b1a4e95aea2',1,'Entity']]],
-  ['color',['Color',['../class_color.html#abfab99e1ad10cdb66e5f8cfd7d273cd6',1,'Color']]],
   ['consoleoutput',['ConsoleOutput',['../namespace_isaac.html#a66a278e9b5fc1a6baa2409dd1c57b204',1,'Isaac']]],
   ['countseedeffects',['CountSeedEffects',['../class_seeds.html#ad114d97a3204399e54141b57d0516057',1,'Seeds']]],
   ['countunlockedseedeffects',['CountUnlockedSeedEffects',['../class_seeds.html#a0b3f65ad9c4c1ac86f431de5b525ddb9',1,'Seeds']]],

@@ -2,7 +2,6 @@ var hierarchy =
 [
     [ "ItemConfig::Card", "class_item_config_1_1_card.html", null ],
     [ "CppContainer::Vector::CardConfigList", "class_cpp_container_1_1_vector_1_1_card_config_list.html", null ],
-    [ "Color", "class_color.html", null ],
     [ "ItemConfig::Config", "class_item_config_1_1_config.html", null ],
     [ "ItemConfig::Costume", "class_item_config_1_1_costume.html", null ],
     [ "CppContainer::Vector::CostumeConfigList", "class_cpp_container_1_1_vector_1_1_costume_config_list.html", null ],
@@ -22,6 +21,7 @@ var hierarchy =
     [ "EntityPtr", "class_entity_ptr.html", null ],
     [ "EntityRef", "class_entity_ref.html", null ],
     [ "RoomConfig::Entry", "class_room_config_1_1_entry.html", null ],
+    [ "Font", "class_font.html", null ],
     [ "Game", "class_game.html", null ],
     [ "GridEntity", "class_grid_entity.html", [
       [ "GridEntityDoor", "class_grid_entity_door.html", null ]
@@ -29,6 +29,8 @@ var hierarchy =
     [ "GridEntityDesc", "class_grid_entity_desc.html", null ],
     [ "ItemConfig::Item", "class_item_config_1_1_item.html", null ],
     [ "CppContainer::Vector::ItemConfigList", "class_cpp_container_1_1_vector_1_1_item_config_list.html", null ],
+    [ "ItemPool", "class_item_pool.html", null ],
+    [ "KColor", "class_k_color.html", null ],
     [ "Level", "class_level.html", null ],
     [ "MusicManager", "class_music_manager.html", null ],
     [ "PathFinder", "class_path_finder.html", null ],
@@ -37,8 +39,8 @@ var hierarchy =
     [ "PlayerTypes::PosVel", "class_player_types_1_1_pos_vel.html", null ],
     [ "ProjectileParams", "class_projectile_params.html", null ],
     [ "RNG", "class_r_n_g.html", null ],
-    [ "RoomConfig::Room", "class_room_config_1_1_room.html", null ],
     [ "Room", "class_room.html", null ],
+    [ "RoomConfig::Room", "class_room_config_1_1_room.html", null ],
     [ "RoomDescriptor", "class_room_descriptor.html", null ],
     [ "Seeds", "class_seeds.html", null ],
     [ "SFXManager", "class_s_f_x_manager.html", null ],

@@ -22,7 +22,7 @@ var searchData=
   ['spawngridindex',['SpawnGridIndex',['../class_entity.html#a916408043e6acf7440083d5ab51c3fa5',1,'Entity']]],
   ['spawnseed',['SpawnSeed',['../class_grid_entity_desc.html#a8e7a847142453f8b6bdfc8ae6488e320',1,'GridEntityDesc::SpawnSeed()'],['../class_room_descriptor.html#a3caa42857cbc65276b3c462f12e9404f',1,'RoomDescriptor::SpawnSeed()']]],
   ['special',['Special',['../class_item_config_1_1_item.html#a31a7e5dad4e17002b371da96642b9e7c',1,'ItemConfig::Item']]],
-  ['splatcolor',['SplatColor',['../class_entity.html#ad1e5f9b4ee7c220867df93986621685a',1,'Entity']]],
+  ['splatcolor',['SplatColor',['../class_entity.html#a429450ed9e2ddcc75769895d1e1b569e',1,'Entity']]],
   ['spread',['Spread',['../class_projectile_params.html#a9e33542197ac70e2f1b17acdc46d26ff',1,'ProjectileParams']]],
   ['sprite',['Sprite',['../class_grid_entity.html#a13430ff774bb52d980e1d124136a71c7',1,'GridEntity']]],
   ['spriteoffset',['SpriteOffset',['../class_entity.html#a7f345daa32411976f370bebfeb76b928',1,'Entity']]],
@@ -35,7 +35,7 @@ var searchData=
   ['sticktarget',['StickTarget',['../class_entity_tear.html#a4a5ca6daf586dc1de852a8edc75f3722',1,'EntityTear']]],
   ['sticktimer',['StickTimer',['../class_entity_tear.html#a7cfd7914adbb43d68b395e69de3ffecd',1,'EntityTear']]],
   ['strength',['Strength',['../class_shockwave_params.html#aae0759741099f8ff4494a0622cf6bc4d',1,'ShockwaveParams']]],
-  ['subtype',['SubType',['../class_entity.html#a31a421e964b8c7033a8717842c242a95',1,'Entity::SubType()'],['../class_room_config_1_1_entry.html#a4345147a45aebc695660240ddd37c9c6',1,'RoomConfig::Entry::Subtype()']]],
+  ['subtype',['Subtype',['../class_room_config_1_1_entry.html#a4345147a45aebc695660240ddd37c9c6',1,'RoomConfig::Entry::Subtype()'],['../class_entity.html#a31a421e964b8c7033a8717842c242a95',1,'Entity::SubType()']]],
   ['sumweights',['SumWeights',['../class_room_config_1_1_spawn.html#a4176b84dec7a73cf01d0e391292a32c4',1,'RoomConfig::Spawn']]],
   ['surpriseminiboss',['SurpriseMiniboss',['../class_room_descriptor.html#a8a4d6b77fd66d07d3f423f8a838ab3a6',1,'RoomDescriptor']]]
 ];

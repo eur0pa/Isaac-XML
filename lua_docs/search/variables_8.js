@@ -12,5 +12,6 @@ var searchData=
   ['isflying',['IsFlying',['../class_item_config_1_1_costume.html#a38ef336e1e1c4f62cce389f1f76ac9e8',1,'ItemConfig::Costume::IsFlying()'],['../class_entity_knife.html#a042fb48c8f2586b1bd1e6e4953c89830',1,'EntityKnife::IsFlying()']]],
   ['isfollowing',['IsFollowing',['../class_entity_effect.html#aa3e57736888e4d4204e0b7c715dbbba5',1,'EntityEffect']]],
   ['isfriendly',['IsFriendly',['../class_entity_ref.html#a3acba8fc1ae19a752e567c4631c7e28d',1,'EntityRef']]],
-  ['item',['Item',['../class_temporary_effect.html#ad71ae0e9928ef2cf5ba67e09bb50fa7e',1,'TemporaryEffect']]]
+  ['item',['Item',['../class_temporary_effect.html#ad71ae0e9928ef2cf5ba67e09bb50fa7e',1,'TemporaryEffect']]],
+  ['itemholdcooldown',['ItemHoldCooldown',['../class_entity_player.html#a7efb37ab01fcf778827bdf22a1ea7f43',1,'EntityPlayer']]]
 ];

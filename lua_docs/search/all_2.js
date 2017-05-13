@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b',['B',['../class_color.html#a2b625cd3df94d1192c6f6aac31fe1f98',1,'Color']]],
+  ['b',['B',['../class_k_color.html#ae4868ee86a56afea2ee7b4dbae6a69ce',1,'KColor']]],
   ['baby_5f0',['BABY_0',['../group__enums.html#ggad65102fdce2fc7b437b3d73d7753e747a4baee483e4962ae7705f1a7416143940',1,'Enums.h']]],
   ['baby_5fapollyon',['BABY_APOLLYON',['../group__enums.html#ggad65102fdce2fc7b437b3d73d7753e747a7192ec5fbcde64ce8a6b4edd771cade3',1,'Enums.h']]],
   ['baby_5fbasic',['BABY_BASIC',['../group__enums.html#ggad65102fdce2fc7b437b3d73d7753e747a8bb3f39bb55db808dc6f702389bb1125',1,'Enums.h']]],
@@ -94,7 +94,7 @@ var searchData=
   ['blue_5fspider',['BLUE_SPIDER',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea8a225aa1bd1709a96624a10c4d03ccc5',1,'Enums.h']]],
   ['bluebabys_5fonly_5ffriend',['BLUEBABYS_ONLY_FRIEND',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea41d09fb8ef3934a894a43565170917e8',1,'Enums.h']]],
   ['bluewombpartime',['BlueWombParTime',['../class_game.html#acc245460949069065ca75cd87bc9496e',1,'Game']]],
-  ['bo',['BO',['../class_color.html#a20cc85ed5c20dca7ed3b1bbb964b3b43',1,'Color']]],
+  ['bo',['BO',['../class_k_color.html#afcbff3e5141636698910999910d9df14',1,'KColor']]],
   ['bobs_5fbrain',['BOBS_BRAIN',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea329a6ddd48d6434553503e0239bbfe95',1,'Enums.h']]],
   ['bobs_5fhead',['BOBS_HEAD',['../group__enums.html#gga1c33a86e6763599e3685d45558207359a66cc23356827c6029a82ef48ef1f51d6',1,'Enums.h']]],
   ['bomb_5fbag',['BOMB_BAG',['../group__enums.html#gga98047d6add3110afcb410e3026264bbeae1ea40f0b006946269810599c61b961a',1,'Enums.h']]],
@@ -116,7 +116,7 @@ var searchData=
   ['bomb_5fsupertroll',['BOMB_SUPERTROLL',['../group__enums.html#ggadf74ad42bd2a6d6963e6d84b54385174acb8c4c0343bbbfdd2a9a1024e6dedc68',1,'Enums.h']]],
   ['bomb_5ftroll',['BOMB_TROLL',['../group__enums.html#ggadf74ad42bd2a6d6963e6d84b54385174add6e59c1e9675006f9dba29443aed3d9',1,'Enums.h']]],
   ['bombdamage',['BombDamage',['../class_game.html#a68ba4f8390d99eb2ebc64c7484fb341d',1,'Game']]],
-  ['bombexplosioneffects',['BombExplosionEffects',['../class_game.html#a2b4e4b79f623bf59e32b1d5342002d15',1,'Game']]],
+  ['bombexplosioneffects',['BombExplosionEffects',['../class_game.html#aafb01ef0e05dafa3750edbe214df6718',1,'Game']]],
   ['bombsubtype',['BombSubType',['../group__enums.html#gaa1b9e505508723c6c42f761b3eec48b6',1,'Enums.h']]],
   ['bombtearflageffects',['BombTearflagEffects',['../class_game.html#ad809b288d39d863d0e54dcce8e48ea6d',1,'Game']]],
   ['bombvariant',['BombVariant',['../class_tear_params.html#a1a5113d42f55d5b4a80b0ed44415ecdb',1,'TearParams::BombVariant()'],['../group__enums.html#gadf74ad42bd2a6d6963e6d84b54385174',1,'BombVariant():&#160;Enums.h']]],
