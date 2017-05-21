@@ -9,7 +9,7 @@ var searchData=
   ['changeflags',['ChangeFlags',['../class_projectile_params.html#a94280d115acf598bf9f751da3f815a8c',1,'ProjectileParams']]],
   ['changetimeout',['ChangeTimeout',['../class_projectile_params.html#a6738cae72bddb5bbc087f215f7f08bd2',1,'ProjectileParams']]],
   ['changevelocity',['ChangeVelocity',['../class_projectile_params.html#a8d480667cf7ba94ee10bbb9dcc008c6f',1,'ProjectileParams']]],
-  ['charge',['Charge',['../class_entity_pickup.html#a311a5258e4ebe78c61af271718527f06',1,'EntityPickup::Charge()'],['../class_entity_knife.html#a5f51d65bf454fee284f5f909073deb05',1,'EntityKnife::Charge()']]],
+  ['charge',['Charge',['../class_queue_item_data.html#a2680699deeb8c55d8c01df2ce6381d34',1,'QueueItemData::Charge()'],['../class_entity_pickup.html#a311a5258e4ebe78c61af271718527f06',1,'EntityPickup::Charge()'],['../class_entity_knife.html#a5f51d65bf454fee284f5f909073deb05',1,'EntityKnife::Charge()']]],
   ['child',['Child',['../class_entity.html#abaf1937b3b90780d22d97c5f35a6647b',1,'Entity']]],
   ['childnpc',['ChildNPC',['../class_entity_n_p_c.html#a606c83e16804aa59433566a59ae62e84',1,'EntityNPC']]],
   ['circleangle',['CircleAngle',['../class_projectile_params.html#a2437dd4201892b6264f85a16629a0667',1,'ProjectileParams']]],

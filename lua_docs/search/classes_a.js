@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['seeds',['Seeds',['../class_seeds.html',1,'']]],
-  ['sfxmanager',['SFXManager',['../class_s_f_x_manager.html',1,'']]],
-  ['shockwaveparams',['ShockwaveParams',['../class_shockwave_params.html',1,'']]],
-  ['spawn',['Spawn',['../class_room_config_1_1_spawn.html',1,'RoomConfig']]],
-  ['sprite',['Sprite',['../class_sprite.html',1,'']]]
+  ['rng',['RNG',['../class_r_n_g.html',1,'']]],
+  ['room',['Room',['../class_room_config_1_1_room.html',1,'RoomConfig']]],
+  ['room',['Room',['../class_room.html',1,'']]],
+  ['roomdescriptor',['RoomDescriptor',['../class_room_descriptor.html',1,'']]]
 ];

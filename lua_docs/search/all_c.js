@@ -39,7 +39,7 @@ var searchData=
   ['little_5fchubby',['LITTLE_CHUBBY',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea6fcd804484ec87d9d74701169bd192ea',1,'Enums.h']]],
   ['little_5fgish',['LITTLE_GISH',['../group__enums.html#gga98047d6add3110afcb410e3026264bbeaf42daf7871d64beb28dcea5587976b8a',1,'Enums.h']]],
   ['little_5fsteven',['LITTLE_STEVEN',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea3f431d2f41ac8c2a9327eda9a08308de',1,'Enums.h']]],
-  ['load',['Load',['../class_sprite.html#af19f1e97acc045158149b0ac5177cc5d',1,'Sprite']]],
+  ['load',['Load',['../class_font.html#aa766ee4ab02a1676884a60ddc7b4c224',1,'Font::Load()'],['../class_sprite.html#af19f1e97acc045158149b0ac5177cc5d',1,'Sprite::Load()']]],
   ['loadgraphics',['LoadGraphics',['../class_sprite.html#a2d48eda74e29b3068a9933059f49c3a8',1,'Sprite']]],
   ['loadmoddata',['LoadModData',['../namespace_isaac.html#a526834c43e9f0dbaec961602e39245a7',1,'Isaac']]],
   ['lockedanimation',['LockedAnimation',['../class_grid_entity_door.html#a9ea54cd4de2d1886f1c941029012fb3c',1,'GridEntityDoor']]],

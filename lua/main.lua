@@ -6,6 +6,9 @@ function RegisterMod(modname, apiversion)
       
       Isaac.AddCallback(self, callbackId, fn, entityId)
     end,
+	RemoveCallback = function(self, callbackId, fn)
+	  Isaac.RemoveCallback(self, callbackId, fn)
+	end,
     SaveData = function(self, data)
       Isaac.SaveModData(self, data)
     end,

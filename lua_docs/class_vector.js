@@ -5,6 +5,7 @@ var class_vector =
     [ "__div", "class_vector.html#a54c5b1dbcf60271904e8a2c3f048905e", null ],
     [ "__mul", "class_vector.html#a2b643076d8716ed9209c1a5a0ff28bb0", null ],
     [ "__sub", "class_vector.html#ae4d5cd132855877a291c8fd0c4fd253b", null ],
+    [ "__unm", "class_vector.html#a561ccfa572255d99ae35bde530a6d4b0", null ],
     [ "Clamp", "class_vector.html#ace103d3040e81c1ac3acf2de0b3cf50b", null ],
     [ "Clamped", "class_vector.html#a813752c55e1bc1187e21c7bc8e4573bf", null ],
     [ "Cross", "class_vector.html#ac7734ac3f82d1af28f63cc4d7283fbbc", null ],

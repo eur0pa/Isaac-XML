@@ -37,7 +37,8 @@ ModCallbacks = {
 	MC_POST_NEW_LEVEL = 18, -- This triggers after new room!
 	MC_POST_NEW_ROOM = 19, 
 	MC_GET_CARD = 20, -- (RNG& rng, integer CurrentCard, bool Playing, bool Runes, bool OnlyRunes) - This is used for Card Pools. Because not all cards have the same chance to spawn, use RNG for seeded random and return your card id (if you don't want to change the current card, return CurrentCard or nil). If desired Playing (can include playing cards), Runes (can include runes), OnlyRunes (only return runes) filter can be used to make your selection.
-	MC_GET_SHADER_PARAMS = 21 -- (string shaderName) - returns a table containing a key -> value pair for custom shader parameters
+	MC_GET_SHADER_PARAMS = 21, -- (string shaderName) - returns a table containing a key -> value pair for custom shader parameters
+	MC_EXECUTE_CMD = 22 -- (string cmd, string params) - returns a string separated by \n (newline) per output line
 }
 
 EntityType = {

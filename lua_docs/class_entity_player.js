@@ -203,6 +203,7 @@ var class_entity_player =
     [ "Luck", "class_entity_player.html#a3e8019f2af95ebe0725ce9a667c03d79", null ],
     [ "MaxFireDelay", "class_entity_player.html#aab893842a6dd2de9fb7cb5ecf0e26952", null ],
     [ "MoveSpeed", "class_entity_player.html#a754dc33235da0b63f2e67046eb0e8316", null ],
+    [ "QueueItem", "class_entity_player.html#af865d67e559460646d1492081ae2d3cd", null ],
     [ "ShotSpeed", "class_entity_player.html#aa251b5962fdc050ad450ea379ea20c06", null ],
     [ "SpriteScale", "class_entity_player.html#a42e544517140136354b9dcd67b8630bb", null ],
     [ "TearColor", "class_entity_player.html#a59614016fc2cc6ceba3a970ed154f722", null ],

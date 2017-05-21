@@ -36,6 +36,7 @@ var searchData=
   ['setlocked',['SetLocked',['../class_grid_entity_door.html#ab4636857bb94dd50306f77b15a76b5c8',1,'GridEntityDoor']]],
   ['setmaxdistance',['SetMaxDistance',['../class_entity_laser.html#a4d8e7efc2c5c1a3fa4d5a4ea133fe961',1,'EntityLaser']]],
   ['setmindamagecooldown',['SetMinDamageCooldown',['../class_entity_player.html#a41293def9c25a744008b6f588ac9de65',1,'EntityPlayer']]],
+  ['setmissingcharacter',['SetMissingCharacter',['../class_font.html#a181393bfadc4c20da27b5f13083f26a4',1,'Font']]],
   ['setmultidimensionaltouched',['SetMultidimensionalTouched',['../class_entity_laser.html#a632875bb8513d6c1e218cbec12341393',1,'EntityLaser']]],
   ['setnextstage',['SetNextStage',['../class_level.html#a5fa4caae1db1e767bbc28a47bfa83a92',1,'Level']]],
   ['setoffset',['SetOffset',['../class_k_color.html#a68d484f6e298d40588e7661d17cebd5b',1,'KColor']]],

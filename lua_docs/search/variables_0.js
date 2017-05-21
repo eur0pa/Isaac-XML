@@ -16,5 +16,6 @@ var searchData=
   ['angle',['Angle',['../class_entity_laser.html#a531e48848abbf79f321d1a78cdc98238',1,'EntityLaser']]],
   ['angledegrees',['AngleDegrees',['../class_entity_laser.html#a7100eed09ecfe3cec73127c24601b8a5',1,'EntityLaser']]],
   ['anm2path',['Anm2Path',['../class_item_config_1_1_costume.html#ae0f6bbcf219251912fd715ef8833340a',1,'ItemConfig::Costume']]],
+  ['autoupdateprice',['AutoUpdatePrice',['../class_entity_pickup.html#a0b6a6ccf3aff6a1bd7cd2db288cb1630',1,'EntityPickup']]],
   ['awardseed',['AwardSeed',['../class_room_descriptor.html#a77b4cc5f1daae7ad6b70b79177bdf7c6',1,'RoomDescriptor']]]
 ];

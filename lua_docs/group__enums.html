@@ -115,7 +115,8 @@ Enumerations</h2></td></tr>
 <a class="el" href="group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a32cf1206a6cf3130aef0970bbc385c46">MC_POST_NEW_ROOM</a> = 19, 
 <br />
 &#160;&#160;<a class="el" href="group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1ab55adfd98a00dee21f98b07328b6d21f">MC_GET_CARD</a> = 20, 
-<a class="el" href="group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a10c85a938bd75259ad64e2bc50332cd8">MC_GET_SHADER_PARAMS</a> = 21
+<a class="el" href="group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a10c85a938bd75259ad64e2bc50332cd8">MC_GET_SHADER_PARAMS</a> = 21, 
+<a class="el" href="group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1af722513005a65dbbc6bc28ef729c3bde">MC_EXECUTE_CMD</a> = 22
 <br />
  }</td></tr>
 <tr class="separator:ga84d8f7ea5c80b37ad1c55b2a97286eb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -5843,6 +5844,9 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="gga84d8f7ea5c80b37ad1c55b2a97286eb1ab55adfd98a00dee21f98b07328b6d21f"></a>MC_GET_CARD&#160;</td><td class="fielddoc"><p>(<a class="el" href="class_r_n_g.html">RNG</a>&amp; rng, integer CurrentCard, bool Playing, bool Runes, bool OnlyRunes) - This is used for Card Pools. Because not all cards have the same chance to spawn, use <a class="el" href="class_r_n_g.html">RNG</a> for seeded random and return your card id (if you don't want to change the current card, return CurrentCard or nil). If desired Playing (can include playing cards), Runes (can include runes), OnlyRunes (only return runes) filter can be used to make your selection. </p>
 </td></tr>
 <tr><td class="fieldname"><a id="gga84d8f7ea5c80b37ad1c55b2a97286eb1a10c85a938bd75259ad64e2bc50332cd8"></a>MC_GET_SHADER_PARAMS&#160;</td><td class="fielddoc"><p>(string shaderName) - returns a table containing a key -&gt; value pair for custom shader parameters </p>
+</td></tr>
+<tr><td class="fieldname"><a id="gga84d8f7ea5c80b37ad1c55b2a97286eb1af722513005a65dbbc6bc28ef729c3bde"></a>MC_EXECUTE_CMD&#160;</td><td class="fielddoc"><p>(string cmd, string params) - returns a string separated by <br />
+ (newline) per output line </p>
 </td></tr>
 </table>
 

@@ -8,6 +8,7 @@ var class_entity_pickup =
     [ "PlayDropSound", "class_entity_pickup.html#a551ebd7460baefc5428915506c2e5a25", null ],
     [ "PlayPickupSound", "class_entity_pickup.html#ac13b0f8f1a6039d109547c5229f554c4", null ],
     [ "TryOpenChest", "class_entity_pickup.html#a04bed13bd1aa4462aa8daa47d9a464a2", null ],
+    [ "AutoUpdatePrice", "class_entity_pickup.html#a0b6a6ccf3aff6a1bd7cd2db288cb1630", null ],
     [ "Charge", "class_entity_pickup.html#a311a5258e4ebe78c61af271718527f06", null ],
     [ "Price", "class_entity_pickup.html#a342aa081c98c409bee38b26a923f161f", null ],
     [ "ShopItemId", "class_entity_pickup.html#a190e958b51a5d220b880f0393f0da384", null ],

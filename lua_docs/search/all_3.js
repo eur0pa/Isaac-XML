@@ -124,7 +124,7 @@ var searchData=
   ['changevariant',['ChangeVariant',['../class_entity_tear.html#ad139684781df68e385eef22885f3549c',1,'EntityTear']]],
   ['changevelocity',['ChangeVelocity',['../class_projectile_params.html#a8d480667cf7ba94ee10bbb9dcc008c6f',1,'ProjectileParams']]],
   ['chaos_5fcard',['CHAOS_CARD',['../group__enums.html#gga1c33a86e6763599e3685d45558207359a0424e97004fb29af2d1b76882ef1e897',1,'Enums.h']]],
-  ['charge',['Charge',['../class_entity_pickup.html#a311a5258e4ebe78c61af271718527f06',1,'EntityPickup::Charge()'],['../class_entity_knife.html#a5f51d65bf454fee284f5f909073deb05',1,'EntityKnife::Charge()']]],
+  ['charge',['Charge',['../class_queue_item_data.html#a2680699deeb8c55d8c01df2ce6381d34',1,'QueueItemData::Charge()'],['../class_entity_pickup.html#a311a5258e4ebe78c61af271718527f06',1,'EntityPickup::Charge()'],['../class_entity_knife.html#a5f51d65bf454fee284f5f909073deb05',1,'EntityKnife::Charge()']]],
   ['charged_5fbaby',['CHARGED_BABY',['../group__enums.html#gga98047d6add3110afcb410e3026264bbea196c248c32846bca541ba340e891fcbf',1,'Enums.h']]],
   ['charmfart',['CharmFart',['../class_game.html#ae36245fdbb0db48912128bd6cfc8f4b5',1,'Game']]],
   ['checkfamiliar',['CheckFamiliar',['../class_entity_player.html#a7a22d3b373a901b1fb61c2624f841c4b',1,'EntityPlayer']]],

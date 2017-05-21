@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['x',['X',['../class_vector.html#a032ed74a5bbffcc0778f74e1ae666feb',1,'Vector::X()'],['../class_room_config_1_1_spawn.html#aeecafe9a574fac2ef5094f1f73330f2c',1,'RoomConfig::Spawn::X()']]]
+  ['wait',['Wait',['../class_entity_pickup.html#a8b71d81bcdb9091edae700e4f7ceba2c',1,'EntityPickup']]],
+  ['waitframes',['WaitFrames',['../class_entity_tear.html#a3a74cf42486e5ed599cfed666c96bdad',1,'EntityTear']]],
+  ['weight',['Weight',['../class_room_config_1_1_entry.html#a61b848a7ed5acb126e1e79f54ffc8caa',1,'RoomConfig::Entry']]],
+  ['wiggleframeoffset',['WiggleFrameOffset',['../class_projectile_params.html#adc5d3b878ff4cd8430b22614413e630b',1,'ProjectileParams']]]
 ];

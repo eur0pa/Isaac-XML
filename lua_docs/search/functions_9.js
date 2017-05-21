@@ -43,7 +43,7 @@ var searchData=
   ['isitemqueueempty',['IsItemQueueEmpty',['../class_entity_player.html#a5dd39863a747c7ce9fab630aee330a97',1,'EntityPlayer']]],
   ['iskeyfamiliartarget',['IsKeyFamiliarTarget',['../class_grid_entity_door.html#ae1315a9c2ed20ea216f298e3e103da91',1,'GridEntityDoor']]],
   ['islayerenabled',['IsLayerEnabled',['../class_music_manager.html#a30884e0dc14e4d762c396dbc63bc8523',1,'MusicManager']]],
-  ['isloaded',['IsLoaded',['../class_sprite.html#a6c60ecb21ce536eb0e63f108527efa43',1,'Sprite']]],
+  ['isloaded',['IsLoaded',['../class_font.html#ab8d461f28cb6b21358b3bcec2c041e00',1,'Font::IsLoaded()'],['../class_sprite.html#a6c60ecb21ce536eb0e63f108527efa43',1,'Sprite::IsLoaded()']]],
   ['islocked',['IsLocked',['../class_grid_entity_door.html#a3531f4059338107c08b3cbaf70a90cbe',1,'GridEntityDoor']]],
   ['islshapedroom',['IsLShapedRoom',['../class_room.html#af607353d334562dc8b0639b805279042',1,'Room']]],
   ['ismousebtnpressed',['IsMouseBtnPressed',['../namespace_input.html#a140ad4eefc73e39f0a8a716b32af2eda',1,'Input']]],

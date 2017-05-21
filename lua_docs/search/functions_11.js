@@ -12,6 +12,7 @@ var searchData=
   ['removeblockingseedeffects',['RemoveBlockingSeedEffects',['../class_seeds.html#a354b3d53659b8e4bf545b619cdead6d7',1,'Seeds']]],
   ['removebluefly',['RemoveBlueFly',['../class_entity_player.html#af505c7af86e11c9a4539b3a2b04e18c7',1,'EntityPlayer']]],
   ['removebluespider',['RemoveBlueSpider',['../class_entity_player.html#ac3ac069fea356711a3e309915befc9ef',1,'EntityPlayer']]],
+  ['removecallback',['RemoveCallback',['../namespace_isaac.html#a17f9443b0356243341a6355ff75a976d',1,'Isaac']]],
   ['removecollectible',['RemoveCollectible',['../class_entity_player.html#a793d95185458d1e5bc45a59a869fef0f',1,'EntityPlayer::RemoveCollectible()'],['../class_item_pool.html#a053ad3020228d18dcf24013a45214cdb',1,'ItemPool::RemoveCollectible()']]],
   ['removecollectibleeffect',['RemoveCollectibleEffect',['../class_temporary_effects.html#a81bf9027bedf498dcaf80577864c388d',1,'TemporaryEffects']]],
   ['removecompasseffect',['RemoveCompassEffect',['../class_level.html#a3dfef5b1ec6eb958f69cc42077c7bb74',1,'Level']]],

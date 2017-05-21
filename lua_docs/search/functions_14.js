@@ -1,6 +1,7 @@
 var searchData=
 [
   ['uncoverhiddendoor',['UncoverHiddenDoor',['../class_level.html#afe994755918787f5977810f677056709',1,'Level']]],
+  ['unload',['Unload',['../class_font.html#a05084fc5ab3ebae635c8fffb61bbafaf',1,'Font']]],
   ['update',['Update',['../class_sprite.html#a63f4f75c1f225debff44ed7ab830213d',1,'Sprite::Update()'],['../class_entity.html#a9ebf5de8adc07d222ca2d5f813e4d6e5',1,'Entity::Update()'],['../class_grid_entity.html#acc61aaa7c5015055ca3f9356e339817f',1,'GridEntity::Update()'],['../class_room.html#a94feecc8bff88cf4d187e6bd9462a880',1,'Room::Update()'],['../class_level.html#a0a3501c065968ca5ee02cf83cb43b0f7',1,'Level::Update()'],['../class_game.html#adfc3c2122f7315583f9cd5450660ea09',1,'Game::Update()']]],
   ['updatecanshoot',['UpdateCanShoot',['../class_entity_player.html#a28fd1993d635f4176e709ca68844f61a',1,'EntityPlayer']]],
   ['updategridindex',['UpdateGridIndex',['../class_path_finder.html#a5457334d2c0471392d275636a1a75758',1,'PathFinder']]],

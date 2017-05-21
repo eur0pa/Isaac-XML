@@ -27,6 +27,7 @@ var annotated_dup =
     [ "MusicManager", "class_music_manager.html", "class_music_manager" ],
     [ "PathFinder", "class_path_finder.html", "class_path_finder" ],
     [ "ProjectileParams", "class_projectile_params.html", "class_projectile_params" ],
+    [ "QueueItemData", "class_queue_item_data.html", "class_queue_item_data" ],
     [ "RNG", "class_r_n_g.html", "class_r_n_g" ],
     [ "Room", "class_room.html", "class_room" ],
     [ "RoomDescriptor", "class_room_descriptor.html", "class_room_descriptor" ],

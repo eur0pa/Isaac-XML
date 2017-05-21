@@ -6,5 +6,6 @@ var searchData=
   ['queryroomtypeindex',['QueryRoomTypeIndex',['../class_level.html#ae1c6c33166a22aa16f625ad7a0ae8566',1,'Level']]],
   ['queue',['Queue',['../class_music_manager.html#ad8eb79ba61251c58ab5531691dd4447d',1,'MusicManager']]],
   ['queueextraanimation',['QueueExtraAnimation',['../class_entity_player.html#a0249c6a386a5fddf3a450433657c9d66',1,'EntityPlayer']]],
-  ['queueitem',['QueueItem',['../class_entity_player.html#a210b6905c3d75e60cf92d8b514f97b05',1,'EntityPlayer']]]
+  ['queueitem',['QueueItem',['../class_entity_player.html#af865d67e559460646d1492081ae2d3cd',1,'EntityPlayer::QueueItem()'],['../class_entity_player.html#a210b6905c3d75e60cf92d8b514f97b05',1,'EntityPlayer::QueueItem(Config::Item Item, integer Charge, boolean Touched)']]],
+  ['queueitemdata',['QueueItemData',['../class_queue_item_data.html',1,'']]]
 ];

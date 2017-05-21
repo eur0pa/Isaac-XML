@@ -17,5 +17,9 @@ var searchData=
   ['donateluck',['DonateLuck',['../class_entity_player.html#abd8a2b2bffda7f52bd41880141326a93',1,'EntityPlayer']]],
   ['dot',['Dot',['../class_vector.html#a1b3a83ea8859a34776e4b5ff4a26cc00',1,'Vector']]],
   ['doziteffect',['DoZitEffect',['../class_entity_player.html#aec10ff0ec645198e1b4cc66807618bd2',1,'EntityPlayer']]],
+  ['drawstring',['DrawString',['../class_font.html#a4c28b228161b317b00a1a46a8615935e',1,'Font']]],
+  ['drawstringscaled',['DrawStringScaled',['../class_font.html#a6f7efa0b7dd66ceaca7a86b963aa6abc',1,'Font']]],
+  ['drawstringscaledutf8',['DrawStringScaledUTF8',['../class_font.html#a371a004bde16a98328380efc41d7f2c0',1,'Font']]],
+  ['drawstringutf8',['DrawStringUTF8',['../class_font.html#aba74e9f89f8c32aeb91b742fe15c5743',1,'Font']]],
   ['droptrinket',['DropTrinket',['../class_entity_player.html#aff53701e111455f344ffda37f942d18c',1,'EntityPlayer']]]
 ];

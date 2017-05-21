@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['y',['Y',['../class_vector.html#a615bb9c2ae14cfd8c7e4d26ee6147deb',1,'Vector::Y()'],['../class_room_config_1_1_spawn.html#a674979e6a64139e403d07b62a171c050',1,'RoomConfig::Spawn::Y()']]]
+  ['x',['X',['../class_vector.html#a032ed74a5bbffcc0778f74e1ae666feb',1,'Vector::X()'],['../class_room_config_1_1_spawn.html#aeecafe9a574fac2ef5094f1f73330f2c',1,'RoomConfig::Spawn::X()']]]
 ];

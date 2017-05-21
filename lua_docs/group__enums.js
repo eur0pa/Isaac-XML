@@ -1697,7 +1697,8 @@ var group__enums =
       [ "MC_POST_NEW_LEVEL", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1aaa15355f9337dddfd644d6b890994cd4", null ],
       [ "MC_POST_NEW_ROOM", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a32cf1206a6cf3130aef0970bbc385c46", null ],
       [ "MC_GET_CARD", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1ab55adfd98a00dee21f98b07328b6d21f", null ],
-      [ "MC_GET_SHADER_PARAMS", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a10c85a938bd75259ad64e2bc50332cd8", null ]
+      [ "MC_GET_SHADER_PARAMS", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1a10c85a938bd75259ad64e2bc50332cd8", null ],
+      [ "MC_EXECUTE_CMD", "group__enums.html#gga84d8f7ea5c80b37ad1c55b2a97286eb1af722513005a65dbbc6bc28ef729c3bde", null ]
     ] ],
     [ "Mouse", "group__enums.html#ga6823a62e33fc2bc26d3dba7283e65cc9", [
       [ "MOUSE_BUTTON_1", "group__enums.html#gga6823a62e33fc2bc26d3dba7283e65cc9a34e69cb83acb2a2367271eea8fb48d87", null ],
